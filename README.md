@@ -12,7 +12,7 @@ The existed blockchain-related academic papers. All papers are sorted according 
 1. [FC](#fc)
 1. [License](#license)
 
-## Paper Marked tag
+## Paper Marked Tag
 1. [General](#general)
 2. [Consensus](#consensus)
   2.1 [Proof-of-Work](#proof-of-work)
