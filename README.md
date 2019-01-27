@@ -7,7 +7,7 @@ The existed blockchain-related academic papers. All papers are sorted according 
 1. [EUROCRYPT](#eurocrypt)
 1. [ACM Conference on Computer and Communications Security(CCS)](#ccs)
 1. [Network and Distributed System Security(NDSS)](#ndss)
-1. [Unix](#unix)
+1. [USENIX](#usenix)
 1. [PODC](#podc)
 1. [ICDCS](#icdcs)
 1. [Financial Cryptography(FC)](#fc) 
@@ -15,9 +15,9 @@ The existed blockchain-related academic papers. All papers are sorted according 
 
 ## Paper Marked Tag
 1. [General](#general)
-2. [Consensus](#consensus)
-  2.1 [Proof-of-Work](#proof-of-work)
-  2.2.[Proof-of-Stake](#stake)
+1. [Consensus](#consensus)
+  1.1 [Proof-of-Work](#proof-of-work)
+  1.2.[Proof-of-Stake](#stake)
 3. [Sidechains, Higher layer and Scalability](#sidechains-higher-layer-and-scalability)
   3.1. [Payment Networks](#payment-networks)
   3.2. [Sidechain](#sidechain)
