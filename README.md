@@ -15,8 +15,8 @@ The existed blockchain-related academic papers. All papers are sorted according 
 
 ## Paper Marked Tag
 1. [General](#general)
-1. [Consensus](#consensus)
-  1.1 [Proof-of-Work](#proof-of-work)
+1. [Consensus](#consensus) ([Proof-of-Work])
+  1.1 [Proof-of-Work]
   1.2.[Proof-of-Stake](#stake)
 3. [Sidechains, Higher layer and Scalability](#sidechains-higher-layer-and-scalability)
   3.1. [Payment Networks](#payment-networks)
@@ -73,13 +73,17 @@ The existed blockchain-related academic papers. All papers are sorted according 
 
 [Economic-Smart Contracts]["Zeus": Analyzing Safety of Smart Contracts](http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2018/02/ndss2018_09-1_Kalra_paper.pdf). Kalra S, Goel S, Dhawan M, Sharma S. NDSS '18.
 
-## UNIX Conference
+## USENIX Security
 [Consesus][Enhancing Bitcoin Security and Performance with Strong Consistency via Collective Signing](https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_kokoris-kogias.pdf). Kogias EK, Jovanovic P, Gailly N, Khoffi I, Gasser L, Ford B. USENIX '16.
 
 [Network][Eclipse Attacks on Bitcoin's Peer-to-Peer Network](https://www.usenix.org/system/files/conference/usenixsecurity15/sec15-paper-heilman.pdf). Heilman E, Kendler A, Zohar A, Goldberg S. USENIX '15.
 
 [Consensus-PoW][Bitcoin-NG: A Scalable Blockchain Protocol](https://www.usenix.org/system/files/conference/nsdi16/nsdi16-paper-eyal.pdf). Eyal I, Gencer AE, Sirer EG, Van Renesse R. USENIX '16.
 
+## ACM Symposium on Principles of Distributed Computing(PODC)
+
+
+## IEEE International Conference on Distributed Computing Systems(ICDCS)
 
 ## Financial Cryptography(FC)
 [Economic-PoW][Majority Is Not Enough: Bitcoin Mining Is Vulnerable](https://arxiv.org/pdf/1311.0243)**. Eyal I, Sirer EG. FC '14.
