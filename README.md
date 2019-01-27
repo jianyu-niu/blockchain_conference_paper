@@ -1,5 +1,5 @@
 # Academic Blockchain Papers
-A curated blockchain-related academic papers. All papers are sorted based on the conference name and publish year. 
+A curated blockchain-related academic papers. All papers are sorted based on the conference name and published year. 
 
 
 ## Table of Listed Conferences
