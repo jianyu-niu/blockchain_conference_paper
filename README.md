@@ -16,7 +16,7 @@ The existed blockchain-related academic papers. All papers are sorted according 
 
 ---
 
-## IEEE Security and Privacy
+## IEEE Security and Privacy（S&P）
 [Privacy][Zerocoin: Anonymous distributed e-cash from bitcoin](http://ieeexplore.ieee.org/iel7/6547086/6547088/06547123.pdf). Miers I, Garman C, Green M, Rubin AD. S&P '13.
 
 [Privacy][Zerocash: Decentralized anonymous payments from bitcoin](http://ieeexplore.ieee.org/iel7/6954656/6956545/06956581.pdf). Sasson EB, Chiesa A, Garman C, Green M, Miers I, Tromer E, Virza M. S&P '14.
