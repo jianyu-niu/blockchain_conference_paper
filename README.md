@@ -3,20 +3,20 @@ The existed blockchain-related academic papers. All papers are sorted according 
 
 
 ## Table of Listed Conference
-1. [IEEE Security&Privacy](#sp)
-1. [EUROCRYPT](#eurocrypt)
-1. [ACM Conference on Computer and Communications Security(CCS)](#ccs)
-1. [Network and Distributed System Security(NDSS)](#ndss)
-1. [USENIX Security](#usenix-security)
-1. [ACM Symposium on Principles of Distributed Computing(PODC)](#podc)
-1. [IEEE International Conference on Distributed Computing Systems(ICDCS)](#icdcs)
-1. [Financial Cryptography(FC)](#financial-cryptography(FC)) 
-1. [License](#license)
+-[IEEE Security and Privacy(S&P)](#ieee-security-and-privacy(S&P))
+-[EUROCRYPT](#eurocrypt)
+-[ACM Conference on Computer and Communications Security(CCS)](#ccs)
+-[Network and Distributed System Security(NDSS)](#ndss)
+-[USENIX Security](#usenix-security)
+-[ACM Symposium on Principles of Distributed Computing(PODC)](#podc)
+-[IEEE International Conference on Distributed Computing Systems(ICDCS)](#icdcs)
+-[Financial Cryptography(FC)](#financial-cryptography(FC)) 
+-[License](#license)
 
 
 ---
 
-## IEEE Security&Privacy
+## IEEE Security and Privacy(S&P)
 [Privacy][Zerocoin: Anonymous distributed e-cash from bitcoin](http://ieeexplore.ieee.org/iel7/6547086/6547088/06547123.pdf). Miers I, Garman C, Green M, Rubin AD. S&P '13.
 
 [Privacy][Zerocash: Decentralized anonymous payments from bitcoin](http://ieeexplore.ieee.org/iel7/6954656/6956545/06956581.pdf). Sasson EB, Chiesa A, Garman C, Green M, Miers I, Tromer E, Virza M. S&P '14.
