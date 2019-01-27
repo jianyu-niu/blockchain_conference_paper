@@ -13,16 +13,7 @@ The existed blockchain-related academic papers. All papers are sorted according 
 1. [Financial Cryptography(FC)](#fc) 
 1. [License](#license)
 
-## Paper Marked Tag
-1. [General](#general)
-1. [Consensus](#consensus) (Proof-of-Work, Proof-of-Stake, Proof-of-X, Byzantine)
-1. [Sidechains, Higher layer and Scalability](#sidechains-higher-layer-and-scalability)(Payment Networks, Sidechain, Sharding, Crosschian)
-1. [Network](#network)
-1. [Privacy](#privacy)
-1. [Security](#security)
-1. [Economics](#economics)
-1. [Smart Contracts](#smart-contracts)
-1. [Applications](#applications)
+
 ---
 
 ## IEEE Security&Privacy(S&P)
