@@ -3,7 +3,7 @@ A curated blockchain-related academic papers. All papers are sorted based on the
 
 
 ## Table of Listed Conferences
-- [Crypto](#crypto)
+- [CRYPTO](#crypto)
 - [EUROCRYPT](#eurocrypt)
 - [USENIX Security](#usenix-security)
 - [IEEE Security and Privacy(S&P)](#ieee-security-and-privacysp)
@@ -25,7 +25,7 @@ A curated blockchain-related academic papers. All papers are sorted based on the
 1. [Smart Contracts](#smart-contracts)
 1. [Applications](#applications)
 ---
-## Crypto
+## CRYPTO
 [Consensus-PoS] [Ouroboros Praos: An adaptively-secure, semi-synchronous proof-of-stake protocol](http://eprint.iacr.org/2017/573.pdf). Bernardo D, Gazi P, Kiayias A, Russell A. Crypto '17.
 
 ## EUROCRYPT
