@@ -43,7 +43,7 @@ A curated blockchain-related academic papers. All papers are sorted based on the
 
 [Consensus-PoW] [Analysis of the Blockchain Protocol in Asynchronous Networks](https://eprint.iacr.org/2016/454.pdf). Pass R, Seeman L, shelat a. EUROCRYPT '17
 
-## Crypro
+## Crypto
 [Consensus-PoS] [Ouroboros Praos: An adaptively-secure, semi-synchronous proof-of-stake protocol](http://eprint.iacr.org/2017/573.pdf). Bernardo D, Gazi P, Kiayias A, Russell A. Crypto '17.
 
 ## ACM Conference on Computer and Communications Security (CCS)
