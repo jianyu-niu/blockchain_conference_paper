@@ -7,9 +7,9 @@ The existed blockchain-related academic papers. All papers are sorted according 
 1. [EUROCRYPT](#eurocrypt)
 1. [ACM Conference on Computer and Communications Security(CCS)](#ccs)
 1. [Network and Distributed System Security(NDSS)](#ndss)
-1. [USENIX](#usenix)
-1. [PODC](#podc)
-1. [ICDCS](#icdcs)
+1. [USENIX Security](#usenix)
+1. [ACM Symposium on Principles of Distributed Computing(PODC)](#podc)
+1. [IEEE International Conference on Distributed Computing Systems(ICDCS)](#icdcs)
 1. [Financial Cryptography(FC)](#fc) 
 1. [License](#license)
 
