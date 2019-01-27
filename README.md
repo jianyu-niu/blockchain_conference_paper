@@ -3,15 +3,15 @@ A curated blockchain-related academic papers. All papers are sorted based on the
 
 
 ## Table of Listed Conferences
-- [IEEE Security and Privacy(S&P)](#ieee-security-and-privacysp)
-- [EUROCRYPT](#eurocrypt)
 - [Crypto](#crypto)
-- [ACM Conference on Computer and Communications Security(CCS)](#acm-conference-on-computer-and-communications-security-ccs)
-- [Network and Distributed System Security(NDSS)](#network-and-distributed-system-security-ndss)
+- [EUROCRYPT](#eurocrypt)
 - [USENIX Security](#usenix-security)
+- [IEEE Security and Privacy(S&P)](#ieee-security-and-privacysp)
+- [Network and Distributed System Security(NDSS)](#network-and-distributed-system-security-ndss)
+- [ACM Conference on Computer and Communications Security(CCS)](#acm-conference-on-computer-and-communications-security-ccs)
 - [ACM Symposium on Principles of Distributed Computing(PODC)](#acm-symposium-on-principles-of-distributed-computing-podc)
-- [IEEE International Conference on Distributed Computing Systems(ICDCS)](#ieee-international-conference-on-distributed-computing-systems-icdcs)
 - [IEEE International Conference on Computer Communications(INFOCOM)](#ieee-international-conference-on-computer-communicationsinfocom)
+- [IEEE International Conference on Distributed Computing Systems(ICDCS)](#ieee-international-conference-on-distributed-computing-systems-icdcs)
 - [Financial Cryptography(FC)](#financial-cryptography-fc) 
 - [License](#license)
 
@@ -25,6 +25,20 @@ A curated blockchain-related academic papers. All papers are sorted based on the
 1. [Smart Contracts](#smart-contracts)
 1. [Applications](#applications)
 ---
+## Crypto
+[Consensus-PoS] [Ouroboros Praos: An adaptively-secure, semi-synchronous proof-of-stake protocol](http://eprint.iacr.org/2017/573.pdf). Bernardo D, Gazi P, Kiayias A, Russell A. Crypto '17.
+
+## EUROCRYPT
+[Consensus-PoW] [The Bitcoin Backbone Protocol: Analysis and Applications](https://eprint.iacr.org/2014/765.pdf). Garay J, Kiayias A, Leonardos N. EUROCRYPT '15.
+
+[Consensus-PoW] [Analysis of the Blockchain Protocol in Asynchronous Networks](https://eprint.iacr.org/2016/454.pdf). Pass R, Seeman L, shelat a. EUROCRYPT '17
+
+## USENIX Security
+[Network] [Eclipse Attacks on Bitcoin's Peer-to-Peer Network](https://www.usenix.org/system/files/conference/usenixsecurity15/sec15-paper-heilman.pdf). Heilman E, Kendler A, Zohar A, Goldberg S. USENIX '15.
+
+[Consesus] [Enhancing Bitcoin Security and Performance with Strong Consistency via Collective Signing](https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_kokoris-kogias.pdf). Kogias EK, Jovanovic P, Gailly N, Khoffi I, Gasser L, Ford B. USENIX '16.
+
+[Consensus-PoW] [Bitcoin-NG: A Scalable Blockchain Protocol](https://www.usenix.org/system/files/conference/nsdi16/nsdi16-paper-eyal.pdf). Eyal I, Gencer AE, Sirer EG, Van Renesse R. USENIX '16.
 
 ## IEEE Security and Privacy（S&P）
 [Privacy] [Zerocoin: Anonymous distributed e-cash from bitcoin](http://ieeexplore.ieee.org/iel7/6547086/6547088/06547123.pdf). Miers I, Garman C, Green M, Rubin AD. S&P '13.
@@ -39,13 +53,8 @@ A curated blockchain-related academic papers. All papers are sorted based on the
 
 [Payment Networks] [Perun: Virtual payment hubs over cryptocurrencies](https://eprint.iacr.org/2017/635.pdf) Dziembowski S, Eckey L, Faust S, Malinowski D. IEEE S&P '19.
 
-## EUROCRYPT
-[Consensus-PoW] [The Bitcoin Backbone Protocol: Analysis and Applications](https://eprint.iacr.org/2014/765.pdf). Garay J, Kiayias A, Leonardos N. EUROCRYPT '15.
-
-[Consensus-PoW] [Analysis of the Blockchain Protocol in Asynchronous Networks](https://eprint.iacr.org/2016/454.pdf). Pass R, Seeman L, shelat a. EUROCRYPT '17
-
-## Crypto
-[Consensus-PoS] [Ouroboros Praos: An adaptively-secure, semi-synchronous proof-of-stake protocol](http://eprint.iacr.org/2017/573.pdf). Bernardo D, Gazi P, Kiayias A, Russell A. Crypto '17.
+## Network and Distributed System Security (NDSS) 
+[Economic-Smart Contracts] ["Zeus": Analyzing Safety of Smart Contracts](http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2018/02/ndss2018_09-1_Kalra_paper.pdf). Kalra S, Goel S, Dhawan M, Sharma S. NDSS '18.
 
 ## ACM Conference on Computer and Communications Security (CCS)
 [Privacy] [Deanonymisation of Clients in Bitcoin P2P Network](https://arxiv.org/pdf/1405.7418.pdf). Biryukov A, Khovratovich D, Pustogarov I. CCS '14.
@@ -66,22 +75,17 @@ A curated blockchain-related academic papers. All papers are sorted based on the
 
 [Payment Networks] [General State Channel Networks](https://eprint.iacr.org/2018/320.pdf) Dziembowski S, Faust S, Hostáková K. CCS '18.
 
-## Network and Distributed System Security (NDSS) 
-[Economic-Smart Contracts] ["Zeus": Analyzing Safety of Smart Contracts](http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2018/02/ndss2018_09-1_Kalra_paper.pdf). Kalra S, Goel S, Dhawan M, Sharma S. NDSS '18.
-
-## USENIX Security
-[Network] [Eclipse Attacks on Bitcoin's Peer-to-Peer Network](https://www.usenix.org/system/files/conference/usenixsecurity15/sec15-paper-heilman.pdf). Heilman E, Kendler A, Zohar A, Goldberg S. USENIX '15.
-
-[Consesus] [Enhancing Bitcoin Security and Performance with Strong Consistency via Collective Signing](https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_kokoris-kogias.pdf). Kogias EK, Jovanovic P, Gailly N, Khoffi I, Gasser L, Ford B. USENIX '16.
-
-[Consensus-PoW] [Bitcoin-NG: A Scalable Blockchain Protocol](https://www.usenix.org/system/files/conference/nsdi16/nsdi16-paper-eyal.pdf). Eyal I, Gencer AE, Sirer EG, Van Renesse R. USENIX '16.
-
 ## ACM Symposium on Principles of Distributed Computing (PODC)
 [Consensus-PoW] [FruitChains: A Fair Blockchain](https://eprint.iacr.org/2016/916.pdf).Rafael Pass, Elaine Shi. PODC'17
 
 [Sidechain] [Atomic Cross-Chain Swaps](https://arxiv.org/abs/1801.09515). Maurice Herlihy. PODC'18
 
 [Consessus] [Brief Announcement: Sustainable Blockchains through Proof of eXercise](https://haslab.uminho.pt/ashoker/files/pox-podc.pdf). Ali Shoker. PODC'18
+
+## IEEE International Conference on Computer Communications(INFOCOM)
+[Network][Stochastic Models and Wide-Area Network Measurements for Blockchain Design and Analysis](https://www.researchgate.net/publication/321369565_Stochastic_Models_and_Wide-Area_Network_Measurements_for_Blockchain_Design_and_Analysis). Nikolaos Papadis, Sem Borst, Anwar Walid, Mohamed Grissa, Leandros Tassiulas. INFOCOM'18
+
+[Transaction][Understanding ethereum via graph analysis](https://www4.comp.polyu.edu.hk/~csxluo/EthereumGraphAnalysis.pdf). Ting Chen,Yuxiao Zhu, Zihao Li, Jiachi Chen, Xiaoqi Li, Xiapu Luo, Xiaodong Lin, Xiaodong Lin. INFOCOM'18
 
 ## IEEE International Conference on Distributed Computing Systems (ICDCS)
 [Application] [Transform Blockchain into Distributed Parallel Computing Architecture for Precision Medicine]().Zonyin Shae, Jeffrey J.P. Tsai. ICDCS'18
@@ -91,11 +95,6 @@ A curated blockchain-related academic papers. All papers are sorted based on the
 [Privacy] [Short Paper][A Flexible Network Approach to Privacy of Blockchain Transactions](). David M¨odinger, Henning Kopp, Frank Kargl and Franz J. Hauck. ICDCS'18
 
 [Consesus] [Short Paper][Towards Dependable, Scalable, and Pervasive Distributed Ledgers with Blockchains](). Zhang Kaiwen, Jacobsen Hans-Arno.ICDCS'18
-
-## IEEE International Conference on Computer Communications(INFOCOM)
-[Network][Stochastic Models and Wide-Area Network Measurements for Blockchain Design and Analysis](https://www.researchgate.net/publication/321369565_Stochastic_Models_and_Wide-Area_Network_Measurements_for_Blockchain_Design_and_Analysis). Nikolaos Papadis, Sem Borst, Anwar Walid, Mohamed Grissa, Leandros Tassiulas. INFOCOM'18
-
-[Transaction][Understanding ethereum via graph analysis](https://www4.comp.polyu.edu.hk/~csxluo/EthereumGraphAnalysis.pdf). Ting Chen,Yuxiao Zhu, Zihao Li, Jiachi Chen, Xiaoqi Li, Xiapu Luo, Xiaodong Lin, Xiaodong Lin. INFOCOM'18
 
 ## Financial Cryptography (FC)
 [Economic-PoW] [Majority Is Not Enough: Bitcoin Mining Is Vulnerable](https://arxiv.org/pdf/1311.0243). Eyal I, Sirer EG. FC '14.
