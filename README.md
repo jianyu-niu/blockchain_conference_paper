@@ -3,7 +3,7 @@ The existed blockchain-related academic papers. All papers are sorted according 
 
 
 ## Table of Listed Conference
-1. [IEEE Security&Privacy(S&P)](#sp)
+1. [IEEE Security&Privacy](#sp)
 1. [EUROCRYPT](#eurocrypt)
 1. [ACM Conference on Computer and Communications Security(CCS)](#ccs)
 1. [Network and Distributed System Security(NDSS)](#ndss)
