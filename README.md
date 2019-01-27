@@ -10,7 +10,7 @@ The existed blockchain-related academic papers. All papers are sorted according 
 1. [USENIX Security](#usenix)
 1. [ACM Symposium on Principles of Distributed Computing(PODC)](#podc)
 1. [IEEE International Conference on Distributed Computing Systems(ICDCS)](#icdcs)
-1. [Financial Cryptography(FC)](#fc) 
+1. [Financial Cryptography(FC)](#financial-cryptography(FC)) 
 1. [License](#license)
 
 
