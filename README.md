@@ -3,7 +3,7 @@ A curated blockchain-related academic papers. All papers are sorted based on the
 
 
 ## Table of Listed Conferences
-- [IEEE Security and Privacy](#ieee-security-and-privacysp)
+- [IEEE Security and Privacy(S&P)](#ieee-security-and-privacy-sp)
 - [EUROCRYPT](#eurocrypt)
 - [Crypto](#crypto)
 - [ACM Conference on Computer and Communications Security(CCS)](#acm-conference-on-computer-and-communications-security-ccs)
