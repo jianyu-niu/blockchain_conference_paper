@@ -3,15 +3,15 @@ The existed blockchain-related academic papers. All papers are sorted according 
 
 
 ## Table of Listed Conference
--[IEEE Security and Privacy(S&P)](#ieee-security-and-privacy(S&P))
--[EUROCRYPT](#eurocrypt)
--[ACM Conference on Computer and Communications Security(CCS)](#ccs)
--[Network and Distributed System Security(NDSS)](#ndss)
--[USENIX Security](#usenix-security)
--[ACM Symposium on Principles of Distributed Computing(PODC)](#podc)
--[IEEE International Conference on Distributed Computing Systems(ICDCS)](#icdcs)
--[Financial Cryptography(FC)](#financial-cryptography(FC)) 
--[License](#license)
+- [IEEE Security and Privacy(S&P)](#ieee-security-and-privacy(S&P))
+- [EUROCRYPT](#eurocrypt)
+- [ACM Conference on Computer and Communications Security(CCS)](#ccs)
+- [Network and Distributed System Security(NDSS)](#ndss)
+- [USENIX Security](#usenix-security)
+- [ACM Symposium on Principles of Distributed Computing(PODC)](#podc)
+- [IEEE International Conference on Distributed Computing Systems(ICDCS)](#icdcs)
+- [Financial Cryptography(FC)](#financial-cryptography(FC)) 
+- [License](#license)
 
 
 ---
