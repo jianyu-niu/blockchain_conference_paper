@@ -9,6 +9,7 @@ A curated blockchain-related academic papers. All papers are sorted based on the
 - [IEEE Security and Privacy(S&P)](#ieee-security-and-privacysp)
 - [Network and Distributed System Security(NDSS)](#network-and-distributed-system-security-ndss)
 - [ACM Conference on Computer and Communications Security(CCS)](#acm-conference-on-computer-and-communications-security-ccs)
+- [USENIX Symposium on Networked Systems Design and Implementation(NDSI)](#)
 - [ACM Symposium on Principles of Distributed Computing(PODC)](#acm-symposium-on-principles-of-distributed-computing-podc)
 - [IEEE International Conference on Computer Communications(INFOCOM)](#ieee-international-conference-on-computer-communicationsinfocom)
 - [IEEE International Conference on Distributed Computing Systems(ICDCS)](#ieee-international-conference-on-distributed-computing-systems-icdcs)
@@ -74,6 +75,10 @@ A curated blockchain-related academic papers. All papers are sorted based on the
 [Payment Networks] [Revive: Rebalancing Off-Blockchain Payment Networks](https://eprint.iacr.org/2017/823.pdf). Khalil, R., & Gervais, A. CCS '17.
 
 [Payment Networks] [General State Channel Networks](https://eprint.iacr.org/2018/320.pdf) Dziembowski S, Faust S, Hostáková K. CCS '18.
+
+## USENIX Symposium on Networked Systems Design and Implementation(NDSI)
+
+[Consensus][Monoxide: Scale Out Blockchain with Asynchronized Consensus Zones](). Jiaping Wang, Hao Wang. NSDI'19
 
 ## ACM Symposium on Principles of Distributed Computing (PODC)
 [Consensus-PoW] [FruitChains: A Fair Blockchain](https://eprint.iacr.org/2016/916.pdf).Rafael Pass, Elaine Shi. PODC'17
