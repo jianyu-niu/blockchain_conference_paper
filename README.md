@@ -6,12 +6,12 @@ A curated blockchain-related academic papers. All papers are sorted based on the
 - [IEEE Security and Privacy](#ieee-security-and-privacysp)
 - [EUROCRYPT](#eurocrypt)
 - [Crypto](#crypto)
-- [ACM Conference on Computer and Communications Security(CCS)](#acm-conference-on-computer-and-communications-securityccs)
-- [Network and Distributed System Security(NDSS)](#network-and-distributed-system-securityndss)
+- [ACM Conference on Computer and Communications Security(CCS)](#acm-conference-on-computer-and-communications-security-ccs)
+- [Network and Distributed System Security(NDSS)](#network-and-distributed-system-security-ndss)
 - [USENIX Security](#usenix-security)
-- [ACM Symposium on Principles of Distributed Computing(PODC)](#acm-symposium-on-principles-of-distributed-computingpodc)
-- [IEEE International Conference on Distributed Computing Systems(ICDCS)](#ieee-international-conference-on-distributed-computing-systemsicdcs)
-- [Financial Cryptography(FC)](#financial-cryptographyfc) 
+- [ACM Symposium on Principles of Distributed Computing(PODC)](#acm-symposium-on-principles-of-distributed-computing-podc)
+- [IEEE International Conference on Distributed Computing Systems(ICDCS)](#ieee-international-conference-on-distributed-computing-systems-icdcs)
+- [Financial Cryptography(FC)](#financial-cryptography-fc) 
 - [License](#license)
 
 ## Marked Tag
