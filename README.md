@@ -67,6 +67,8 @@ A curated blockchain-related academic papers. All papers are sorted based on the
 [Economic-Smart Contracts] ["Zeus": Analyzing Safety of Smart Contracts](http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2018/02/ndss2018_09-1_Kalra_paper.pdf). Kalra S, Goel S, Dhawan M, Sharma S. NDSS '18.
 
 ## ACM Conference on Computer and Communications Security (CCS)
+[Consesus-PoW-Mining][Double-Spending Fast Payments in Bitcoin](). Karame, Ghassan O. and Androulaki, Elli and Capkun, Srdjan. CCS '12.
+
 [Privacy] [Deanonymisation of Clients in Bitcoin P2P Network](https://arxiv.org/pdf/1405.7418.pdf). Biryukov A, Khovratovich D, Pustogarov I. CCS '14.
 
 [Provisions: Privacy-preserving proofs of solvency for Bitcoin exchanges](https://eprint.iacr.org/2015/1008.pdf). Dagher GG, Bünz B, Bonneau J, Clark J, Boneh D. CCS '15
