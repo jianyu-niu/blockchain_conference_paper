@@ -16,6 +16,7 @@ A curated blockchain-related academic papers. All papers are sorted based on the
 - [License](#license)
 
 ## Marked Tag
+1. [System Design](#system)
 1. [Consensus](#consensus) (Proof-of-Work, Proof-of-Stake, Proof-of-X, Byzantine)
 1. [Sidechains, Higher layer and Scalability](#sidechains-higher-layer-and-scalability)(Payment Networks, Sidechain, Sharding, Crosschian)
 1. [Network](#network)
@@ -44,7 +45,7 @@ A curated blockchain-related academic papers. All papers are sorted based on the
 
 [Mining][REM: Resource-Efficient Mining for Blockchains](https://eprint.iacr.org/2017/179). Fan Zhang and Ittay Eyal and Robert Escriva and Ari Juels and Robbert van Renesse. USENIX '17.
 
-[Consensus][Monoxide: Scale Out Blockchain with Asynchronized Consensus Zones](). Jiaping Wang, Hao Wang. NSDI'19
+[System][Monoxide: Scale Out Blockchain with Asynchronized Consensus Zones](). Jiaping Wang, Hao Wang. NSDI'19
 
 ## IEEE Security and Privacy（S&P）
 [Privacy] [Zerocoin: Anonymous distributed e-cash from bitcoin](http://ieeexplore.ieee.org/iel7/6547086/6547088/06547123.pdf). Miers I, Garman C, Green M, Rubin AD. S&P '13.
