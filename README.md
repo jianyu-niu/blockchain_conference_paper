@@ -5,7 +5,7 @@ A curated blockchain-related academic papers. All papers are sorted based on the
 ## Table of Listed Conferences
 - [CRYPTO](#crypto)
 - [EUROCRYPT](#eurocrypt)
-- [USENIX Security](#usenix-security)
+- [USENIX Security(USENIX NSDI)](#usenix-security)
 - [IEEE Security and Privacy(S&P)](#ieee-security-and-privacy-sp)
 - [Network and Distributed System Security(NDSS)](#ndss)
 - [ACM Symposium on Principles of Distributed Computing(PODC)](#acm-symposium-on-principles-of-distributed-computing-podc)
