@@ -12,8 +12,7 @@ A curated blockchain-related academic papers. All papers are sorted based on the
 - [ACM Conference on Computer and Communications Security(CCS)](#acm-conference-on-computer-and-communications-security-ccs)
 - [IEEE International Conference on Computer Communications(INFOCOM)](#ieee-international-conference-on-computer-communicationsinfocom)
 - [IEEE International Conference on Distributed Computing Systems(ICDCS)](#ieee-international-conference-on-distributed-computing-systems-icdcs)
-- [Conference on emerging Networking EXperiments and Technologies(CoNEXT)](#conext)
-
+- [ACM Conference on emerging Networking EXperiments and Technologies(CoNEXT)](#conference-on-emerging-networking-eXperiments-and-technologies-CoNEXT)
 - [Financial Cryptography(FC)](#financial-cryptography-fc) 
 - [License](#license)
 
@@ -123,7 +122,10 @@ A curated blockchain-related academic papers. All papers are sorted based on the
 
 [Privacy] [Short Paper][A Flexible Network Approach to Privacy of Blockchain Transactions](). David M¨odinger, Henning Kopp, Frank Kargl and Franz J. Hauck. ICDCS'18
 
-[Consesus] [Short Paper][Towards Dependable, Scalable, and Pervasive Distributed Ledgers with Blockchains](). Zhang Kaiwen, Jacobsen Hans-Arno.ICDCS'18
+[Consensus] [Short Paper][Towards Dependable, Scalable, and Pervasive Distributed Ledgers with Blockchains](). Zhang Kaiwen, Jacobsen Hans-Arno.ICDCS'18
+
+## ACM Conference on emerging Networking EXperiments and Technologies(CoNEXT)
+[Consensus-PoW] [On the Necessity of a Prescribed Block Validity Consensus: Analyzing Bitcoin Unlimited Mining Protocol](https://eprint.iacr.org/2017/686.pdf). Ren Zhang, Bart Preneel. CoNEXT '17
 
 ## Financial Cryptography (FC)
 [Economic-PoW] [Majority Is Not Enough: Bitcoin Mining Is Vulnerable](https://arxiv.org/pdf/1311.0243). Eyal I, Sirer EG. FC '14.
