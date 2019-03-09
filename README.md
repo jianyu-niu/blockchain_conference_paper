@@ -12,7 +12,7 @@ A curated blockchain-related academic papers. All papers are sorted based on the
 - [ACM Conference on Computer and Communications Security(CCS)](#acm-conference-on-computer-and-communications-security-ccs)
 - [IEEE International Conference on Computer Communications(INFOCOM)](#ieee-international-conference-on-computer-communicationsinfocom)
 - [IEEE International Conference on Distributed Computing Systems(ICDCS)](#ieee-international-conference-on-distributed-computing-systems-icdcs)
-- [ACM Conference on emerging Networking EXperiments and Technologies(CoNEXT)](#conference-on-emerging-networking-eXperiments-and-technologies-CoNEXT)
+- [ACM Conference on emerging Networking EXperiments and Technologies(CoNEXT)](#acm-conference-on-emerging-networking-experiments-and-technologiesconext)
 - [Financial Cryptography(FC)](#financial-cryptography-fc) 
 - [License](#license)
 
