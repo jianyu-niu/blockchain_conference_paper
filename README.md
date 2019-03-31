@@ -6,8 +6,8 @@ A curated blockchain-related academic papers. All papers are sorted based on the
 - [CRYPTO](#crypto)
 - [EUROCRYPT](#eurocrypt)
 - [IEEE Security and Privacy(S&P)](#ieee-security-and-privacysp)
-- [USENIX Security(USENIX NSDI)](#usenix-security)
-- [Network and Distributed System Security(NDSS)](#ndss)
+- [USENIX Security(USENIX NSDI)](#usenix-security-usenix-nsdi)
+- [Network and Distributed System Security(NDSS)](#network-and-distributed-system-security-ndss)
 - [ACM Symposium on Principles of Distributed Computing(PODC)](#acm-symposium-on-principles-of-distributed-computing-podc)
 - [ACM Conference on Computer and Communications Security(CCS)](#acm-conference-on-computer-and-communications-security-ccs)
 - [IEEE International Conference on Computer Communications(INFOCOM)](#ieee-international-conference-on-computer-communicationsinfocom)
@@ -65,7 +65,6 @@ Key Words: System Design, Consensus(Proof-of-Work, Proof-of-Stake, Proof-of-X, B
 [System Design][Chainspace: A Sharded Smart Contracts Platform](https://sheharbano.com/assets/publications/ndss2018-chainspace.pdf). Mustafa Al-Bassam, Alberto Sonnino, Shehar Bano, Dave Hrycyszyn, and George Danezis. NDSS '18.
 
 [off-chain][Settling Payments Fast and Private: Efficient Decentralized Routing for Path-Based Transactions](https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_09-3_Roos_paper.pdf). Stefanie Roos, Pedro Moreno-Sanchez, Aniket Kate, and Ian Goldberg. NDSS '18.
-
 
 [Cryptograph][Fine-Grained and Controlled Rewriting in Blockchains: Chameleon-Hashing Gone Attribute-Based](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_02A-3_Derler_paper.pdf). David Derler, Kai Samelin, Daniel Slamanig and Christoph Striecks. NDSS '19.
 
