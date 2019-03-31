@@ -16,8 +16,7 @@ A curated blockchain-related academic papers. All papers are sorted based on the
 - [Financial Cryptography(FC)](#financial-cryptography-fc) 
 - [License](#license)
 
-Key Words:
-System Design; Consensus(Proof-of-Work, Proof-of-Stake, Proof-of-X, BFT); Off-chain Design(Payment Networks, Sidechain); Crosschain; P2P Network; Privacy Issue; Security; Economics; Smart Contracts; Applications
+Key Words: System Design, Consensus(Proof-of-Work, Proof-of-Stake, Proof-of-X, BFT), Off-chain Design(Payment Networks, Sidechain), Crosschain, P2P Network, Privacy Issue, Security, Economics, Smart Contracts, Applications. 
 
 
 ## CRYPTO
