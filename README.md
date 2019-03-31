@@ -16,7 +16,7 @@ A curated blockchain-related academic papers. All papers are sorted based on the
 - [Financial Cryptography(FC)](#financial-cryptography-fc) 
 - [License](#license)
 
-Key Words: System Design, Consensus(Proof-of-Work, Proof-of-Stake, Proof-of-X, BFT), Off-chain Design(Payment Networks, Sidechain), Crosschain, P2P Network, Privacy Issue, Security, Economics, Smart Contracts, Applications. 
+Key Words: System Design, Consensus(Proof-of-Work, Proof-of-Stake, Proof-of-X, BFT), Off-chain Design(Payment Networks, Sidechain), Crosschain, P2P Network, Privacy Issue, Security, Economics, Smart Contracts, Applications, Cryptograph. 
 
 
 ## CRYPTO
@@ -62,6 +62,17 @@ Key Words: System Design, Consensus(Proof-of-Work, Proof-of-Stake, Proof-of-X, B
 
 ## Network and Distributed System Security (NDSS) 
 [Economic-Smart Contracts] ["Zeus": Analyzing Safety of Smart Contracts](http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2018/02/ndss2018_09-1_Kalra_paper.pdf). Kalra S, Goel S, Dhawan M, Sharma S. NDSS '18.
+
+[Cryptograph][Fine-Grained and Controlled Rewriting in Blockchains: Chameleon-Hashing Gone Attribute-Based](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_02A-3_Derler_paper.pdf). David Derler, Kai Samelin, Daniel Slamanig and Christoph Striecks. NDSS '19.
+
+[Smart Contract][YODA: Enabling computationally intensive contracts on blockchains with Byzantine and Selfish nodes](https://arxiv.org/pdf/1811.03265.pdf). Sourav Das, Vinay Joseph Ribeiro, and Abhijeet Anand. NDSS '19.
+
+[off-Chain][Privacy-preserving Multi-hop Locks for Blockchain Scalability and Interoperability](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_09-4_Malavolta_paper.pdf). Giulio Malavolta, Pedro Moreno Sanchez, Clara Schneidewind and Matteo Maffei, Aniket Kate. NDSS '19.
+
+[Network][SABRE: Protecting Bitcoin against Routing Attacks](https://arxiv.org/pdf/1808.06254.pdf). Maria Apostolaki, Gian Marti, Jan Müller, and Laurent Vanbever. NDSS '19.
+
+[Smart Contract][Seth: Protecting Existing Smart Contracts Against Re-Entrancy Attacks](https://arxiv.org/pdf/1812.05934.pdf). Michael Rodler, Wenting Li and Ghassan Karame, Lucas Davi. NDSS '19.
+
 
 ## ACM Symposium on Principles of Distributed Computing (PODC)
 [Consensus-PoW] [FruitChains: A Fair Blockchain](https://eprint.iacr.org/2016/916.pdf).Rafael Pass, Elaine Shi. PODC'17
