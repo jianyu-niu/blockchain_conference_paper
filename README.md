@@ -141,6 +141,15 @@ A curated blockchain-related academic papers. All papers are sorted based on the
 
 [Consensus-PoS] [A Proof-of-Stake protocol for consensus on Bitcoin subchains](http://eprint.iacr.org/2017/417.pdf). Bartoletti M, Lande S, & Podda A S. FC '17.
 
+[FC'15 Accepted Paper Link](https://fc15.ifca.ai/schedule.html). 
+
+[FC'16 Accepted Paper Link](https://fc16.ifca.ai/program.html). 
+
+[FC'17 Accepted Paper Link](https://fc17.ifca.ai/program.html). 
+
+[FC'18 Accepted Paper Link](https://fc18.ifca.ai/program.html). 
+
+[FC'19 Accepted Paper Link](https://fc19.ifca.ai/program.html).
 
 ## License
 
