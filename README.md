@@ -122,6 +122,12 @@ Key Words: System Design, Consensus(Proof-of-Work, Proof-of-Stake, Proof-of-X, B
 
 [Transaction][Understanding ethereum via graph analysis](https://www4.comp.polyu.edu.hk/~csxluo/EthereumGraphAnalysis.pdf). Ting Chen,Yuxiao Zhu, Zihao Li, Jiachi Chen, Xiaoqi Li, Xiapu Luo, Xiaodong Lin, Xiaodong Lin. INFOCOM'18
 
+[Application][A Blockchain based Witness Model for Trustworthy Cloud Service Level Agreement Enforcement](). Huan Zhou, Xue Ouyang,  Zhijie Ren, Jinshu Su, Cees de Laat and Zhiming Zhao. INFOCOM'19
+
+[Scalability][ACCEL: Accelerating the Bitcoin Blockchain for High-throughput, Low-latency Applications](). Adiseshu Hari, Murali Kodialam, T. V Lakshman. INFOCOM'19
+
+[Security][Corking by Forking: Vulnerability Analysis of Blockchain](). Shengling Wang and Chenyu Wang, Qin Hu. INFOCOM'19
+
 ## IEEE International Conference on Distributed Computing Systems (ICDCS)
 [Application] [Transform Blockchain into Distributed Parallel Computing Architecture for Precision Medicine]().Zonyin Shae, Jeffrey J.P. Tsai. ICDCS'18
 
