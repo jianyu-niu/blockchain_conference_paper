@@ -165,11 +165,11 @@ Alexei Zamyatin, Dominik Harz, Joshua Lind, Panayiotis Panayiotou, Arthur Gervai
 
 [Application][Xyreum: A High-Performance and Scalable Blockchain for IIoT Security and Privacy](). Abubakar Sadiq Sani, Dong Yuan, Wei Bao, Phee Lep Yeoh, Zhaoyang Dong, Branka Vucetic and Elisa Bertino. ICDCS'19
 
-[Vision][Please, do not decentralize the Internet with (permissionless) blockchains!](https://arxiv.org/pdf/1904.13093.pdf). Pedro Garcia Lopez, Alberto Montresor and Anwitaman Datta. ICDCS'19
+[Vision][AI Blockchain Platform for Trusting News](). Zonyin Shae and Jeffrey Tsai. ICDCS'19
 
 [Vision][Dependable Public Ledger for Policy Compliance, a Blockchain Based Approach](). Zhou Wu, Andrew Williams and Debbie Perouli. ICDCS'19
 
-[Vision][AI Blockchain Platform for Trusting News](). Zonyin Shae and Jeffrey Tsai. ICDCS'19
+[Vision][Please, do not decentralize the Internet with (permissionless) blockchains!](https://arxiv.org/pdf/1904.13093.pdf). Pedro Garcia Lopez, Alberto Montresor and Anwitaman Datta. ICDCS'19
 
 
 ## ACM Conference on emerging Networking EXperiments and Technologies(CoNEXT)
