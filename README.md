@@ -145,6 +145,33 @@ Alexei Zamyatin, Dominik Harz, Joshua Lind, Panayiotis Panayiotou, Arthur Gervai
 
 [Privacy] [Short Paper][A Flexible Network Approach to Privacy of Blockchain Transactions](). David M¨odinger, Henning Kopp, Frank Kargl and Franz J. Hauck. ICDCS'18
 
+[Scalability][OptChain: Optimal Transactions Placement for Scalable Blockchain Sharding](). Lan Nguyen, Truc Nguyen, Thang Dinh and My Thai. ICDCS'19
+
+[Application][Hierarchical Edge-Cloud Computing for Mobile Blockchain Mining Game](https://pdfs.semanticscholar.org/cfe0/77c9b880c2a0dfb495448a068fdf1db07b6e.pdf). Suhan Jiang, Xinyi Li and Jie Wu. ICDCS'19
+
+[][Jidar: A Jigsaw-like Data Reduction Approach without Trust Assumptions for Bitcoin System](). Xiaohai Dai, Jiang Xiao, Wenhui Yang, Chaofan Wang and Hai Jin. ICDCS'19
+
+[PoW][Selfish Mining in Ethereum](https://arxiv.org/abs/1901.04620) Jianyu Niu and Chen Feng. ICDCS'19
+
+[application][B-IoT: Blockchain Driven Internet of Things with Credit-Based Consensus Mechanism](). Junqin Huang, Linghe Kong, Guihai Chen, Long Chen, Kaishun Wu and Xue Liu. ICDCS'19
+
+[Scalability][ParBlockchain: Leveraging Transaction Parallelism in Permissioned Blockchain Systems](https://arxiv.org/pdf/1902.01457.pdf). Mohammad Javad Amiri, Divyakant Agrawal and Amr El Abbadi. ICDCS'19
+
+[Consensus][Trust Mends Blockchains: Living up to Expectations](http://kth.diva-portal.org/smash/get/diva2:1316199/FULLTEXT01.pdf). Leila Bahri and Sarunas Girdzijauskas. ICDCS'19
+
+[Application][Xyreum: A High-Performance and Scalable Blockchain for IIoT Security and Privacy](). Abubakar Sadiq Sani, Dong Yuan, Wei Bao, Phee Lep Yeoh, Zhaoyang Dong, Branka Vucetic and Elisa Bertino. ICDCS'19
+
+[Application][Resource Allocation and Consensus on Edge Blockchain in Pervasive Edge Computing Environments](). Yaodong Huang, Jiarui Zhang, Jun Duan, Bin Xiao, Fan Ye and Yuanyuan Yang. ICDCS'19
+
+[Application][Optimal Admission Control For Secondary Users using Blockchain Technology In Cognitive Radio Networks](). Wenlong Ni, Yuhong Zhang and Wei Li. ICDCS'19
+
+[Vision][Please, do not decentralize the Internet with (permissionless) blockchains!](https://arxiv.org/pdf/1904.13093.pdf). Pedro Garcia Lopez, Alberto Montresor and Anwitaman Datta. ICDCS'19
+
+[Vision][Dependable Public Ledger for Policy Compliance, a Blockchain Based Approach](). Zhou Wu, Andrew Williams and Debbie Perouli. ICDCS'19
+
+[Vision][AI Blockchain Platform for Trusting News](). Zonyin Shae and Jeffrey Tsai. ICDCS'19
+
+
 ## ACM Conference on emerging Networking EXperiments and Technologies(CoNEXT)
 [Consensus-PoW] [On the Necessity of a Prescribed Block Validity Consensus: Analyzing Bitcoin Unlimited Mining Protocol](https://eprint.iacr.org/2017/686.pdf). Ren Zhang, Bart Preneel. CoNEXT '17
 
