@@ -162,9 +162,9 @@ Alexei Zamyatin, Dominik Harz, Joshua Lind, Panayiotis Panayiotou, Arthur Gervai
 
 [Scalability][OptChain: Optimal Transactions Placement for Scalable Blockchain Sharding](). Lan Nguyen, Truc Nguyen, Thang Dinh and My Thai. ICDCS'19
 
-[Scalability][ParBlockchain: Leveraging Transaction Parallelism in Permissioned Blockchain Systems](https://arxiv.org/pdf/1902.01457.pdf). Mohammad Javad Amiri, Divyakant Agrawal and Amr El Abbadi. ICDCS'19
-
 [][Jidar: A Jigsaw-like Data Reduction Approach without Trust Assumptions for Bitcoin System](). Xiaohai Dai, Jiang Xiao, Wenhui Yang, Chaofan Wang and Hai Jin. ICDCS'19
+
+[Scalability][ParBlockchain: Leveraging Transaction Parallelism in Permissioned Blockchain Systems](https://arxiv.org/pdf/1902.01457.pdf). Mohammad Javad Amiri, Divyakant Agrawal and Amr El Abbadi. ICDCS'19
 
 [Application][Optimal Admission Control For Secondary Users using Blockchain Technology In Cognitive Radio Networks](). Wenlong Ni, Yuhong Zhang and Wei Li. ICDCS'19
 
