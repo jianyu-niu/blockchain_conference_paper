@@ -88,6 +88,14 @@ and Edward W. Felten. USENIX '18 Security Symposium.
 
 [System][Monoxide: Scale Out Blockchain with Asynchronized Consensus Zones](https://www.usenix.org/system/files/nsdi19-wang-jiaping.pdf). Jiaping Wang, Hao Wang. NSDI'19
 
+[Transaction Analysis][Tracing Transactions Across Cryptocurrency Ledgers](). Haaroon Yousaf, George Kappos, and Sarah Meiklejohn. USENIX '19 Security Symposium.
+
+[Consensus][StrongChain: Transparent and Collaborative Proof-of-Work Consensus](). Pawel Szalachowski, Daniël Reijsbergen, and Ivan Homoliak, Siwei Sun. USENIX '19 Security Symposium.
+
+[Privacy][BITE: Bitcoin Lightweight Client Privacy using Trusted Execution](). Sinisa Matetic, Karl Wüst, Moritz Schneider, and Kari Kostiainen, Ghassan Karame, Srdjan Capkun. USENIX '19 Security Symposium.
+
+[Smart Contract][FastKitten: Practical Smart Contracts on Bitcoin](). Poulami Das, Lisa Eckey, Tommaso Frassetto, David Gens, Kristina Hostáková, Patrick Jauernig, Sebastian Faust, and Ahmad-Reza Sadeghi. USENIX '19 Security Symposium.
+
 ## Network and Distributed System Security (NDSS) 
 [Economic-Smart Contracts] ["Zeus": Analyzing Safety of Smart Contracts](http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2018/02/ndss2018_09-1_Kalra_paper.pdf). Kalra S, Goel S, Dhawan M, Sharma S. NDSS '18.
 
