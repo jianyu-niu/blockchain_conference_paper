@@ -13,7 +13,7 @@ A curated blockchain-related academic papers. All papers are sorted based on the
 - [IEEE International Conference on Computer Communications(INFOCOM)](#ieee-international-conference-on-computer-communicationsinfocom)
 - [IEEE International Conference on Distributed Computing Systems(ICDCS)](#ieee-international-conference-on-distributed-computing-systems-icdcs)
 - [USENIX Symposium on Networked Systems Design and Implementation(NSDI)](#usenix-symposium-on-networked-systems-design-and-implementation-nsdi)
-- [ACM Conference on Emerging Networking EXperiments and Technologies(CoNEXT)](#acm-conference-on-emerging-networking-experiments-and-technologiesconext)
+- [ACM Conference on Emerging Networking EXperiments and Technologies(CoNEXT)](#acm-conference-on-emerging-networking-experiments-and-technologies-conext)
 - [Financial Cryptography(FC)](#financial-cryptography-fc) 
 - [License](#license)
 
@@ -206,7 +206,7 @@ and Edward W. Felten. USENIX '18 Security Symposium.
 
 [Vision][Please, do not decentralize the Internet with (permissionless) blockchains!](https://arxiv.org/pdf/1904.13093.pdf). Pedro Garcia Lopez, Alberto Montresor and Anwitaman Datta. ICDCS'19
 
-# USENIX Symposium on Networked Systems Design and Implementation(NSDI)
+## USENIX Symposium on Networked Systems Design and Implementation(NSDI)
 [Consensus-PoW] [Bitcoin-NG: A Scalable Blockchain Protocol](https://www.usenix.org/system/files/conference/nsdi16/nsdi16-paper-eyal.pdf). Eyal I, Gencer AE, Sirer EG, Van Renesse R. NSDI ’16
 
 [System][Monoxide: Scale Out Blockchain with Asynchronized Consensus Zones](https://www.usenix.org/system/files/nsdi19-wang-jiaping.pdf). Jiaping Wang, Hao Wang. NSDI'19
