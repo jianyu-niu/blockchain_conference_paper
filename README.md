@@ -6,7 +6,7 @@ A curated blockchain-related academic papers. All papers are sorted based on the
 - [CRYPTO](#crypto)
 - [EUROCRYPT](#eurocrypt)
 - [IEEE Security and Privacy(S&P)](#ieee-security-and-privacysp)
-- [USENIX Security(USENIX NSDI)](#usenix-security)
+- [USENIX Association(USENIX Security NDSS NSDI ATC)](#usenix-association-usenix-security-ndss-ndsi-atc)
 - [Network and Distributed System Security(NDSS)](#network-and-distributed-system-security-ndss)
 - [ACM Symposium on Principles of Distributed Computing(PODC)](#acm-symposium-on-principles-of-distributed-computing-podc)
 - [ACM Conference on Computer and Communications Security(CCS)](#acm-conference-on-computer-and-communications-security-ccs)
@@ -66,7 +66,7 @@ Key Words: System Design, Consensus(Proof-of-Work, Proof-of-Stake, Proof-of-X, B
 [Scalaility][XCLAIM: Decentralized, Interoperable, Cryptocurrency-Backed Assets](https://eprint.iacr.org/2018/643.pdf). 
 Alexei Zamyatin, Dominik Harz, Joshua Lind, Panayiotis Panayiotou, Arthur Gervais, William J. Knottenbelt. IEEE S&P '19. 
 
-## USENIX Security
+## USENIX Association(USENIX Security NDSS NSDI ATC)
 [Network] [Eclipse Attacks on Bitcoin's Peer-to-Peer Network](https://www.usenix.org/system/files/conference/usenixsecurity15/sec15-paper-heilman.pdf). Heilman E, Kendler A, Zohar A, Goldberg S. USENIX '15 Security Symposium.
 
 [Consensus-PoW] [Bitcoin-NG: A Scalable Blockchain Protocol](https://www.usenix.org/system/files/conference/nsdi16/nsdi16-paper-eyal.pdf). Eyal I, Gencer AE, Sirer EG, Van Renesse R. NSDI ’16
