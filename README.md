@@ -12,8 +12,8 @@ A curated blockchain-related academic papers. All papers are sorted based on the
 - [ACM Conference on Computer and Communications Security(CCS)](#acm-conference-on-computer-and-communications-security-ccs)
 - [IEEE International Conference on Computer Communications(INFOCOM)](#ieee-international-conference-on-computer-communicationsinfocom)
 - [IEEE International Conference on Distributed Computing Systems(ICDCS)](#ieee-international-conference-on-distributed-computing-systems-icdcs)
-- [USENIX Symposium on Networked Systems Design and Implementation(NSDI)](#usenix-symposium-on-networked-systems-design-and-implementation-ndsi)
-- [ACM Conference on emerging Networking EXperiments and Technologies(CoNEXT)](#acm-conference-on-emerging-networking-experiments-and-technologiesconext)
+- [USENIX Symposium on Networked Systems Design and Implementation(NSDI)](#usenix-symposium-on-networked-systems-design-and-implementation-nsdi)
+- [ACM Conference on Emerging Networking EXperiments and Technologies(CoNEXT)](#acm-conference-on-emerging-networking-experiments-and-technologiesconext)
 - [Financial Cryptography(FC)](#financial-cryptography-fc) 
 - [License](#license)
 
@@ -211,7 +211,7 @@ and Edward W. Felten. USENIX '18 Security Symposium.
 
 [System][Monoxide: Scale Out Blockchain with Asynchronized Consensus Zones](https://www.usenix.org/system/files/nsdi19-wang-jiaping.pdf). Jiaping Wang, Hao Wang. NSDI'19
 
-## ACM Conference on emerging Networking EXperiments and Technologies(CoNEXT)
+## ACM Conference on Emerging Networking EXperiments and Technologies(CoNEXT)
 [Consensus-PoW] [On the Necessity of a Prescribed Block Validity Consensus: Analyzing Bitcoin Unlimited Mining Protocol](https://eprint.iacr.org/2017/686.pdf). Ren Zhang, Bart Preneel. CoNEXT '17
 
 ## Financial Cryptography (FC)
