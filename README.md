@@ -8,6 +8,7 @@ A curated blockchain-related academic papers. All papers are sorted based on the
 - [USENIX Security](#usenix-security)
 - [IEEE Security and Privacy(S&P)](#ieee-security-and-privacysp)
 - [Network and Distributed System Security(NDSS)](#network-and-distributed-system-security-ndss)
+- [ACM Symposium on Operating Systems Principles(SOSP)](#acm-symposium-on-operating-systems-principles-sosp)
 - [ACM Symposium on Principles of Distributed Computing(PODC)](#acm-symposium-on-principles-of-distributed-computing-podc)
 - [ACM Conference on Computer and Communications Security(CCS)](#acm-conference-on-computer-and-communications-security-ccs)
 - [IEEE International Conference on Computer Communications(INFOCOM)](#ieee-international-conference-on-computer-communicationsinfocom)
@@ -15,6 +16,7 @@ A curated blockchain-related academic papers. All papers are sorted based on the
 - [USENIX Symposium on Networked Systems Design and Implementation(NSDI)](#usenix-symposium-on-networked-systems-design-and-implementation-nsdi)
 - [ACM Conference on Emerging Networking EXperiments and Technologies(CoNEXT)](#acm-conference-on-emerging-networking-experiments-and-technologies-conext)
 - [Financial Cryptography(FC)](#financial-cryptography-fc) 
+- [EuroSys](#eurosys)
 - [License](#license)
 
 Key Words: System Design, Consensus(Proof-of-Work, Proof-of-Stake, Proof-of-X, BFT), Off-chain Design(Payment Networks, Sidechain), Crosschain, P2P Network, Privacy Issue, Security, Economics, Smart Contracts, Applications, Cryptograph. 
@@ -109,6 +111,11 @@ and Edward W. Felten. USENIX '18 Security Symposium.
 [Cryptograph][Fine-Grained and Controlled Rewriting in Blockchains: Chameleon-Hashing Gone Attribute-Based](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_02A-3_Derler_paper.pdf). David Derler, Kai Samelin, Daniel Slamanig and Christoph Striecks. NDSS '19.
 
 [off-Chain][Privacy-preserving Multi-hop Locks for Blockchain Scalability and Interoperability](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_09-4_Malavolta_paper.pdf). Giulio Malavolta, Pedro Moreno Sanchez, Clara Schneidewind and Matteo Maffei, Aniket Kate. NDSS '19.
+
+## ACM Symposium on Operating Systems Principles (SOSP)
+[Consensus] [Algorand: Scaling Byzantine Agreements for Cryptocurrencies](https://people.csail.mit.edu/nickolai/papers/gilad-algorand.pdf). Yossi Gilad, Rotem Hemo, Silvio Micali, Georgios Vlachos, Nickolai Zeldovich. SOSP'17
+
+[Payment Networks] [Teechain: A Secure Payment Network with Asynchronous Blockchain Access](https://arxiv.org/pdf/1707.05454.pdf). Joshua Lind, Oded Naor, Ittay Eyal, Florian Kelbert, Peter Pietzuch, Emin Gun Sirer. SOSP'19
 
 ## ACM Symposium on Principles of Distributed Computing (PODC)
 [Consensus-PoW] [FruitChains: A Fair Blockchain](https://eprint.iacr.org/2016/916.pdf).Rafael Pass, Elaine Shi. PODC'17
@@ -228,6 +235,10 @@ and Edward W. Felten. USENIX '18 Security Symposium.
 [Consensus-PoS] [A Proof-of-Stake protocol for consensus on Bitcoin subchains](http://eprint.iacr.org/2017/417.pdf). Bartoletti M, Lande S, & Podda A S. FC '17.
 
 [FC Accepted Paper Link:] [FC'15](https://fc15.ifca.ai/schedule.html), [FC'16](https://fc16.ifca.ai/program.html), [FC'17](https://fc17.ifca.ai/program.html), [FC'18](https://fc18.ifca.ai/program.html), [FC'19](https://fc19.ifca.ai/program.html).
+
+
+## Eurosys
+[System Design] [Hyperledger Fabric: A Distributed Operating System for Permissioned Blockchains](https://arxiv.org/pdf/1801.10228.pdf). Elli Androulaki, Artem Barger, Vita Bortnikov, Christian Cachin, Konstantinos Christidis, Angelo De Caro, David Enyeart, Christopher Ferris, Gennady Laventman, Yacov Manevich, Srinivasan Muralidharan, Chet Murthy, Binh Nguyen, Manish Sethi, Gari Singh, Keith Smith, Alessandro Sorniotti, Chrysoula Stathakopoulou, Marko Vukolić, Sharon Weed Cocco, Jason Yellick. EuroSys'18
 
 ## License
 
