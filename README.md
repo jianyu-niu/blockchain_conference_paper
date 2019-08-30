@@ -16,6 +16,7 @@ A curated blockchain-related academic papers. All papers are sorted based on the
 - [USENIX Symposium on Networked Systems Design and Implementation(NSDI)](#usenix-symposium-on-networked-systems-design-and-implementation-nsdi)
 - [ACM Conference on Emerging Networking EXperiments and Technologies(CoNEXT)](#acm-conference-on-emerging-networking-experiments-and-technologies-conext)
 - [Financial Cryptography(FC)](#financial-cryptography-fc) 
+- [EuroSys](#eurosys)
 - [License](#license)
 
 Key Words: System Design, Consensus(Proof-of-Work, Proof-of-Stake, Proof-of-X, BFT), Off-chain Design(Payment Networks, Sidechain), Crosschain, P2P Network, Privacy Issue, Security, Economics, Smart Contracts, Applications, Cryptograph. 
@@ -234,6 +235,10 @@ and Edward W. Felten. USENIX '18 Security Symposium.
 [Consensus-PoS] [A Proof-of-Stake protocol for consensus on Bitcoin subchains](http://eprint.iacr.org/2017/417.pdf). Bartoletti M, Lande S, & Podda A S. FC '17.
 
 [FC Accepted Paper Link:] [FC'15](https://fc15.ifca.ai/schedule.html), [FC'16](https://fc16.ifca.ai/program.html), [FC'17](https://fc17.ifca.ai/program.html), [FC'18](https://fc18.ifca.ai/program.html), [FC'19](https://fc19.ifca.ai/program.html).
+
+
+## Eurosys
+[System Design] [Hyperledger Fabric: A Distributed Operating System for Permissioned Blockchains](https://arxiv.org/pdf/1801.10228.pdf). Elli Androulaki, Artem Barger, Vita Bortnikov, Christian Cachin, Konstantinos Christidis, Angelo De Caro, David Enyeart, Christopher Ferris, Gennady Laventman, Yacov Manevich, Srinivasan Muralidharan, Chet Murthy, Binh Nguyen, Manish Sethi, Gari Singh, Keith Smith, Alessandro Sorniotti, Chrysoula Stathakopoulou, Marko Vukolić, Sharon Weed Cocco, Jason Yellick. EuroSys'18
 
 ## License
 
