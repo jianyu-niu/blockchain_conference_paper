@@ -172,6 +172,24 @@ and Edward W. Felten. USENIX '18 Security Symposium.
 
 [System] [RapidChain: Scaling Blockchain via Full Sharding](). Mahdi Zamani, Mahnush Movahedi, Mariana Raykova. CCS '18.
 
+[Consensus Applcation][Efficient Publicly Verifiable 2PC over a Blockchain with Applications to Financially-Secure Computations]().	Ruiyu Zhu, Changchang Ding, Yan Huang. CCS '19.
+
+[Network][Erlay: Efficient Transaction Relay for Bitcoin]().	Gleb Naumenko, Gregory Maxwell, Pieter Wuille, Alexandra (Sasha) Fedorova, Ivan Beschastnikh. CCS '19.
+
+[Sidechain][HyperService: Interoperability and Programmability across Heterogeneous Blockchains]().	Zhuotao Liu, Yangxi Xiang,Jian Shi, Peng Gao, Haoyu Wang, Xusheng Xiao, Bihan Wen, Yih-Chun Hu. CCS '19.
+
+[Cryptography][MatRiCT: Efficient, Scalable and Post-Quantum Blockchain Confidential Transactions Protocol]().	Muhammed F. Esgin, Raymond K. Zhao, Ron Steinfeld, Joseph K. Liu, Dongxi Liu. CCS '19. 
+
+[Payment][Omniring: Scaling Up Private Payments Without Trusted Setup — Formal Foundations and a Construction of Ring Confidential Transactions with Log-size Proofs]().	Russell W. F. Lai, Viktoria Ronge, Tim Ruffing, Dominique Schröder, Sri Aravinda Krishnan Thyagarajan, Jiafan Wang. CCS '19. 
+
+[Consensus][Prism: Deconstructing the Blockchain to Approach Physical Limits]().	Vivek Bagaria, Sreeram Kannan, David Tse, Giulia Fanti, Pramod Viswanath. CCS '19. 
+
+[Smart contract][Learning to Fuzz from Symbolic Execution with Application to Smart Contracts]().	Jingxuan He, Mislav Balunovic, Nodar Ambroladze, Petar Tsankov, Martin Vechev. CCS '19. 
+
+[Smart contract][Specifying and Enforcing Data Privacy in Smart Contracts]().	Samuel Steffen, Benjamin Bichsel, Mario Gersbach, Noa Melchior, Petar Tsankov, Martin Vechev. CCS '19. 
+
+[Ledger][SAMPL: Scalable Auditability of Monitoring Processes using Public Ledgers](). Roopa Vishwanathan, Gaurav Panwar, Satyajayant Misra, Austin Bos. CCS '19. 
+
 ## IEEE International Conference on Computer Communications(INFOCOM)
 [Network][Stochastic Models and Wide-Area Network Measurements for Blockchain Design and Analysis](https://www.researchgate.net/publication/321369565_Stochastic_Models_and_Wide-Area_Network_Measurements_for_Blockchain_Design_and_Analysis). Nikolaos Papadis, Sem Borst, Anwar Walid, Mohamed Grissa, Leandros Tassiulas. INFOCOM'18
 
