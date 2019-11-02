@@ -16,6 +16,7 @@ A curated blockchain-related academic papers. All papers are sorted based on the
 - [IEEE International Conference on Distributed Computing Systems(ICDCS)](#ieee-international-conference-on-distributed-computing-systems-icdcs)
 - [USENIX Symposium on Networked Systems Design and Implementation(NSDI)](#usenix-symposium-on-networked-systems-design-and-implementation-nsdi)
 - [ACM Conference on Emerging Networking EXperiments and Technologies(CoNEXT)](#acm-conference-on-emerging-networking-experiments-and-technologies-conext)
+- [ACM SIGMOD/PODS International Conference on Management of Data(SIGMOD PODS)](#ACM-SIGMOD-PODS-International-Conference-on-Management-of-Data-SIGMOD-PODS)
 - [Financial Cryptography(FC)](#financial-cryptography-fc) 
 - [EuroSys](#eurosys)
 - [License](#license)
@@ -257,6 +258,8 @@ Carsten Binnig, Arvind Arasu, Donald Kossmann, Ravi Ramamurthy. VLDB'19.
 
 ## ACM Conference on Emerging Networking EXperiments and Technologies(CoNEXT)
 [Consensus-PoW] [On the Necessity of a Prescribed Block Validity Consensus: Analyzing Bitcoin Unlimited Mining Protocol](https://eprint.iacr.org/2017/686.pdf). Ren Zhang, Bart Preneel. CoNEXT '17
+
+## ACM SIGMOD/PODS International Conference on Management of Data(SIGMOD PODS)
 
 ## Financial Cryptography (FC)
 [Economic-PoW] [Majority Is Not Enough: Bitcoin Mining Is Vulnerable](https://arxiv.org/pdf/1311.0243). Eyal I, Sirer EG. FC '14.
