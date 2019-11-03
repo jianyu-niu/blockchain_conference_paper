@@ -138,6 +138,8 @@ Carsten Binnig, Arvind Arasu, Donald Kossmann, Ravi Ramamurthy. VLDB'19.
 
 [Provenance][Fine-Grained, Secure and Efficient Data Provenance on Blockchain Systems](http://www.vldb.org/pvldb/vol12/p975-ruan.pdf). Pingcheng Ruan, Gang Chen, Tien Tuan Anh Dinh, Qian Lin, Beng Chin Ooi, Meihui Zhang. VLDB'19. 
 
+## ACM International Conference on Management of Data (SIGMOD)
+
 ## ACM Symposium on Principles of Distributed Computing (PODC)
 [Consensus-PoW] [FruitChains: A Fair Blockchain](https://eprint.iacr.org/2016/916.pdf).Rafael Pass, Elaine Shi. PODC'17
 
@@ -254,17 +256,14 @@ Carsten Binnig, Arvind Arasu, Donald Kossmann, Ravi Ramamurthy. VLDB'19.
 
 [Vision][Please, do not decentralize the Internet with (permissionless) blockchains!](https://arxiv.org/pdf/1904.13093.pdf). Pedro Garcia Lopez, Alberto Montresor and Anwitaman Datta. ICDCS'19
 
-## USENIX Symposium on Networked Systems Design and Implementation(NSDI)
+
+## USENIX Symposium on Networked Systems Design and Implementation (NSDI)
 [Consensus-PoW] [Bitcoin-NG: A Scalable Blockchain Protocol](https://www.usenix.org/system/files/conference/nsdi16/nsdi16-paper-eyal.pdf). Eyal I, Gencer AE, Sirer EG, Van Renesse R. NSDI ’16
 
 [System][Monoxide: Scale Out Blockchain with Asynchronized Consensus Zones](https://www.usenix.org/system/files/nsdi19-wang-jiaping.pdf). Jiaping Wang, Hao Wang. NSDI'19
 
-## ACM Conference on Emerging Networking EXperiments and Technologies(CoNEXT)
+## ACM Conference on Emerging Networking EXperiments and Technologies (CoNEXT)
 [Consensus-PoW] [On the Necessity of a Prescribed Block Validity Consensus: Analyzing Bitcoin Unlimited Mining Protocol](https://eprint.iacr.org/2017/686.pdf). Ren Zhang, Bart Preneel. CoNEXT '17
-
-## ACM International Conference on Management of Data(SIGMOD)
-
-
 
 ## Financial Cryptography (FC)
 [Economic-PoW] [Majority Is Not Enough: Bitcoin Mining Is Vulnerable](https://arxiv.org/pdf/1311.0243). Eyal I, Sirer EG. FC '14.
