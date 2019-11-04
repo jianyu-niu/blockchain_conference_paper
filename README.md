@@ -192,6 +192,7 @@ Carsten Binnig, Arvind Arasu, Donald Kossmann, Ravi Ramamurthy. VLDB'19.
 
 [System] [RapidChain: Scaling Blockchain via Full Sharding](). Mahdi Zamani, Mahnush Movahedi, Mariana Raykova. CCS '18.
 
+[Consensus][BEAT: Asynchronous BFT Made Practical](calendar.google.com/calendar/r). Sisi Duan, Michael K. Reiter, Haibin Zhang. CCS '18.  
 [Consensus Applcation][Efficient Publicly Verifiable 2PC over a Blockchain with Applications to Financially-Secure Computations]().	Ruiyu Zhu, Changchang Ding, Yan Huang. CCS '19.
 
 [Network][Erlay: Efficient Transaction Relay for Bitcoin]().	Gleb Naumenko, Gregory Maxwell, Pieter Wuille, Alexandra (Sasha) Fedorova, Ivan Beschastnikh. CCS '19.
