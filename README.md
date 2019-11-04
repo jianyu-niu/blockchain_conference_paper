@@ -74,6 +74,8 @@ Key Words: System Design, Consensus(Proof-of-Work, Proof-of-Stake, Proof-of-X, B
 [Scalaility][XCLAIM: Decentralized, Interoperable, Cryptocurrency-Backed Assets](https://eprint.iacr.org/2018/643.pdf). 
 Alexei Zamyatin, Dominik Harz, Joshua Lind, Panayiotis Panayiotou, Arthur Gervais, William J. Knottenbelt. IEEE S&P '19. 
 
+[Consensus-PoW][OHIE: Blockchain Scaling Made Simple](https://arxiv.org/abs/1811.12628). Haifeng Yu, Ivica Nikolic, Ruomu Hou, and Prateek Saxena. IEEE S&P '19. 
+
 ## USENIX Security
 [Network] [Eclipse Attacks on Bitcoin's Peer-to-Peer Network](https://www.usenix.org/system/files/conference/usenixsecurity15/sec15-paper-heilman.pdf). Heilman E, Kendler A, Zohar A, Goldberg S. USENIX '15 Security Symposium.
 
@@ -238,7 +240,7 @@ Carsten Binnig, Arvind Arasu, Donald Kossmann, Ravi Ramamurthy. VLDB'19.
 
 [Scalability][OptChain: Optimal Transactions Placement for Scalable Blockchain Sharding](). Lan Nguyen, Truc Nguyen, Thang Dinh and My Thai. ICDCS'19
 
-[][Jidar: A Jigsaw-like Data Reduction Approach without Trust Assumptions for Bitcoin System](). Xiaohai Dai, Jiang Xiao, Wenhui Yang, Chaofan Wang and Hai Jin. ICDCS'19
+[Consensus][Jidar: A Jigsaw-like Data Reduction Approach without Trust Assumptions for Bitcoin System](https://www.researchgate.net/publication/336945962_Jidar_A_Jigsaw-like_Data_Reduction_Approach_Without_Trust_Assumptions_for_Bitcoin_System). Xiaohai Dai, Jiang Xiao, Wenhui Yang, Chaofan Wang and Hai Jin. ICDCS'19
 
 [Scalability][ParBlockchain: Leveraging Transaction Parallelism in Permissioned Blockchain Systems](https://arxiv.org/pdf/1902.01457.pdf). Mohammad Javad Amiri, Divyakant Agrawal and Amr El Abbadi. ICDCS'19
 
