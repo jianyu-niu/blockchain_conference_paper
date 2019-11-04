@@ -11,8 +11,8 @@ A curated blockchain-related academic papers. All papers are sorted based on the
 - [Network and Distributed System Security(NDSS)](#network-and-distributed-system-security-ndss)
 - [ACM Symposium on Operating Systems Principles(SOSP)](#acm-symposium-on-operating-systems-principles-sosp)
 - [International Conference on Very Large Data Bases(VLDB)](#international-conference-on-very-large-data-bases-vldb)
-- [ACM International Conference on Management of Data(SIGMOD)](#acm-international-conference-on-management-of-data-sigmod)
 - [ACM Symposium on Principles of Distributed Computing(PODC)](#acm-symposium-on-principles-of-distributed-computing-podc)
+- [ACM International Conference on Management of Data(SIGMOD)](#acm-international-conference-on-management-of-data-sigmod)
 - [ACM Conference on Computer and Communications Security(CCS)](#acm-conference-on-computer-and-communications-security-ccs)
 - [IEEE International Conference on Computer Communications(INFOCOM)](#ieee-international-conference-on-computer-communicationsinfocom)
 - [IEEE International Conference on Distributed Computing Systems(ICDCS)](#ieee-international-conference-on-distributed-computing-systems-icdcs)
@@ -140,8 +140,6 @@ Carsten Binnig, Arvind Arasu, Donald Kossmann, Ravi Ramamurthy. VLDB'19.
 
 [Provenance][Fine-Grained, Secure and Efficient Data Provenance on Blockchain Systems](http://www.vldb.org/pvldb/vol12/p975-ruan.pdf). Pingcheng Ruan, Gang Chen, Tien Tuan Anh Dinh, Qian Lin, Beng Chin Ooi, Meihui Zhang. VLDB'19. 
 
-## ACM International Conference on Management of Data (SIGMOD)
-
 ## ACM Symposium on Principles of Distributed Computing (PODC)
 [Consensus-PoW] [FruitChains: A Fair Blockchain](https://eprint.iacr.org/2016/916.pdf).Rafael Pass, Elaine Shi. PODC'17
 
@@ -215,6 +213,9 @@ Carsten Binnig, Arvind Arasu, Donald Kossmann, Ravi Ramamurthy. VLDB'19.
 [Ledger][SAMPL: Scalable Auditability of Monitoring Processes using Public Ledgers](). Roopa Vishwanathan, Gaurav Panwar, Satyajayant Misra, Austin Bos. CCS '19. 
 
 [Payment Networks][Atomic Multi-Channel Updates with Constant Collateral in Payment-Channel Networks](https://eprint.iacr.org/2019/583.pdf). Christoph Egger, Pedro Moreno-Sanchez, Matteo Maffei. CCS '19. 
+
+## ACM International Conference on Management of Data (SIGMOD)
+
 
 ## IEEE International Conference on Computer Communications(INFOCOM)
 [Network][Stochastic Models and Wide-Area Network Measurements for Blockchain Design and Analysis](https://www.researchgate.net/publication/321369565_Stochastic_Models_and_Wide-Area_Network_Measurements_for_Blockchain_Design_and_Analysis). Nikolaos Papadis, Sem Borst, Anwar Walid, Mohamed Grissa, Leandros Tassiulas. INFOCOM'18
