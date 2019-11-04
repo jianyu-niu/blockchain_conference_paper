@@ -186,18 +186,21 @@ Carsten Binnig, Arvind Arasu, Donald Kossmann, Ravi Ramamurthy. VLDB'19.
 
 [Payment Networks] [Revive: Rebalancing Off-Blockchain Payment Networks](https://eprint.iacr.org/2017/823.pdf). Khalil, R., & Gervais, A. CCS '17.
 
+[Economic][The Gap Game](http://delivery.acm.org/10.1145/3250000/3243737/p713-tsabary.pdf?ip=142.231.81.31&id=3243737&acc=ACTIVE%20SERVICE&key=FD0067F557510FFB%2E26E2C50968A06846%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1572896863_842d24816daa8481df9c256f8a9cb16d). Itay Tsabary, Ittay Eyal. CCS '18.
+
 [Payment Networks] [General State Channel Networks](https://eprint.iacr.org/2018/320.pdf) Dziembowski S, Faust S, Hostáková K. CCS '18.
 
 [System Design] [FairSwap: How to fairly exchange digital goods](https://eprint.iacr.org/2018/740) Dziembowski S, Faust S, Eckey L. CCS '18.
 
 [System] [RapidChain: Scaling Blockchain via Full Sharding](). Mahdi Zamani, Mahnush Movahedi, Mariana Raykova. CCS '18.
 
-[Consensus][BEAT: Asynchronous BFT Made Practical](calendar.google.com/calendar/r). Sisi Duan, Michael K. Reiter, Haibin Zhang. CCS '18.  
-[Consensus Applcation][Efficient Publicly Verifiable 2PC over a Blockchain with Applications to Financially-Secure Computations]().	Ruiyu Zhu, Changchang Ding, Yan Huang. CCS '19.
+[Consensus][BEAT: Asynchronous BFT Made Practical](calendar.google.com/calendar/r). Sisi Duan, Michael K. Reiter, Haibin Zhang. CCS '18.
 
-[Network][Erlay: Efficient Transaction Relay for Bitcoin]().	Gleb Naumenko, Gregory Maxwell, Pieter Wuille, Alexandra (Sasha) Fedorova, Ivan Beschastnikh. CCS '19.
+[Consensus Applcation][Efficient Publicly Verifiable 2PC over a Blockchain with Applications to Financially-Secure Computations](http://homes.sice.indiana.edu/yh33/mypub/pvc.pdf).	Ruiyu Zhu, Changchang Ding, Yan Huang. CCS '19.
 
-[Sidechain][HyperService: Interoperability and Programmability across Heterogeneous Blockchains]().	Zhuotao Liu, Yangxi Xiang,Jian Shi, Peng Gao, Haoyu Wang, Xusheng Xiao, Bihan Wen, Yih-Chun Hu. CCS '19.
+[Network][Erlay: Efficient Transaction Relay for Bitcoin](https://arxiv.org/abs/1905.10518).	Gleb Naumenko, Gregory Maxwell, Pieter Wuille, Alexandra (Sasha) Fedorova, Ivan Beschastnikh. CCS '19.
+
+[Sidechain][HyperService: Interoperability and Programmability across Heterogeneous Blockchains](https://arxiv.org/abs/1908.09343).	Zhuotao Liu, Yangxi Xiang,Jian Shi, Peng Gao, Haoyu Wang, Xusheng Xiao, Bihan Wen, Yih-Chun Hu. CCS '19.
 
 [Cryptography][MatRiCT: Efficient, Scalable and Post-Quantum Blockchain Confidential Transactions Protocol]().	Muhammed F. Esgin, Raymond K. Zhao, Ron Steinfeld, Joseph K. Liu, Dongxi Liu. CCS '19. 
 
