@@ -272,6 +272,12 @@ Carsten Binnig, Arvind Arasu, Donald Kossmann, Ravi Ramamurthy. VLDB'19.
 ## ACM Conference on Emerging Networking EXperiments and Technologies (CoNEXT)
 [Consensus-PoW] [On the Necessity of a Prescribed Block Validity Consensus: Analyzing Bitcoin Unlimited Mining Protocol](https://eprint.iacr.org/2017/686.pdf). Ren Zhang, Bart Preneel. CoNEXT '17
 
+[Consensus][Stellar: Network Attack Mitigation using Advanced Blackholing]()(.Christoph Dietzel, Matthias Wichtlhuber, Georgios Smaragdakis, Anja Feldmann. CoNEXT '18
+
+[Mining][Mining the Web with Webcoin](). Uri Klarman, Marcel Flores, Aleksandar Kuzmanovic. CoNEXT '18
+
+[Application][Blockchain-based Real-time Cheat Prevention and Robustness for Multi-player Online Game](). Sukrit Kalra, Rishabh Sanghi, Mohan Dhawan. CoNEXT '18
+
 ## Financial Cryptography (FC)
 [Economic-PoW] [Majority Is Not Enough: Bitcoin Mining Is Vulnerable](https://arxiv.org/pdf/1311.0243). Eyal I, Sirer EG. FC '14.
 
