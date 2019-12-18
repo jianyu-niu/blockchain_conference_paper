@@ -228,6 +228,11 @@ Carsten Binnig, Arvind Arasu, Donald Kossmann, Ravi Ramamurthy. VLDB'19.
 
 [Application][A Blockchain based Witness Model for Trustworthy Cloud Service Level Agreement Enforcement](). Huan Zhou, Xue Ouyang,  Zhijie Ren, Jinshu Su, Cees de Laat and Zhiming Zhao. INFOCOM'19
 
+[Network][Modeling the Impact of Network Connectivity on Consensus Security of Proof-of-Work Blockchain]().
+Yang Xiao, Ning Zhang, Wenjing Lou and Thomas Hou. INFOCOM'20
+
+[Off-chain][Secure Balance Planning of Off-blockchain Payment Channel Networks](). Peng Li and Toshiaki Miyazaki, Wanlei Zhou. INFOCOM'20. 
+
 ## IEEE International Conference on Distributed Computing Systems (ICDCS)
 [Application] [Transform Blockchain into Distributed Parallel Computing Architecture for Precision Medicine]().Zonyin Shae, Jeffrey J.P. Tsai. ICDCS'18
 
