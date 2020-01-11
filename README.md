@@ -119,6 +119,8 @@ and Edward W. Felten. USENIX '18 Security Symposium.
 
 [off-Chain][Privacy-preserving Multi-hop Locks for Blockchain Scalability and Interoperability](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_09-4_Malavolta_paper.pdf). Giulio Malavolta, Pedro Moreno Sanchez, Clara Schneidewind and Matteo Maffei, Aniket Kate. NDSS '19.
 
+[Consensus-PoW][Bobtail: Improved Blockchain Security with Low-Variance Mining](https://arxiv.org/pdf/1709.08750.pdf). George Bissias and Brian N. Levine. NDSS '20.
+
 ## ACM Symposium on Operating Systems Principles (SOSP)
 [Consensus] [Algorand: Scaling Byzantine Agreements for Cryptocurrencies](https://people.csail.mit.edu/nickolai/papers/gilad-algorand.pdf). Yossi Gilad, Rotem Hemo, Silvio Micali, Georgios Vlachos, Nickolai Zeldovich. SOSP'17
 
