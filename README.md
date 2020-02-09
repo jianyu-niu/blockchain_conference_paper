@@ -59,7 +59,7 @@ Key Words: System Design, Consensus(Proof-of-Work, Proof-of-Stake, Proof-of-X, B
 
 [Privacy] [Hawk: The Blockchain Model of Cryptography and Privacy-Preserving Smart Contracts](https://eprint.iacr.org/2015/675.pdf). Kosba A, Miller A, Shi E, Wen Z, Papamanthou C. S&P '16
 
-[System] [OmniLedger: A Secure, Scale-Out, Decentralized Ledger via Sharding](). E. Kokoris-Kogias and P. Jovanovic and L. Gasser and N. Gailly and E. Syta and B. Ford. S&P '18
+[System] [OmniLedger: A Secure, Scale-Out, Decentralized Ledger via Sharding](https://eprint.iacr.org/2017/406.pdf). E. Kokoris-Kogias and P. Jovanovic and L. Gasser and N. Gailly and E. Syta and B. Ford. S&P '18
 
 [Sidechain][Proof-of-Stake Sidechains](https://eprint.iacr.org/2018/1239.pdf). Peter Gaži, Aggelos Kiayias, Dionysis Zindros. IEEE S&P '19.  
 
@@ -133,7 +133,7 @@ and Edward W. Felten. USENIX '18 Security Symposium.
 ## International Conference on Very Large Data Bases (VLDB)
 [Storage][ForkBase: An Efficient Storage Engine for Blockchain and Forkable Applications](http://www.vldb.org/pvldb/vol11/p1137-wang.pdf). Sheng Wang, Tien Tuan Anh Dinh, Qian Lin, Zhongle Xie, Meihui Zhang, Qingchao Cai, Gang Chen, Beng Chin Ooi, Pingcheng Rua. VLDB'18. 
 
-[Privacy][A Demonstration of Sterling: A Privacy-Preserving Data Marketplace](). Nick Hynes1, David Dao, David Yan, Raymond Cheng, Dawn Song. VLDB'19. 
+[Privacy][A Demonstration of Sterling: A Privacy-Preserving Data Marketplace](http://www.vldb.org/pvldb/vol11/p2086-hynes.pdf). Nick Hynes1, David Dao, David Yan, Raymond Cheng, Dawn Song. VLDB'19. 
 
 [Application][CAPER: A Cross-Application Permissioned Blockchain](http://www.vldb.org/pvldb/vol12/p1385-amiri.pdf). Mohammad Javad Amiri, Divyakant Agrawal, Amr El Abbadi. VLDB'19. 
 
@@ -151,11 +151,11 @@ Carsten Binnig, Arvind Arasu, Donald Kossmann, Ravi Ramamurthy. VLDB'19.
 
 [Consensus][The Consensus Number of a Cryptocurrency](https://arxiv.org/pdf/1906.05574.pdf). R. Guerraoui, P. Kuznetsov, M. Monti, M. Pavlovic, D. Seredinschi. PODC'19
 
-[Consensus-BFT][Communication Complexity of Byzantine Agreement, Revisited](). I. Abraham, T. Chan, D. Dolev, K. Nayak, R. Pass, L. Ren, E. Shi. PODC'19
+[Consensus-BFT][Communication Complexity of Byzantine Agreement, Revisited](https://arxiv.org/abs/1805.03391). I. Abraham, T. Chan, D. Dolev, K. Nayak, R. Pass, L. Ren, E. Shi. PODC'19
 
 [Consensus-BFT][Exact Byzantine Consensus on Undirected Graphs under Local Broadcast Model](https://arxiv.org/pdf/1903.11677.pdf). M. Khan, S. Naqvi, N. Vaidya. PODC'19
 
-[Consensus-BFT][Asymptotically Optimal Validated Asynchronous Byzantine Agreement](). I. Abraham, D. Malkhi, A. Spiegelman. PODC'19
+[Consensus-BFT][Asymptotically Optimal Validated Asynchronous Byzantine Agreement](https://research.vmware.com/files/attachments/0/0/0/0/0/7/8/practical_aba_2_.pdf). I. Abraham, D. Malkhi, A. Spiegelman. PODC'19
 
 [Consensus-BFT][HotStuff: BFT Consensus with Linearity and Responsiveness](https://www.cs.unc.edu/~reiter/papers/2019/PODC.pdf). M. Yin, I. Abraham, G. Gueta, D. Malkhi, M. Reiter. PODC'19
 
@@ -192,9 +192,9 @@ Carsten Binnig, Arvind Arasu, Donald Kossmann, Ravi Ramamurthy. VLDB'19.
 
 [System Design] [FairSwap: How to fairly exchange digital goods](https://eprint.iacr.org/2018/740) Dziembowski S, Faust S, Eckey L. CCS '18.
 
-[System] [RapidChain: Scaling Blockchain via Full Sharding](). Mahdi Zamani, Mahnush Movahedi, Mariana Raykova. CCS '18.
+[System] [RapidChain: Scaling Blockchain via Full Sharding](https://eprint.iacr.org/2018/460.pdf). Mahdi Zamani, Mahnush Movahedi, Mariana Raykova. CCS '18.
 
-[Consensus][BEAT: Asynchronous BFT Made Practical](calendar.google.com/calendar/r). Sisi Duan, Michael K. Reiter, Haibin Zhang. CCS '18.
+[Consensus][BEAT: Asynchronous BFT Made Practical](https://www.csee.umbc.edu/~hbzhang/files/beat.pdf). Sisi Duan, Michael K. Reiter, Haibin Zhang. CCS '18.
 
 [Consensus Applcation][Efficient Publicly Verifiable 2PC over a Blockchain with Applications to Financially-Secure Computations](http://homes.sice.indiana.edu/yh33/mypub/pvc.pdf).	Ruiyu Zhu, Changchang Ding, Yan Huang. CCS '19.
 
@@ -202,17 +202,15 @@ Carsten Binnig, Arvind Arasu, Donald Kossmann, Ravi Ramamurthy. VLDB'19.
 
 [Sidechain][HyperService: Interoperability and Programmability across Heterogeneous Blockchains](https://arxiv.org/abs/1908.09343).	Zhuotao Liu, Yangxi Xiang,Jian Shi, Peng Gao, Haoyu Wang, Xusheng Xiao, Bihan Wen, Yih-Chun Hu. CCS '19.
 
-[Cryptography][MatRiCT: Efficient, Scalable and Post-Quantum Blockchain Confidential Transactions Protocol]().	Muhammed F. Esgin, Raymond K. Zhao, Ron Steinfeld, Joseph K. Liu, Dongxi Liu. CCS '19. 
+[Cryptography][MatRiCT: Efficient, Scalable and Post-Quantum Blockchain Confidential Transactions Protocol](https://eprint.iacr.org/2019/1287.pdf).	Muhammed F. Esgin, Raymond K. Zhao, Ron Steinfeld, Joseph K. Liu, Dongxi Liu. CCS '19. 
 
 [Payment][Omniring: Scaling Up Private Payments Without Trusted Setup — Formal Foundations and a Construction of Ring Confidential Transactions with Log-size Proofs]().	Russell W. F. Lai, Viktoria Ronge, Tim Ruffing, Dominique Schröder, Sri Aravinda Krishnan Thyagarajan, Jiafan Wang. CCS '19. 
 
-[Consensus][Prism: Deconstructing the Blockchain to Approach Physical Limits]().	Vivek Bagaria, Sreeram Kannan, David Tse, Giulia Fanti, Pramod Viswanath. CCS '19. 
+[Consensus][Prism: Deconstructing the Blockchain to Approach Physical Limits](https://dl.acm.org/doi/abs/10.1145/3319535.3345655?download=true).	Vivek Bagaria, Sreeram Kannan, David Tse, Giulia Fanti, Pramod Viswanath. CCS '19. 
 
-[Smart contract][Learning to Fuzz from Symbolic Execution with Application to Smart Contracts]().	Jingxuan He, Mislav Balunovic, Nodar Ambroladze, Petar Tsankov, Martin Vechev. CCS '19. 
+[Smart contract][Learning to Fuzz from Symbolic Execution with Application to Smart Contracts](https://files.sri.inf.ethz.ch/website/papers/ccs19-ilf.pdf).	Jingxuan He, Mislav Balunovic, Nodar Ambroladze, Petar Tsankov, Martin Vechev. CCS '19. 
 
-[Smart contract][Specifying and Enforcing Data Privacy in Smart Contracts]().	Samuel Steffen, Benjamin Bichsel, Mario Gersbach, Noa Melchior, Petar Tsankov, Martin Vechev. CCS '19. 
-
-[Ledger][SAMPL: Scalable Auditability of Monitoring Processes using Public Ledgers](). Roopa Vishwanathan, Gaurav Panwar, Satyajayant Misra, Austin Bos. CCS '19. 
+[Ledger][SAMPL: Scalable Auditability of Monitoring Processes using Public Ledgers](https://www.cs.nmsu.edu/~roopa/sampl.pdf). Roopa Vishwanathan, Gaurav Panwar, Satyajayant Misra, Austin Bos. CCS '19. 
 
 [Payment Networks][Atomic Multi-Channel Updates with Constant Collateral in Payment-Channel Networks](https://eprint.iacr.org/2019/583.pdf). Christoph Egger, Pedro Moreno-Sanchez, Matteo Maffei. CCS '19. 
 
@@ -224,25 +222,21 @@ Carsten Binnig, Arvind Arasu, Donald Kossmann, Ravi Ramamurthy. VLDB'19.
 
 [Transaction][Understanding ethereum via graph analysis](https://www4.comp.polyu.edu.hk/~csxluo/EthereumGraphAnalysis.pdf). Ting Chen,Yuxiao Zhu, Zihao Li, Jiachi Chen, Xiaoqi Li, Xiapu Luo, Xiaodong Lin, Xiaodong Lin. INFOCOM'18
 
-[Security][Corking by Forking: Vulnerability Analysis of Blockchain](). Shengling Wang and Chenyu Wang, Qin Hu. INFOCOM'19
+[Security][Corking by Forking: Vulnerability Analysis of Blockchain](https://ieeexplore.ieee.org/document/8737490). Shengling Wang and Chenyu Wang, Qin Hu. INFOCOM'19
 
-[Scalability][ACCEL: Accelerating the Bitcoin Blockchain for High-throughput, Low-latency Applications](). Adiseshu Hari, Murali Kodialam, T. V Lakshman. INFOCOM'19
+[Scalability][ACCEL: Accelerating the Bitcoin Blockchain for High-throughput, Low-latency Applications](https://ieeexplore.ieee.org/document/8737556). Adiseshu Hari, Murali Kodialam, T. V Lakshman. INFOCOM'19
 
-[Application][A Blockchain based Witness Model for Trustworthy Cloud Service Level Agreement Enforcement](). Huan Zhou, Xue Ouyang,  Zhijie Ren, Jinshu Su, Cees de Laat and Zhiming Zhao. INFOCOM'19
+[Application][A Blockchain based Witness Model for Trustworthy Cloud Service Level Agreement Enforcement](https://ieeexplore.ieee.org/document/8737580). Huan Zhou, Xue Ouyang,  Zhijie Ren, Jinshu Su, Cees de Laat and Zhiming Zhao. INFOCOM'19
 
-[Network][Modeling the Impact of Network Connectivity on Consensus Security of Proof-of-Work Blockchain]().
+[Network][Modeling the Impact of Network Connectivity on Consensus Security of Proof-of-Work Blockchain](https://www.cnsr.ictas.vt.edu/publication/Modeling_Yang.pdf).
 Yang Xiao, Ning Zhang, Wenjing Lou and Thomas Hou. INFOCOM'20
 
-[Off-chain][Secure Balance Planning of Off-blockchain Payment Channel Networks](). Peng Li and Toshiaki Miyazaki, Wanlei Zhou. INFOCOM'20. 
+[Off-chain][Secure Balance Planning of Off-blockchain Payment Channel Networks](https://www.u-aizu.ac.jp/~pengli/files/pcn_planning_infocom2020.pdf). Peng Li and Toshiaki Miyazaki, Wanlei Zhou. INFOCOM'20. 
 
 ## IEEE International Conference on Distributed Computing Systems (ICDCS)
 [Application] [Transform Blockchain into Distributed Parallel Computing Architecture for Precision Medicine]().Zonyin Shae, Jeffrey J.P. Tsai. ICDCS'18
 
 [Crosschain] [Towards A Novel Architecture for Enabling Interoperability Amongst Multiple Blockchains](). Hai Jin, Xiaohai Dai, and Jiang Xiao. ICDCS'18
-
-[Consensus] [Short Paper][Towards Dependable, Scalable, and Pervasive Distributed Ledgers with Blockchains](). Zhang Kaiwen, Jacobsen Hans-Arno.ICDCS'18
-
-[Privacy] [Short Paper][A Flexible Network Approach to Privacy of Blockchain Transactions](). David M¨odinger, Henning Kopp, Frank Kargl and Franz J. Hauck. ICDCS'18
 
 [PoW][Selfish Mining in Ethereum](https://arxiv.org/abs/1901.04620) Jianyu Niu and Chen Feng. ICDCS'19
 
@@ -279,11 +273,11 @@ Yang Xiao, Ning Zhang, Wenjing Lou and Thomas Hou. INFOCOM'20
 ## ACM Conference on Emerging Networking EXperiments and Technologies (CoNEXT)
 [Consensus-PoW] [On the Necessity of a Prescribed Block Validity Consensus: Analyzing Bitcoin Unlimited Mining Protocol](https://eprint.iacr.org/2017/686.pdf). Ren Zhang, Bart Preneel. CoNEXT '17
 
-[Consensus][Stellar: Network Attack Mitigation using Advanced Blackholing]()(.Christoph Dietzel, Matthias Wichtlhuber, Georgios Smaragdakis, Anja Feldmann. CoNEXT '18
+[Consensus][Stellar: Network Attack Mitigation using Advanced Blackholing](https://www.de-cix.net/Files/2731074c857497be3827ac9537b6e486f27aa57c/Research-paper-Stellar-Network-Attack-Mitigation-using-Advanced-Blackholing.pdf)(.Christoph Dietzel, Matthias Wichtlhuber, Georgios Smaragdakis, Anja Feldmann. CoNEXT '18
 
-[Mining][Mining the Web with Webcoin](). Uri Klarman, Marcel Flores, Aleksandar Kuzmanovic. CoNEXT '18
+[Mining][Mining the Web with Webcoin](http://networks.cs.northwestern.edu/publications/webcoin/conext18-final22.pdf). Uri Klarman, Marcel Flores, Aleksandar Kuzmanovic. CoNEXT '18
 
-[Application][Blockchain-based Real-time Cheat Prevention and Robustness for Multi-player Online Game](). Sukrit Kalra, Rishabh Sanghi, Mohan Dhawan. CoNEXT '18
+[Application][Blockchain-based Real-time Cheat Prevention and Robustness for Multi-player Online Game](https://dl.acm.org/doi/10.1145/3281411.3281438). Sukrit Kalra, Rishabh Sanghi, Mohan Dhawan. CoNEXT '18
 
 ## Financial Cryptography (FC)
 [Economic-PoW] [Majority Is Not Enough: Bitcoin Mining Is Vulnerable](https://arxiv.org/pdf/1311.0243). Eyal I, Sirer EG. FC '14.
