@@ -121,6 +121,12 @@ and Edward W. Felten. USENIX '18 Security Symposium.
 
 [Consensus-PoW][Bobtail: Improved Blockchain Security with Low-Variance Mining](https://arxiv.org/pdf/1709.08750.pdf). George Bissias and Brian N. Levine. NDSS '20.
 
+[Consensus-PoS][The Attack of the Clones Against Proof-of-Authority](https://arxiv.org/pdf/1902.10244.pdf). Parinya Ekparinya, Vincent Gramoli,Guillaume Jourjon. NDSS '20.
+
+[Layer2][Snappy: Fast On-chain Payments with Practical Collaterals](https://arxiv.org/pdf/2001.01278.pdf) Vasilios Mavroudis,Karl Wüst, Aritra Dhar, Kari Kostiainen, and Srdjan Capkun. NDSS '20.
+
+[Smart Contract][Broken Metre: Attacking Resource Metering in EVM](https://arxiv.org/pdf/1909.07220.pdf). Daniel Perez, and Benjamin Livshits. NDSS '20.
+
 ## ACM Symposium on Operating Systems Principles (SOSP)
 [Consensus] [Algorand: Scaling Byzantine Agreements for Cryptocurrencies](https://people.csail.mit.edu/nickolai/papers/gilad-algorand.pdf). Yossi Gilad, Rotem Hemo, Silvio Micali, Georgios Vlachos, Nickolai Zeldovich. SOSP'17
 
@@ -240,9 +246,7 @@ Yang Xiao, Ning Zhang, Wenjing Lou and Thomas Hou. INFOCOM'20
 [Off-chain][Secure Balance Planning of Off-blockchain Payment Channel Networks](https://www.u-aizu.ac.jp/~pengli/files/pcn_planning_infocom2020.pdf). Peng Li and Toshiaki Miyazaki, Wanlei Zhou. INFOCOM'20. 
 
 ## IEEE International Conference on Distributed Computing Systems (ICDCS)
-[Application] [Transform Blockchain into Distributed Parallel Computing Architecture for Precision Medicine]().Zonyin Shae, Jeffrey J.P. Tsai. ICDCS'18
-
-[Crosschain] [Towards A Novel Architecture for Enabling Interoperability Amongst Multiple Blockchains](). Hai Jin, Xiaohai Dai, and Jiang Xiao. ICDCS'18
+[Application] [Transform Blockchain into Distributed Parallel Computing Architecture for Precision Medicine](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8416392).Zonyin Shae, Jeffrey J.P. Tsai. ICDCS'18
 
 [PoW][Selfish Mining in Ethereum](https://arxiv.org/abs/1901.04620) Jianyu Niu and Chen Feng. ICDCS'19
 
@@ -250,25 +254,17 @@ Yang Xiao, Ning Zhang, Wenjing Lou and Thomas Hou. INFOCOM'20
 
 [Application][Hierarchical Edge-Cloud Computing for Mobile Blockchain Mining Game](https://pdfs.semanticscholar.org/cfe0/77c9b880c2a0dfb495448a068fdf1db07b6e.pdf). Suhan Jiang, Xinyi Li and Jie Wu. ICDCS'19
 
-[Scalability][OptChain: Optimal Transactions Placement for Scalable Blockchain Sharding](). Lan Nguyen, Truc Nguyen, Thang Dinh and My Thai. ICDCS'19
+[Scalability][OptChain: Optimal Transactions Placement for Scalable Blockchain Sharding](http://optnetsci.cise.ufl.edu/papers/icdcs19truc.pdf). Lan Nguyen, Truc Nguyen, Thang Dinh and My Thai. ICDCS'19
 
 [Consensus][Jidar: A Jigsaw-like Data Reduction Approach without Trust Assumptions for Bitcoin System](https://www.researchgate.net/publication/336945962_Jidar_A_Jigsaw-like_Data_Reduction_Approach_Without_Trust_Assumptions_for_Bitcoin_System). Xiaohai Dai, Jiang Xiao, Wenhui Yang, Chaofan Wang and Hai Jin. ICDCS'19
 
 [Scalability][ParBlockchain: Leveraging Transaction Parallelism in Permissioned Blockchain Systems](https://arxiv.org/pdf/1902.01457.pdf). Mohammad Javad Amiri, Divyakant Agrawal and Amr El Abbadi. ICDCS'19
 
-[Application][Optimal Admission Control For Secondary Users using Blockchain Technology In Cognitive Radio Networks](). Wenlong Ni, Yuhong Zhang and Wei Li. ICDCS'19
+[Application][Optimal Admission Control For Secondary Users using Blockchain Technology In Cognitive Radio Networks](https://ieeexplore.ieee.org/document/8885039). Wenlong Ni, Yuhong Zhang and Wei Li. ICDCS'19
 
-[application][B-IoT: Blockchain Driven Internet of Things with Credit-Based Consensus Mechanism](). Junqin Huang, Linghe Kong, Guihai Chen, Long Chen, Kaishun Wu and Xue Liu. ICDCS'19
+[Application][Resource Allocation and Consensus on Edge Blockchain in Pervasive Edge Computing Environments](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8884875). Yaodong Huang, Jiarui Zhang, Jun Duan, Bin Xiao, Fan Ye and Yuanyuan Yang. ICDCS'19
 
-[Application][Resource Allocation and Consensus on Edge Blockchain in Pervasive Edge Computing Environments](). Yaodong Huang, Jiarui Zhang, Jun Duan, Bin Xiao, Fan Ye and Yuanyuan Yang. ICDCS'19
-
-[Application][Xyreum: A High-Performance and Scalable Blockchain for IIoT Security and Privacy](). Abubakar Sadiq Sani, Dong Yuan, Wei Bao, Phee Lep Yeoh, Zhaoyang Dong, Branka Vucetic and Elisa Bertino. ICDCS'19
-
-[Vision][AI Blockchain Platform for Trusting News](). Zonyin Shae and Jeffrey Tsai. ICDCS'19
-
-[Vision][Dependable Public Ledger for Policy Compliance, a Blockchain Based Approach](). Zhou Wu, Andrew Williams and Debbie Perouli. ICDCS'19
-
-[Vision][Please, do not decentralize the Internet with (permissionless) blockchains!](https://arxiv.org/pdf/1904.13093.pdf). Pedro Garcia Lopez, Alberto Montresor and Anwitaman Datta. ICDCS'19
+[Application][Xyreum: A High-Performance and Scalable Blockchain for IIoT Security and Privacy](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8885084). Abubakar Sadiq Sani, Dong Yuan, Wei Bao, Phee Lep Yeoh, Zhaoyang Dong, Branka Vucetic and Elisa Bertino. ICDCS'19
 
 
 ## USENIX Symposium on Networked Systems Design and Implementation (NSDI)
