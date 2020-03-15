@@ -35,7 +35,11 @@ Key Words: System Design, Consensus(Proof-of-Work, Proof-of-Stake, Proof-of-X, B
 ## EUROCRYPT
 [Consensus-PoW] [The Bitcoin Backbone Protocol: Analysis and Applications](https://eprint.iacr.org/2014/765.pdf). Garay J, Kiayias A, Leonardos N. EUROCRYPT '15.
 
-[Consensus-PoW] [Analysis of the Blockchain Protocol in Asynchronous Networks](https://eprint.iacr.org/2016/454.pdf). Pass R, Seeman L, shelat a. EUROCRYPT '17
+[Consensus-PoW] [Analysis of the Blockchain Protocol in Asynchronous Networks](https://eprint.iacr.org/2016/454.pdf). Pass R, Seeman L, abhi shelat. EUROCRYPT '17
+
+[Cpnsensus][Thunderella: Blockchains with Optimistic Instant Confirmation](https://eprint.iacr.org/2017/913.pdf). Rafael Pass, Elaine Shi. EUROCRYPT '18.
+
+[Cpnsensus-PoS][Ouroboros Praos: An adaptively-secure, semi-synchronous proof-of-stake blockchain](https://eprint.iacr.org/2017/573.pdf). Bernardo David, Peter Gaži, Aggelos Kiayias, Alexander Russell. EUROCRYPT '18. 
 
 [Consensus][Consensus through Herding](https://link.springer.com/content/pdf/10.1007%2F978-3-030-17653-2_24.pdf). T-H. Hubert Chan Rafael Pass Elaine Shi. EUROCRYPT '19. 
 
