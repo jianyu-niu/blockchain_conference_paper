@@ -295,6 +295,8 @@ Yang Xiao, Ning Zhang, Wenjing Lou and Thomas Hou. INFOCOM'20
 
 [Application][Blockchain-based Real-time Cheat Prevention and Robustness for Multi-player Online Game](https://dl.acm.org/doi/10.1145/3281411.3281438). Sukrit Kalra, Rishabh Sanghi, Mohan Dhawan. CoNEXT '18
 
+[Layer2][Flash: E!icient Dynamic Routing for O!chain Networks](http://www.cs.jhu.edu/~xinjin/files/CoNEXT19_Flash.pdf). Peng Wang, Hong Xu, Xin Jin, Tao Wang.  CoNEXT '19
+
 ## Financial Cryptography (FC)
 [Economic-PoW] [Majority Is Not Enough: Bitcoin Mining Is Vulnerable](https://arxiv.org/pdf/1311.0243). Eyal I, Sirer EG. FC '14.
 
