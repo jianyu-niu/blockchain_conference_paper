@@ -29,6 +29,8 @@ Key Words: System Design, Consensus(Proof-of-Work, Proof-of-Stake, Proof-of-X, B
 
 [Consensus-PoS] [Ouroboros Praos: An adaptively-secure, semi-synchronous proof-of-stake protocol](http://eprint.iacr.org/2017/573.pdf). Bernardo D, Gazi P, Kiayias A, Russell A. Crypto '17.
 
+[Consensus-BFT] [Order-Fairness for Byzantine Consensus](https://eprint.iacr.org/2020/269.pdf) Mahimna Kelkar,Fan Zhang,Ari Juels. Crypto '20.
+
 ## Eurosys
 [System Design] [Hyperledger Fabric: A Distributed Operating System for Permissioned Blockchains](https://arxiv.org/pdf/1801.10228.pdf). Elli Androulaki, Artem Barger, Vita Bortnikov, Christian Cachin, Konstantinos Christidis, Angelo De Caro, David Enyeart, Christopher Ferris, Gennady Laventman, Yacov Manevich, Srinivasan Muralidharan, Chet Murthy, Binh Nguyen, Manish Sethi, Gari Singh, Keith Smith, Alessandro Sorniotti, Chrysoula Stathakopoulou, Marko Vukolić, Sharon Weed Cocco, Jason Yellick. EuroSys'18
 
