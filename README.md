@@ -118,16 +118,15 @@ and Edward W. Felten. USENIX '18 Security Symposium.
 
 [Smart Contract][FastKitten: Practical Smart Contracts on Bitcoin](https://www.usenix.org/system/files/sec19fall_das_prepub.pdf). Poulami Das, Lisa Eckey, Tommaso Frassetto, David Gens, Kristina Hostáková, Patrick Jauernig, Sebastian Faust, and Ahmad-Reza Sadeghi. USENIX '19 Security Symposium.
 
-[Platform][BlockSci: Design and applications of a blockchain analysis platform](). Harry Kalodner, Malte Möser, and Kevin Lee,Steven Goldfeder, Martin Plattner, Alishah Chator, Arvind Narayanan. USENIX '20 Security Symposium.
+[Transaction Analysis][BlockSci: Design and applications of a blockchain analysis platform](). Harry Kalodner, Malte Möser, and Kevin Lee,Steven Goldfeder, Martin Plattner, Alishah Chator, Arvind Narayanan. USENIX '20 Security Symposium.
 
 [SideChain][Remote Side-Channel Attacks on Anonymous Transaction](). Florian Tramer and Dan Boneh, Kenny Paterson. USENIX '20 Security Symposium.
 
 [Smart Contract][ETHBMC: A Bounded Model Checker for Smart Contracts](). Joel Frank, Cornelius Aschermann, and Thorsten Holz. USENIX '20 Security Symposium.
 
+[Smart Contract][TXSPECTOR: Uncovering Attacks in Ethereum from Transactions](). Mengya Zhang, Xiaokuan Zhang, Yinqian Zhang, and Zhiqiang Lin. USENIX '20 Security Symposium.
 
-[Attack][TXSPECTOR: Uncovering Attacks in Ethereum from Transactions](). Mengya Zhang, Xiaokuan Zhang, Yinqian Zhang, and Zhiqiang Lin. USENIX '20 Security Symposium.
-
-[Attack][An Ever-evolving Game: Evaluation of Real-world Attacks and Defenses in Ethereum Ecosystem](). Shunfan Zhou, Zhemin Yang, and Jie Xiang, Yinzhi Cao,Min Yang and Yuan Zhang. USENIX '20 Security Symposium.
+[Smart Contract][An Ever-evolving Game: Evaluation of Real-world Attacks and Defenses in Ethereum Ecosystem](). Shunfan Zhou, Zhemin Yang, and Jie Xiang, Yinzhi Cao,Min Yang and Yuan Zhang. USENIX '20 Security Symposium.
 
 ## Network and Distributed System Security (NDSS) 
 [Economic-Smart Contracts] ["Zeus": Analyzing Safety of Smart Contracts](http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2018/02/ndss2018_09-1_Kalra_paper.pdf). Kalra S, Goel S, Dhawan M, Sharma S. NDSS '18.
