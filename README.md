@@ -13,6 +13,7 @@ Welcome developers or researchers to add more published paper to this list.
 - [International Conference on Very Large Data Bases(VLDB)](#international-conference-on-very-large-data-bases-vldb)
 - [ACM Symposium on Principles of Distributed Computing(PODC)](#acm-symposium-on-principles-of-distributed-computing-podc)
 - [ACM International Conference on Management of Data(SIGMOD)](#acm-international-conference-on-management-of-data-sigmod)
+- [IEEE/IFIP International Conference on Dependable Systems and Networks(DSN)](#ieee-ifip-international-conference-on-dependable-systems-and-networks-dsn)
 - [ACM Conference on Computer and Communications Security(CCS)](#acm-conference-on-computer-and-communications-security-ccs)
 - [IEEE International Conference on Computer Communications(INFOCOM)](#ieee-international-conference-on-computer-communicationsinfocom)
 - [IEEE International Conference on Distributed Computing Systems(ICDCS)](#ieee-international-conference-on-distributed-computing-systems-icdcs)
