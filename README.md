@@ -13,11 +13,11 @@ Welcome developers or researchers to add more published paper to this list.
 - [International Conference on Very Large Data Bases(VLDB)](#international-conference-on-very-large-data-bases-vldb)
 - [ACM Symposium on Principles of Distributed Computing(PODC)](#acm-symposium-on-principles-of-distributed-computing-podc)
 - [ACM International Conference on Management of Data(SIGMOD)](#acm-international-conference-on-management-of-data-sigmod)
-- [IEEE/IFIP International Conference on Dependable Systems and Networks(DSN)](#ieee-ifip-international-conference-on-dependable-systems-and-networks-dsn)
 - [ACM Conference on Computer and Communications Security(CCS)](#acm-conference-on-computer-and-communications-security-ccs)
 - [IEEE International Conference on Computer Communications(INFOCOM)](#ieee-international-conference-on-computer-communicationsinfocom)
 - [IEEE International Conference on Distributed Computing Systems(ICDCS)](#ieee-international-conference-on-distributed-computing-systems-icdcs)
 - [USENIX Symposium on Networked Systems Design and Implementation(NSDI)](#usenix-symposium-on-networked-systems-design-and-implementation-nsdi)
+- [IEEE/IFIP International Conference on Dependable Systems and Networks(DSN)](#ieee-ifip-international-conference-on-dependable-systems-and-networks-dsn)
 - [ACM Conference on Emerging Networking EXperiments and Technologies(CoNEXT)](#acm-conference-on-emerging-networking-experiments-and-technologies-conext)
 - [Financial Cryptography(FC)](#financial-cryptography-fc) 
 - [License](#license)
@@ -303,6 +303,21 @@ Yang Xiao, Ning Zhang, Wenjing Lou and Thomas Hou. INFOCOM'20
 [Consensus-PoW] [Bitcoin-NG: A Scalable Blockchain Protocol](https://www.usenix.org/system/files/conference/nsdi16/nsdi16-paper-eyal.pdf). Eyal I, Gencer AE, Sirer EG, Van Renesse R. NSDI ’16
 
 [System][Monoxide: Scale Out Blockchain with Asynchronized Consensus Zones](https://www.usenix.org/system/files/nsdi19-wang-jiaping.pdf). Jiaping Wang, Hao Wang. NSDI'19
+
+## IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)
+[Payment Channel][FSTR: Funds Skewness aware Transaction Routing for Payment Channel Networks](). Siyi Lin, Jingjing Zhang, Weigang Wu. DSN '20
+
+[Incentive][On Incentive Compatible Role-based Reward Distribution in Algorand](). Mehdi Fooladgar, Mohammad Hossein Manshaei, Murtuza Jadliwala, Mohammad Ashiqur Rahman.  DSN '20
+
+[Consensus-BFT][EPIC: Efficient Asynchronous BFT with Adaptive Security]().Chao Liu, Sisi Duan, Haibin Zhang. DSN '20 
+
+[Smart Contract][SMACS: Smart Contract Access Control Service](). Bowen Liu, Siwei Sun, Pawel Szalachowski. DSN '20
+
+[Analysis][Data-Driven Model-Based Analysis of the Ethereum Verifier's Dilemma](). Maher Alharby, Roben Lunardi, Amjad Aldweesh, Aad van Moorsel. DSN '20
+
+[Smart Contract][Smart Contracts on the Move](). Enrique Fynn, Alysson Bessani, Fernando Pedone. DSN '20 
+
+[Consensus][From Byzantine Replication to Blockchain: Consensus is only the Beginning](). Alysson Bessani, Eduardo Alchieri, João Sousa, André Oliveira, Fernando Pedone. DSN '20
 
 ## ACM Conference on Emerging Networking EXperiments and Technologies (CoNEXT)
 [Consensus-PoW] [On the Necessity of a Prescribed Block Validity Consensus: Analyzing Bitcoin Unlimited Mining Protocol](https://eprint.iacr.org/2017/686.pdf). Ren Zhang, Bart Preneel. CoNEXT '17
