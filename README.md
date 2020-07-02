@@ -11,13 +11,14 @@ Welcome developers or researchers to add more published paper to this list.
 - [Network and Distributed System Security(NDSS)](#network-and-distributed-system-security-ndss)
 - [ACM Symposium on Operating Systems Principles(SOSP)](#acm-symposium-on-operating-systems-principles-sosp)
 - [International Conference on Very Large Data Bases(VLDB)](#international-conference-on-very-large-data-bases-vldb)
+- [International Symposium on Reliable Distributed Systems(SRDS)](#srds)
 - [ACM Symposium on Principles of Distributed Computing(PODC)](#acm-symposium-on-principles-of-distributed-computing-podc)
 - [ACM International Conference on Management of Data(SIGMOD)](#acm-international-conference-on-management-of-data-sigmod)
 - [ACM Conference on Computer and Communications Security(CCS)](#acm-conference-on-computer-and-communications-security-ccs)
 - [IEEE International Conference on Computer Communications(INFOCOM)](#ieee-international-conference-on-computer-communicationsinfocom)
 - [IEEE International Conference on Distributed Computing Systems(ICDCS)](#ieee-international-conference-on-distributed-computing-systems-icdcs)
 - [USENIX Symposium on Networked Systems Design and Implementation(NSDI)](#usenix-symposium-on-networked-systems-design-and-implementation-nsdi)
-- [IEEE/IFIP International Conference on Dependable Systems and Networks(DSN)](#ieee/ifip-international-conference-on-dependable-systems-and-networks-dsn)
+- [IEEE/IFIP International Conference on Dependable Systems and Networks(DSN)](#dsn)
 - [ACM Conference on Emerging Networking EXperiments and Technologies(CoNEXT)](#acm-conference-on-emerging-networking-experiments-and-technologies-conext)
 - [Financial Cryptography(FC)](#financial-cryptography-fc) 
 - [License](#license)
@@ -304,7 +305,7 @@ Yang Xiao, Ning Zhang, Wenjing Lou and Thomas Hou. INFOCOM'20
 
 [System][Monoxide: Scale Out Blockchain with Asynchronized Consensus Zones](https://www.usenix.org/system/files/nsdi19-wang-jiaping.pdf). Jiaping Wang, Hao Wang. NSDI'19
 
-## IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)
+## DSN
 [Smart Contract][FabZK: Supporting Privacy-Preserving, Auditable Smart Contracts in Hyperledger Fabric](). Hui Kang, Ting Dai, Nerla Jean-Louis and Shu Tao. Xiaohui Gu.  DSN '19
 
 [Consensus-BFT][SBFT: a Scalable and Decentralized Trust Infrastructure](). Guy Golan Gueta, Ittai Abraham, Shelly Grossman, Dahlia Malkhi, Benny Pinkas, Michael K. Reiter, Dragos-Adrian Seredinschi, Orr Tamir, Alin Tomescu.  DSN '19
