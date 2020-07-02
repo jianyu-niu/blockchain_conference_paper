@@ -17,7 +17,7 @@ Welcome developers or researchers to add more published paper to this list.
 - [IEEE International Conference on Computer Communications(INFOCOM)](#ieee-international-conference-on-computer-communicationsinfocom)
 - [IEEE International Conference on Distributed Computing Systems(ICDCS)](#ieee-international-conference-on-distributed-computing-systems-icdcs)
 - [USENIX Symposium on Networked Systems Design and Implementation(NSDI)](#usenix-symposium-on-networked-systems-design-and-implementation-nsdi)
-- [International Conference on Dependable Systems and Networks(DSN)](#international-conference-on-dependable-systems-and-networks-dsn)
+- [IEEE/IFIP International Conference on Dependable Systems and Networks(DSN)](#ieee/ifip-international-conference-on-dependable-systems-and-networks-dsn)
 - [ACM Conference on Emerging Networking EXperiments and Technologies(CoNEXT)](#acm-conference-on-emerging-networking-experiments-and-technologies-conext)
 - [Financial Cryptography(FC)](#financial-cryptography-fc) 
 - [License](#license)
@@ -304,7 +304,7 @@ Yang Xiao, Ning Zhang, Wenjing Lou and Thomas Hou. INFOCOM'20
 
 [System][Monoxide: Scale Out Blockchain with Asynchronized Consensus Zones](https://www.usenix.org/system/files/nsdi19-wang-jiaping.pdf). Jiaping Wang, Hao Wang. NSDI'19
 
-## International Conference on Dependable Systems and Networks (DSN)
+## IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)
 [Payment Channel][FSTR: Funds Skewness aware Transaction Routing for Payment Channel Networks](). Siyi Lin, Jingjing Zhang, Weigang Wu. DSN '20
 
 [Incentive][On Incentive Compatible Role-based Reward Distribution in Algorand](). Mehdi Fooladgar, Mohammad Hossein Manshaei, Murtuza Jadliwala, Mohammad Ashiqur Rahman.  DSN '20
