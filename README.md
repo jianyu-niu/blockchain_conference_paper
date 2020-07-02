@@ -178,6 +178,14 @@ Carsten Binnig, Arvind Arasu, Donald Kossmann, Ravi Ramamurthy. VLDB'19.
 
 [Application][Blockchain Meets Database: Design and Implementation of a Blockchain Relational Database](http://www.vldb.org/pvldb/vol12/p1539-nathan.pdf). Senthil Nathan, Chander Govindarajan, Adarsh Saraf, Manish Sethi, and Praveen Jayachandran. VLDB'19.
 
+## SRDS
+[Consensus][Bloxy: Providing Transparent and Generic BFT-Based Ordering Services for Blockchains](https://www.researchgate.net/publication/340304077_Bloxy_Providing_Transparent_and_Generic_BFT-Based_Ordering_Services_for_Blockchains).Signe Rüsch, Rüdiger Kapitza and Kai Bleeke. SRDS '19.
+
+[Application][Blockchain-based Metadata Protection for Archival Systems](https://ieeexplore.ieee.org/document/9049624).	Arnaud L'Hutereau, Dorian Burihabwa, Pascal Felber, Hugues Mercier and Valerio Schiavoni. SRDS '19.
+
+[Application][Trusted Computing meets Blockchain: Rollback Attacks and a Solution for Hyperledger Fabric](https://ieeexplore.ieee.org/document/9049585). Marcus Brandenburger, Christian Cachin, Rüdiger Kapitza and Alessandro Sorniotti. SRDS '19
+
+
 
 ## ACM Symposium on Principles of Distributed Computing (PODC)
 [Consensus-PoW] [FruitChains: A Fair Blockchain](https://eprint.iacr.org/2016/916.pdf).Rafael Pass, Elaine Shi. PODC'17
