@@ -307,17 +307,20 @@ Yang Xiao, Ning Zhang, Wenjing Lou and Thomas Hou. INFOCOM'20
 ## IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)
 [Payment Channel][FSTR: Funds Skewness aware Transaction Routing for Payment Channel Networks](). Siyi Lin, Jingjing Zhang, Weigang Wu. DSN '20
 
-[Incentive][On Incentive Compatible Role-based Reward Distribution in Algorand](). Mehdi Fooladgar, Mohammad Hossein Manshaei, Murtuza Jadliwala, Mohammad Ashiqur Rahman.  DSN '20
+[Incentive][On Incentive Compatible Role-based Reward Distribution in Algorand](https://arxiv.org/abs/1911.03356). Mehdi Fooladgar, Mohammad Hossein Manshaei, Murtuza Jadliwala, Mohammad Ashiqur Rahman.  DSN '20
 
 [Consensus-BFT][EPIC: Efficient Asynchronous BFT with Adaptive Security]().Chao Liu, Sisi Duan, Haibin Zhang. DSN '20 
 
-[Smart Contract][SMACS: Smart Contract Access Control Service](). Bowen Liu, Siwei Sun, Pawel Szalachowski. DSN '20
+[Smart Contract][SMACS: Smart Contract Access Control Service](https://arxiv.org/abs/2003.07495). Bowen Liu, Siwei Sun, Pawel Szalachowski. DSN '20
 
-[Analysis][Data-Driven Model-Based Analysis of the Ethereum Verifier's Dilemma](). Maher Alharby, Roben Lunardi, Amjad Aldweesh, Aad van Moorsel. DSN '20
+[Incentive][Data-Driven Model-Based Analysis of the Ethereum Verifier's Dilemma](https://arxiv.org/pdf/2004.12768.pdf). Maher Alharby, Roben Lunardi, Amjad Aldweesh, Aad van Moorsel. DSN '20
 
-[Smart Contract][Smart Contracts on the Move](). Enrique Fynn, Alysson Bessani, Fernando Pedone. DSN '20 
+[Smart Contract][Smart Contracts on the Move](https://arxiv.org/pdf/2004.05933.pdf). Enrique Fynn, Alysson Bessani, Fernando Pedone. DSN '20 
 
-[Consensus][From Byzantine Replication to Blockchain: Consensus is only the Beginning](). Alysson Bessani, Eduardo Alchieri, João Sousa, André Oliveira, Fernando Pedone. DSN '20
+[Consensus][From Byzantine Replication to Blockchain: Consensus is only the Beginning](https://arxiv.org/pdf/2004.14527.pdf). Alysson Bessani, Eduardo Alchieri, João Sousa, André Oliveira, Fernando Pedone. DSN '20
+
+[Payment Channel][Online Payments by Merely Broadcasting Messages](https://arxiv.org/pdf/2004.13184.pdf). Daniel Collins, Rachid Guerraoui, Jovan Komatovic, Petr Kuznetsov, Matteo Monti, Matej Pavlovic, Yvonne-Anne Pignolet, Dragos-Adrian Seredinschi, Andrei Tonkikh, Athanasios Xygkis.  DSN '20 
+
 
 ## ACM Conference on Emerging Networking EXperiments and Technologies (CoNEXT)
 [Consensus-PoW] [On the Necessity of a Prescribed Block Validity Consensus: Analyzing Bitcoin Unlimited Mining Protocol](https://eprint.iacr.org/2017/686.pdf). Ren Zhang, Bart Preneel. CoNEXT '17
