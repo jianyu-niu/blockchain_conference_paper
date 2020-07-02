@@ -305,6 +305,10 @@ Yang Xiao, Ning Zhang, Wenjing Lou and Thomas Hou. INFOCOM'20
 [System][Monoxide: Scale Out Blockchain with Asynchronized Consensus Zones](https://www.usenix.org/system/files/nsdi19-wang-jiaping.pdf). Jiaping Wang, Hao Wang. NSDI'19
 
 ## IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)
+[Smart Contract][FabZK: Supporting Privacy-Preserving, Auditable Smart Contracts in Hyperledger Fabric](). Hui Kang, Ting Dai, Nerla Jean-Louis and Shu Tao. Xiaohui Gu.  DSN '19
+
+[Consensus-BFT][SBFT: a Scalable and Decentralized Trust Infrastructure](). Guy Golan Gueta, Ittai Abraham, Shelly Grossman, Dahlia Malkhi, Benny Pinkas, Michael K. Reiter, Dragos-Adrian Seredinschi, Orr Tamir, Alin Tomescu.  DSN '19
+
 [Payment Channel][FSTR: Funds Skewness aware Transaction Routing for Payment Channel Networks](). Siyi Lin, Jingjing Zhang, Weigang Wu. DSN '20
 
 [Incentive][On Incentive Compatible Role-based Reward Distribution in Algorand](https://arxiv.org/abs/1911.03356). Mehdi Fooladgar, Mohammad Hossein Manshaei, Murtuza Jadliwala, Mohammad Ashiqur Rahman.  DSN '20
