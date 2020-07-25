@@ -131,7 +131,7 @@ Alexei Zamyatin, Dominik Harz, Joshua Lind, Panayiotis Panayiotou, Arthur Gervai
 
 [Application][FlyClient: Super-Light Clients for Cryptocurrencies](). Benedikt Bünz, Lucianna Kiffer, Loi Luu, Mahdi Zamani. IEEE S&P '20. 
 
-## Sigmetric
+## sigmetric
 [Network][Stability and Scalability of Blockchain Systems](). Aditya Gopalan, Abishek Sankararaman, Anwar Walid, Sriram Vishwanath. Sigmetric '20.
 
 [Layer-2][Privacy-Utility Tradeoffs in Routing Cryptocurrency over Payment Channel Networks](). Weizhao Tang, Weina Wang, Giulia Fanti, Sewoong Oh. Sigmetric '20.
