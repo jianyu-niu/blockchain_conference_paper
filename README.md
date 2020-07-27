@@ -8,7 +8,7 @@ Welcome developers or researchers to add more published paper to this list.
 - [EUROCRYPT](#eurocrypt)
 - [USENIX Security](#usenix-security)
 - [IEEE Security and Privacy(S&P)](#sp)
-- [ACM SIGMETRICS / IFIP Performance](#sigmetricperfprmance)
+- [ACM SIGMETRICS / IFIP Performance](#sigmetricperformance)
 - [Network and Distributed System Security(NDSS)](#ndss)
 - [ACM Symposium on Operating Systems Principles(SOSP)](#sosp)
 - [International Conference on Very Large Data Bases(VLDB)](#vldb)
@@ -131,7 +131,7 @@ Alexei Zamyatin, Dominik Harz, Joshua Lind, Panayiotis Panayiotou, Arthur Gervai
 
 [Application][FlyClient: Super-Light Clients for Cryptocurrencies](). Benedikt Bünz, Lucianna Kiffer, Loi Luu, Mahdi Zamani. IEEE S&P '20. 
 
-## Sigmetric&Perfprmance
+## Sigmetric&Performance
 [Network][Stability and Scalability of Blockchain Systems](). Aditya Gopalan, Abishek Sankararaman, Anwar Walid, Sriram Vishwanath. Sigmetric '20.
 
 [Layer-2][Privacy-Utility Tradeoffs in Routing Cryptocurrency over Payment Channel Networks](). Weizhao Tang, Weina Wang, Giulia Fanti, Sewoong Oh. Sigmetric '20.
