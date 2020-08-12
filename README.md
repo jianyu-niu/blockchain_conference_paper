@@ -126,6 +126,8 @@ Alexei Zamyatin, Dominik Harz, Joshua Lind, Panayiotis Panayiotou, Arthur Gervai
 
 [Smart Contract][VeriSmart: A Highly Precise Safety Verifier for Ethereum Smart Contracts](). Sunbeom So, Myungho Lee, Jisu Park, Heejo Lee, Hakjoo Oh. IEEE S&P '20. 
 
+[Smart Contract][Executable Operational Semantics of Solidity](https://arxiv.org/pdf/1804.01295.pdf). Jiao Jiao, Shuanglong Kan, Shang-Wei Lin, David Sanan, Yang Liu, Jun Sun. IEEE S&P '20. 
+
 [Consensus][Sync HotStuff: Simple and Practical Synchronous State Machine Replication](). Ittai Abraham, Dahlia Malkhi, Kartik Nayak, Ling Ren, Maofan Yin. IEEE S&P '20. 
 
 [Application][Flash Boys 2.0: Frontrunning in Decentralized Exchanges, Miner Extractable Value, and Consensus Instability](). Philip Daian, Steven Goldfeder, Tyler Kell, Yunqi Li, Xueyuan Zhao, Iddo Bentov, Lorenz Breidenbach, Ari Juels. IEEE S&P '20. 
