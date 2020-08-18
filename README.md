@@ -17,10 +17,10 @@ Welcome developers or researchers to add more published paper to this list.
 - [ACM Symposium on Principles of Distributed Computing(PODC)](#podc)
 - [ACM International Conference on Management of Data(SIGMOD)](#sigmod)
 - [ACM Conference on Computer and Communications Security(CCS)](#ccs)
+- [IEEE International Parallel & Distributed Processing Symposium(IPDPS)](#ipdps)
 - [ACM Symposium on Parallelism in Algorithms and Architectures(SPAA)](#spaa)
 - [IEEE International Conference on Computer Communications(INFOCOM)](#infocom)
 - [IEEE International Conference on Distributed Computing Systems(ICDCS)](#icdcs)
-- [IEEE International Parallel & Distributed Processing Symposium(IPDPS)](#ipdps)
 - [USENIX Symposium on Networked Systems Design and Implementation(NSDI)](#nsdi)
 - [IEEE/IFIP International Conference on Dependable Systems and Networks(DSN)](#dsn)
 - [ACM Conference on Emerging Networking EXperiments and Technologies(CoNEXT)](#conext)
@@ -279,6 +279,12 @@ Carsten Binnig, Arvind Arasu, Donald Kossmann, Ravi Ramamurthy. VLDB'19.
 
 [Payment Networks][Atomic Multi-Channel Updates with Constant Collateral in Payment-Channel Networks](https://eprint.iacr.org/2019/583.pdf). Christoph Egger, Pedro Moreno-Sanchez, Matteo Maffei. CCS '19. 
 
+## IPDPS
+[Consensus][G-PBFT: A Location-based and Scalable Consensus Protocol for IoT-Blockchain Applications](http://www4.comp.polyu.edu.hk/~csbxiao/paper/2020/IPDPS_GPBFT_2020.pdf). LapHou Lao, Xiaohai Dai, Bin Xiao, and Songtao Guo. IPDPS '20.
+
+[BFT][Byzantine Generalized Lattice Agreement](https://arxiv.org/pdf/1910.05768.pdf). Giuseppe Antonio Di Luna, Emmanuelle Anceaume, and Leonardo Querzoni. IPDPS '20. 
+
+
 ## SIGMOD
 [Database][Blurring the Lines between Blockchains and Database Systems: the Case of Hyperledger Fabric](https://dl.acm.org/doi/pdf/10.1145/3299869.3319883?download=true). Ankur Sharma, Felix Martin Schuhknecht, Divya Agrawal, Jens Dittrich. SIGMOD '19.
 
@@ -331,12 +337,6 @@ Yang Xiao, Ning Zhang, Wenjing Lou and Thomas Hou. INFOCOM'20
 [Network][Fair and Efficient Gossip in Hyperledger Fabric](https://arxiv.org/pdf/2004.07060.pdf). Nicolae Berendea, Hugues Mercier, Emanuel Onica, Etienne Rivière. ICDCS'20
 
 [PoW][An Analysis of Blockchain Consistency in Asynchronous Networks: Deriving a Neat Bound](https://arxiv.org/abs/1909.06587). Jun Zhao, Jing Tang, Li Zengxiang, Huaxiong Wang, Kwok-Yan Lam, Kaiping Xue. ICDCS'20
-
-## IPDPS
-[Consensus][G-PBFT: A Location-based and Scalable Consensus Protocol for IoT-Blockchain Applications](). LapHou Lao, Xiaohai Dai, Bin Xiao, and Songtao Guo. IPDPS '20.
-
-[BFT][Byzantine Generalized Lattice Agreement](). Giuseppe Antonio Di Luna, Emmanuelle Anceaume, and Leonardo Querzoni. IPDPS '20. 
-
 
 ## NSDI
 [Consensus-PoW] [Bitcoin-NG: A Scalable Blockchain Protocol](https://www.usenix.org/system/files/conference/nsdi16/nsdi16-paper-eyal.pdf). Eyal I, Gencer AE, Sirer EG, Van Renesse R. NSDI ’16
