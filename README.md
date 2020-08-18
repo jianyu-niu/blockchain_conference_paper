@@ -10,9 +10,9 @@ Welcome developers or researchers to add more published paper to this list.
 - [IEEE Security and Privacy(S&P)](#sp)
 - [ACM SIGMETRICS / IFIP Performance](#sigmetricperformance)
 - [Network and Distributed System Security(NDSS)](#ndss)
+- [International Conference on Software Engineering(ICSE)](#icse) 
 - [ACM Symposium on Operating Systems Principles(SOSP)](#sosp)
 - [International Conference on Very Large Data Bases(VLDB)](#vldb)
-- [International Conference on Software Engineering(ICSE)](#icse) 
 - [International Symposium on Reliable Distributed Systems(SRDS)](#srds)
 - [ACM Symposium on Principles of Distributed Computing(PODC)](#podc)
 - [ACM International Conference on Management of Data(SIGMOD)](#sigmod)
@@ -171,6 +171,11 @@ Alexei Zamyatin, Dominik Harz, Joshua Lind, Panayiotis Panayiotou, Arthur Gervai
 [Smart Contract][SODA: A Generic Online Detection Framework for Smart Contracts](https://www.ndss-symposium.org/wp-content/uploads/2020/02/24449-paper.pdf). Ting Chen, Rong Cao, Ting Li, Xiapu Luo, Guofei Gu, Yufei Zhang, Zhou Liao, Hang Zhu, Gang Chen,
 Zheyuan He, Yuxing Tang, Xiaodong Lin, and Xiaosong Zhang. NDSS '20.
 
+## ICSE
+[Smart Contract] [Empirical Review of Automated Analysis Tools on 47,587 Ethereum Smart Contracts](https://arxiv.org/pdf/1910.10601.pdf). T Durieux, JF Ferreira, R Abreu, P Cruz. ICSE '2020
+
+[Smart Contract] [sFuzz-An Efficient Adaptive Fuzzer for Solidity Smart Contracts](https://arxiv.org/pdf/2004.08563.pdf). TD Nguyen, LH Pham, J Sun, Y Lin, QT Minh. ICSE '2020
+
 ## SOSP
 [Consensus] [Algorand: Scaling Byzantine Agreements for Cryptocurrencies](https://people.csail.mit.edu/nickolai/papers/gilad-algorand.pdf). Yossi Gilad, Rotem Hemo, Silvio Micali, Georgios Vlachos, Nickolai Zeldovich. SOSP'17
 
@@ -193,11 +198,6 @@ Carsten Binnig, Arvind Arasu, Donald Kossmann, Ravi Ramamurthy. VLDB'19.
 [Provenance][Fine-Grained, Secure and Efficient Data Provenance on Blockchain Systems](http://www.vldb.org/pvldb/vol12/p975-ruan.pdf). Pingcheng Ruan, Gang Chen, Tien Tuan Anh Dinh, Qian Lin, Beng Chin Ooi, Meihui Zhang. VLDB'19. 
 
 [Application][Blockchain Meets Database: Design and Implementation of a Blockchain Relational Database](http://www.vldb.org/pvldb/vol12/p1539-nathan.pdf). Senthil Nathan, Chander Govindarajan, Adarsh Saraf, Manish Sethi, and Praveen Jayachandran. VLDB'19.
-
-## ICSE
-[Smart Contract] [Empirical Review of Automated Analysis Tools on 47,587 Ethereum Smart Contracts](https://arxiv.org/pdf/1910.10601.pdf). T Durieux, JF Ferreira, R Abreu, P Cruz. ICSE '2020
-
-[Smart Contract] [sFuzz-An Efficient Adaptive Fuzzer for Solidity Smart Contracts](https://arxiv.org/pdf/2004.08563.pdf). TD Nguyen, LH Pham, J Sun, Y Lin, QT Minh. ICSE '2020
 
 ## SRDS
 [Consensus][Bloxy: Providing Transparent and Generic BFT-Based Ordering Services for Blockchains](https://www.researchgate.net/publication/340304077_Bloxy_Providing_Transparent_and_Generic_BFT-Based_Ordering_Services_for_Blockchains).Signe Rüsch, Rüdiger Kapitza and Kai Bleeke. SRDS '19.
