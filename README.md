@@ -10,12 +10,14 @@ Welcome developers or researchers to add more published paper to this list.
 - [IEEE Security and Privacy(S&P)](#sp)
 - [ACM SIGMETRICS / IFIP Performance](#sigmetricperformance)
 - [Network and Distributed System Security(NDSS)](#ndss)
+- [International Conference on Software Engineering(ICSE)](#icse) 
 - [ACM Symposium on Operating Systems Principles(SOSP)](#sosp)
 - [International Conference on Very Large Data Bases(VLDB)](#vldb)
 - [International Symposium on Reliable Distributed Systems(SRDS)](#srds)
 - [ACM Symposium on Principles of Distributed Computing(PODC)](#podc)
 - [ACM International Conference on Management of Data(SIGMOD)](#sigmod)
 - [ACM Conference on Computer and Communications Security(CCS)](#ccs)
+- [IEEE International Parallel & Distributed Processing Symposium(IPDPS)](#ipdps)
 - [ACM Symposium on Parallelism in Algorithms and Architectures(SPAA)](#spaa)
 - [IEEE International Conference on Computer Communications(INFOCOM)](#infocom)
 - [IEEE International Conference on Distributed Computing Systems(ICDCS)](#icdcs)
@@ -23,7 +25,6 @@ Welcome developers or researchers to add more published paper to this list.
 - [IEEE/IFIP International Conference on Dependable Systems and Networks(DSN)](#dsn)
 - [ACM Conference on Emerging Networking EXperiments and Technologies(CoNEXT)](#conext)
 - [Financial Cryptography(FC)](#fc) 
-- [International Conference on Software Engineering(ICSE)](#icse) 
 - [License](#license)
 
 Key Words: System Design, Consensus(Proof-of-Work, Proof-of-Stake, Proof-of-X, BFT), Off-chain Design(Payment Networks, Sidechain), Crosschain, P2P Network, Privacy Issue, Security, Economics, Smart Contracts, Applications, Cryptograph. 
@@ -171,6 +172,11 @@ Alexei Zamyatin, Dominik Harz, Joshua Lind, Panayiotis Panayiotou, Arthur Gervai
 [Smart Contract][SODA: A Generic Online Detection Framework for Smart Contracts](https://www.ndss-symposium.org/wp-content/uploads/2020/02/24449-paper.pdf). Ting Chen, Rong Cao, Ting Li, Xiapu Luo, Guofei Gu, Yufei Zhang, Zhou Liao, Hang Zhu, Gang Chen,
 Zheyuan He, Yuxing Tang, Xiaodong Lin, and Xiaosong Zhang. NDSS '20.
 
+## ICSE
+[Smart Contract] [Empirical Review of Automated Analysis Tools on 47,587 Ethereum Smart Contracts](https://arxiv.org/pdf/1910.10601.pdf). T Durieux, JF Ferreira, R Abreu, P Cruz. ICSE '2020
+
+[Smart Contract] [sFuzz-An Efficient Adaptive Fuzzer for Solidity Smart Contracts](https://arxiv.org/pdf/2004.08563.pdf). TD Nguyen, LH Pham, J Sun, Y Lin, QT Minh. ICSE '2020
+
 ## SOSP
 [Consensus] [Algorand: Scaling Byzantine Agreements for Cryptocurrencies](https://people.csail.mit.edu/nickolai/papers/gilad-algorand.pdf). Yossi Gilad, Rotem Hemo, Silvio Micali, Georgios Vlachos, Nickolai Zeldovich. SOSP'17
 
@@ -200,8 +206,6 @@ Carsten Binnig, Arvind Arasu, Donald Kossmann, Ravi Ramamurthy. VLDB'19.
 [Application][Blockchain-based Metadata Protection for Archival Systems](https://ieeexplore.ieee.org/document/9049624).	Arnaud L'Hutereau, Dorian Burihabwa, Pascal Felber, Hugues Mercier and Valerio Schiavoni. SRDS '19.
 
 [Application][Trusted Computing meets Blockchain: Rollback Attacks and a Solution for Hyperledger Fabric](https://ieeexplore.ieee.org/document/9049585). Marcus Brandenburger, Christian Cachin, Rüdiger Kapitza and Alessandro Sorniotti. SRDS '19
-
-
 
 ## PODC
 [Consensus-PoW] [FruitChains: A Fair Blockchain](https://eprint.iacr.org/2016/916.pdf).Rafael Pass, Elaine Shi. PODC'17
@@ -274,6 +278,12 @@ Carsten Binnig, Arvind Arasu, Donald Kossmann, Ravi Ramamurthy. VLDB'19.
 [Ledger][SAMPL: Scalable Auditability of Monitoring Processes using Public Ledgers](https://www.cs.nmsu.edu/~roopa/sampl.pdf). Roopa Vishwanathan, Gaurav Panwar, Satyajayant Misra, Austin Bos. CCS '19. 
 
 [Payment Networks][Atomic Multi-Channel Updates with Constant Collateral in Payment-Channel Networks](https://eprint.iacr.org/2019/583.pdf). Christoph Egger, Pedro Moreno-Sanchez, Matteo Maffei. CCS '19. 
+
+## IPDPS
+[Consensus][G-PBFT: A Location-based and Scalable Consensus Protocol for IoT-Blockchain Applications](http://www4.comp.polyu.edu.hk/~csbxiao/paper/2020/IPDPS_GPBFT_2020.pdf). LapHou Lao, Xiaohai Dai, Bin Xiao, and Songtao Guo. IPDPS '20.
+
+[BFT][Byzantine Generalized Lattice Agreement](https://arxiv.org/pdf/1910.05768.pdf). Giuseppe Antonio Di Luna, Emmanuelle Anceaume, and Leonardo Querzoni. IPDPS '20. 
+
 
 ## SIGMOD
 [Database][Blurring the Lines between Blockchains and Database Systems: the Case of Hyperledger Fabric](https://dl.acm.org/doi/pdf/10.1145/3299869.3319883?download=true). Ankur Sharma, Felix Martin Schuhknecht, Divya Agrawal, Jens Dittrich. SIGMOD '19.
@@ -380,11 +390,6 @@ Yang Xiao, Ning Zhang, Wenjing Lou and Thomas Hou. INFOCOM'20
 [Consensus-PoS] [A Proof-of-Stake protocol for consensus on Bitcoin subchains](http://eprint.iacr.org/2017/417.pdf). Bartoletti M, Lande S, & Podda A S. FC '17.
 
 [FC Accepted Paper Link:] [FC'15](https://fc15.ifca.ai/schedule.html), [FC'16](https://fc16.ifca.ai/program.html), [FC'17](https://fc17.ifca.ai/program.html), [FC'18](https://fc18.ifca.ai/program.html), [FC'19](https://fc19.ifca.ai/program.html). [FC'20](https://fc20.ifca.ai/).
-
-## ICSE
-[Smart Contract] [Empirical Review of Automated Analysis Tools on 47,587 Ethereum Smart Contracts](https://arxiv.org/pdf/1910.10601.pdf). T Durieux, JF Ferreira, R Abreu, P Cruz. ICSE '2020
-
-[Smart Contract] [sFuzz-An Efficient Adaptive Fuzzer for Solidity Smart Contracts](https://arxiv.org/pdf/2004.08563.pdf). TD Nguyen, LH Pham, J Sun, Y Lin, QT Minh. ICSE '2020
 
 ## License
 
