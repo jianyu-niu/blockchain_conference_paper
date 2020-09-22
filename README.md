@@ -280,6 +280,27 @@ Carsten Binnig, Arvind Arasu, Donald Kossmann, Ravi Ramamurthy. VLDB'19.
 
 [Payment Networks][Atomic Multi-Channel Updates with Constant Collateral in Payment-Channel Networks](https://eprint.iacr.org/2019/583.pdf). Christoph Egger, Pedro Moreno-Sanchez, Matteo Maffei. CCS '19. 
 
+[Payment][Security Analysis and Implementation of Relay-Resistant Contactless Payments](). Ioana Boureanu (Univ. of Surrey, Surrey Centre for Cyber Security); Tom Chothia (University of Birmingham); Alexandre Debant (Univ Rennes, CNRS, IRISA); Stéphanie Delaune (Univ Rennes, CNRS, IRISA). CCS '20.
+
+[Smart Contract][ACE: Asynchronous and Concurrent Execution of Complex Smart Contracts] Karl Wüst (ETH Zurich); Sinisa Matetic (ETH Zurich); Silvan Egli (ETH Zurich); Kari Kostiainen (ETH Zurich); Srdjan Capkun (ETH Zurich). CCS '20.
+
+[Transactions][Pointproofs: Aggregating Proofs for Multiple Vector Commitments](). Sergey Gorbunov (University of Waterloo); Leonid Reyzin (Algorand and Boston University); Hoeteck Wee (CNRS, ENS, PSL, and NTT Research); Zhenfei Zhang (Algorand). CCS '20.
+
+[Mining][BDoS: Blockchain Denial-of-Service Attacks](). Michael Mirkin (Technion); Yan Ji (Cornell Tech); Jonathan Pang (Cornell University); Ariah Klages-Mundt (Cornell University); Ittay Eyal (Technion); Ari Juels (Cornell Tech). CCS '20.
+
+[Consensus][Blinder -- Scalable, Robust Anonymous Committed Broadcast](). Avishay Yanai (Bar-Ilan University); Ittai Abraham (VMware Research); Benny Pinkas (VMware Research, Bar Ilan University). CCS '20.
+
+[Consensus][Dumbo: Faster Asynchronous BFT Protocols](). Bingyong Guo; Zhenliang Lu, Jing Xu, Zhenfeng Zhang.  CCS '20.
+
+[Consensus][On the Optimality of Optimistic Responsiveness](). Ittai Abraham (VMware Research); Kartik Nayak (Duke University); Ling Ren (UIUC); Nibesh Shrestha (Rochester Institute of Technology). CCS '20.
+
+[Cryptography][Asynchronous Distributed Key Generation for Computationally Secure Randomness, Consensus, and Threshold Signatures](). 
+Eleftherios Kokoris Kogias (Novi and IST Austria); Dahlia Malkhi (Novi); Alexander Spiegelman (Novi) CCS '20.
+
+[Consensus][Everything is a Race and Nakamoto Always Wins](). Xuechao Wang (University of Illinois at Urbana-Champaign); Ertem Nusret Tas (Stanford University); David Tse (Stanford University); Amir Dembo (Stanford University); Sreeram Kannan (University of Washington); Ofer Zeitouni (Weizmann Institute of Science); Pramod Viswanath (University of Illinois at Urbana-Champaign). CCS '20.
+
+[Consensus][Tight Consistency Bounds for Bitcoin](). Peter Gaži (IOHK); Aggelos Kiayias (University of Edinburgh and IOHK); Alexander Russell (University of Connecticut and IOHK). CCS '20.
+
 ## IPDPS
 [Consensus][G-PBFT: A Location-based and Scalable Consensus Protocol for IoT-Blockchain Applications](http://www4.comp.polyu.edu.hk/~csbxiao/paper/2020/IPDPS_GPBFT_2020.pdf). LapHou Lao, Xiaohai Dai, Bin Xiao, and Songtao Guo. IPDPS '20.
 
