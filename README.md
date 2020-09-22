@@ -282,7 +282,7 @@ Carsten Binnig, Arvind Arasu, Donald Kossmann, Ravi Ramamurthy. VLDB'19.
 
 [Payment][Security Analysis and Implementation of Relay-Resistant Contactless Payments](). Ioana Boureanu (Univ. of Surrey, Surrey Centre for Cyber Security); Tom Chothia (University of Birmingham); Alexandre Debant (Univ Rennes, CNRS, IRISA); Stéphanie Delaune (Univ Rennes, CNRS, IRISA). CCS '20.
 
-[Smart Contract][ACE: Asynchronous and Concurrent Execution of Complex Smart Contracts] Karl Wüst (ETH Zurich); Sinisa Matetic (ETH Zurich); Silvan Egli (ETH Zurich); Kari Kostiainen (ETH Zurich); Srdjan Capkun (ETH Zurich). CCS '20.
+[Smart Contract][ACE: Asynchronous and Concurrent Execution of Complex Smart Contracts](). Karl Wüst (ETH Zurich); Sinisa Matetic (ETH Zurich); Silvan Egli (ETH Zurich); Kari Kostiainen (ETH Zurich); Srdjan Capkun (ETH Zurich). CCS '20.
 
 [Transactions][Pointproofs: Aggregating Proofs for Multiple Vector Commitments](). Sergey Gorbunov (University of Waterloo); Leonid Reyzin (Algorand and Boston University); Hoeteck Wee (CNRS, ENS, PSL, and NTT Research); Zhenfei Zhang (Algorand). CCS '20.
 
