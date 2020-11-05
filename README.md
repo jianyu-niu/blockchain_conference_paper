@@ -22,6 +22,7 @@ Welcome developers or researchers to add more published paper to this list.
 - [IEEE International Conference on Computer Communications(INFOCOM)](#infocom)
 - [IEEE International Conference on Distributed Computing Systems(ICDCS)](#icdcs)
 - [USENIX Symposium on Networked Systems Design and Implementation(NSDI)](#nsdi)
+- [USENIX Symposium on Operating Systems Design and Implementation(OSDI)](#osdi)
 - [IEEE/IFIP International Conference on Dependable Systems and Networks(DSN)](#dsn)
 - [ACM Conference on Emerging Networking EXperiments and Technologies(CoNEXT)](#conext)
 - [ACM SIGPLAN Conference on Programming Language Design&Implementation(PLDI)](#pldi) 
@@ -364,6 +365,13 @@ Yang Xiao, Ning Zhang, Wenjing Lou and Thomas Hou. INFOCOM'20
 [Consensus-PoW] [Bitcoin-NG: A Scalable Blockchain Protocol](https://www.usenix.org/system/files/conference/nsdi16/nsdi16-paper-eyal.pdf). Eyal I, Gencer AE, Sirer EG, Van Renesse R. NSDI ’16
 
 [System][Monoxide: Scale Out Blockchain with Asynchronized Consensus Zones](https://www.usenix.org/system/files/nsdi19-wang-jiaping.pdf). Jiaping Wang, Hao Wang. NSDI'19
+
+[Network][High Throughput Cryptocurrency Routing in Payment Channel Networks](https://www.usenix.org/system/files/nsdi20-paper-sivaraman.pdf). Vibhaalakshmi Sivaraman, Shaileshh Bojja Venkatakrishnan, Kathleen Ruan, Parimarjan Negi and Lei Yang, Radhika Mittal, Giulia Fanti, Mohammad Alizadeh. NSDI ’20
+
+## OSDI
+[System][Blockene: A High-throughput Blockchain Over Mobile Devices](https://arxiv.org/pdf/2010.07277). Sambhav Satija and Apurv Mehra, Sudheesh Singanamalla, Karan Grover, Muthian Sivathanu, Nishanth Chandran, Divya Gupta, and Satya Lokam. OSDI'20 
+
+[Consensus][Byzantine ordered consensus without Byzantine oligarchy](https://www.microsoft.com/en-us/research/uploads/prod/2020/10/paper-5f89e2898ee53.pdf) Yunhao Zhang, Srinath Setty, Qi Chen, and Lidong Zhou, Lorenzo Alvisi. OSDI'20 
 
 ## DSN
 [Smart Contract][FabZK: Supporting Privacy-Preserving, Auditable Smart Contracts in Hyperledger Fabric](). Hui Kang, Ting Dai, Nerla Jean-Louis and Shu Tao. Xiaohui Gu.  DSN '19
