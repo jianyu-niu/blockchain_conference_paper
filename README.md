@@ -310,6 +310,8 @@ Eleftherios Kokoris Kogias; Dahlia Malkhi; Alexander Spiegelman. CCS '20.
 
 
 ## SIGMOD
+[Measurement][BLOCKBENCH: A Framework for Analyzing Private Blockchains](https://www.comp.nus.edu.sg/~ooibc/blockbench.pdf). Tien Tuan Anh Dinh, Ji Wang, Gang Chen, Rui Liu, Beng Chin Ooi, Kian-Lee Tan. SIGMOD '17.
+
 [Database][Blurring the Lines between Blockchains and Database Systems: the Case of Hyperledger Fabric](https://dl.acm.org/doi/pdf/10.1145/3299869.3319883?download=true). Ankur Sharma, Felix Martin Schuhknecht, Divya Agrawal, Jens Dittrich. SIGMOD '19.
 
 [Database][vChain: Enabling Verifiable Boolean Range Queries over Blockchain Databases](https://arxiv.org/pdf/1812.02386.pdf).Cheng Xu, Ce Zhang, Jianliang Xu. SIGMOD '19.
