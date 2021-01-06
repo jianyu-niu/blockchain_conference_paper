@@ -86,15 +86,15 @@ and Edward W. Felten. USENIX '18 Security Symposium.
 
 [Smart Contract][FastKitten: Practical Smart Contracts on Bitcoin](https://www.usenix.org/system/files/sec19fall_das_prepub.pdf). Poulami Das, Lisa Eckey, Tommaso Frassetto, David Gens, Kristina Hostáková, Patrick Jauernig, Sebastian Faust, and Ahmad-Reza Sadeghi. USENIX '19 Security Symposium.
 
-[Transaction Analysis][BlockSci: Design and applications of a blockchain analysis platform](). Harry Kalodner, Malte Möser, and Kevin Lee,Steven Goldfeder, Martin Plattner, Alishah Chator, Arvind Narayanan. USENIX '20 Security Symposium.
+[Transaction Analysis][BlockSci: Design and applications of a blockchain analysis platform](https://www.usenix.org/conference/usenixsecurity20/presentation/kalodner). Harry Kalodner, Malte Möser, and Kevin Lee,Steven Goldfeder, Martin Plattner, Alishah Chator, Arvind Narayanan. USENIX '20 Security Symposium.
 
-[SideChain][Remote Side-Channel Attacks on Anonymous Transaction](). Florian Tramer and Dan Boneh, Kenny Paterson. USENIX '20 Security Symposium.
+[SideChain][Remote Side-Channel Attacks on Anonymous Transaction](https://www.usenix.org/conference/usenixsecurity20/presentation/tramer#:~:text=These%20attacks%20enable%20an%20active,implementation%20of%20different%20system%20components.). Florian Tramer and Dan Boneh, Kenny Paterson. USENIX '20 Security Symposium.
 
-[Smart Contract][ETHBMC: A Bounded Model Checker for Smart Contracts](). Joel Frank, Cornelius Aschermann, and Thorsten Holz. USENIX '20 Security Symposium.
+[Smart Contract][ETHBMC: A Bounded Model Checker for Smart Contracts](https://www.usenix.org/conference/usenixsecurity20/presentation/frank). Joel Frank, Cornelius Aschermann, and Thorsten Holz. USENIX '20 Security Symposium.
 
-[Smart Contract][TXSPECTOR: Uncovering Attacks in Ethereum from Transactions](). Mengya Zhang, Xiaokuan Zhang, Yinqian Zhang, and Zhiqiang Lin. USENIX '20 Security Symposium.
+[Smart Contract][TXSPECTOR: Uncovering Attacks in Ethereum from Transactions](https://www.usenix.org/conference/usenixsecurity20/presentation/zhang-mengya). Mengya Zhang, Xiaokuan Zhang, Yinqian Zhang, and Zhiqiang Lin. USENIX '20 Security Symposium.
 
-[Smart Contract][An Ever-evolving Game: Evaluation of Real-world Attacks and Defenses in Ethereum Ecosystem](). Shunfan Zhou, Zhemin Yang, and Jie Xiang, Yinzhi Cao,Min Yang and Yuan Zhang. USENIX '20 Security Symposium.
+[Smart Contract][An Ever-evolving Game: Evaluation of Real-world Attacks and Defenses in Ethereum Ecosystem](https://www.usenix.org/conference/usenixsecurity20/presentation/zhou-shunfan). Shunfan Zhou, Zhemin Yang, and Jie Xiang, Yinzhi Cao,Min Yang and Yuan Zhang. USENIX '20 Security Symposium.
 
 ## S&P
 [Privacy] [Zerocoin: Anonymous distributed e-cash from bitcoin](http://ieeexplore.ieee.org/iel7/6547086/6547088/06547123.pdf). Miers I, Garman C, Green M, Rubin AD. S&P '13.
