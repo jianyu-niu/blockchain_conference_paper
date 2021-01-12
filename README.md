@@ -407,7 +407,7 @@ Yang Xiao, Ning Zhang, Wenjing Lou and Thomas Hou. INFOCOM'20
 
 [Application][Blockchain-based Real-time Cheat Prevention and Robustness for Multi-player Online Game](https://dl.acm.org/doi/10.1145/3281411.3281438). Sukrit Kalra, Rishabh Sanghi, Mohan Dhawan. CoNEXT '18
 
-[Layer2][Flash: E!icient Dynamic Routing for O!chain Networks](http://www.cs.jhu.edu/~xinjin/files/CoNEXT19_Flash.pdf). Peng Wang, Hong Xu, Xin Jin, Tao Wang.  CoNEXT '19
+[Layer2][Flash: Efficient Dynamic Routing for Offchain Networks](http://www.cs.jhu.edu/~xinjin/files/CoNEXT19_Flash.pdf). Peng Wang, Hong Xu, Xin Jin, Tao Wang.  CoNEXT '19
 
 ## PLDI
 [Smart Contract] [Behavioral Simulation for Smart Contracts](). Sidi Mohamed Beillahi, Gabriela Ciocarlie, Michael Emmi, Constantin Enea. PLDI '2020
