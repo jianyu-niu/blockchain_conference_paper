@@ -175,6 +175,13 @@ Alexei Zamyatin, Dominik Harz, Joshua Lind, Panayiotis Panayiotou, Arthur Gervai
 [Smart Contract][SODA: A Generic Online Detection Framework for Smart Contracts](https://www.ndss-symposium.org/wp-content/uploads/2020/02/24449-paper.pdf). Ting Chen, Rong Cao, Ting Li, Xiapu Luo, Guofei Gu, Yufei Zhang, Zhou Liao, Hang Zhu, Gang Chen,
 Zheyuan He, Yuxing Tang, Xiaodong Lin, and Xiaosong Zhang. NDSS '20.
 
+[Smart Contract][Bitcontracts: Supporting Smart Contracts in Legacy Blockchains](). Karl Wüst, Loris Diana, Kari Kostiainen, Ghassan Karame, Sinisa Matetic, Srdjan Capkun (ETH Zurich). NDSS '21.
+
+[Mining Attack][SquirRL: Automating Attack Analysis on Blockchain Incentive Mechanisms with Deep Reinforcement Learning]().
+Charlie Hou, Mingxun Zhou, Yan Ji and Phil Daian, Florian Tramèr, Giulia Fanti, Ari Juels. NDSS '21.
+
+[Network Attack][As Strong As Its Weakest Link: How to Break Blockchain DApps at RPC Service](). Kai Li, Jiaqi Chen, Xianghong Liu, and Yuzhe Tang, XiaoFeng Wang, Xiapu Luo. NDSS '21.
+
 ## ICSE
 [Smart Contract] [Empirical Review of Automated Analysis Tools on 47,587 Ethereum Smart Contracts](https://arxiv.org/pdf/1910.10601.pdf). T Durieux, JF Ferreira, R Abreu, P Cruz. ICSE '2020
 
