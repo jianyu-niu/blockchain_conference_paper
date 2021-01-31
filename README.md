@@ -189,8 +189,6 @@ Charlie Hou, Mingxun Zhou, Yan Ji and Phil Daian, Florian Tramèr, Giulia Fanti,
 
 [Network Attack][As Strong As Its Weakest Link: How to Break Blockchain DApps at RPC Service](). Kai Li, Jiaqi Chen, Xianghong Liu, and Yuzhe Tang, XiaoFeng Wang, Xiapu Luo. NDSS '21.
 
-[Smart Contract][Bitcontracts: Supporting Smart Contracts in Legacy Blockchains](). Karl Wüst, Loris Diana, and Kari Kostiainen, Ghassan Karame, Sinisa Matetic and Srdjan Capkun. NDSS '21.
-
 [Consensus-PoS][ProPoS: A Probabilistic Proof-of-Stake Protocol](). Daniel Reijsbergen, Pawel Szalachowski, Junming Ke, Zengpeng Li, and Jianying Zhou. NDSS '21.
 
 
