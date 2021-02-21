@@ -354,6 +354,13 @@ Yang Xiao, Ning Zhang, Wenjing Lou and Thomas Hou. INFOCOM'20
 
 [Off-chain][Secure Balance Planning of Off-blockchain Payment Channel Networks](https://www.u-aizu.ac.jp/~pengli/files/pcn_planning_infocom2020.pdf). Peng Li and Toshiaki Miyazaki, Wanlei Zhou. INFOCOM'20. 
 
+
+[Consensus][A Weak Consensus Algorithm and Its Application to High-Performance Blockchain](). Qin Wang, Rujia Li. INFOCOM'21.  
+
+[Mining][Characterizing Ethereum's Mining Power Decentralization at a Deeper Level](). Liyi Zeng, Yang Chen, Shuo Chen, Xian Zhang, Zhongxin Guo, Wei Xu, Thomas Moscibroda. INFOCOM'21.  
+
+[Consensus][On the Performance of Pipelined HotStuff](). Jianyu Niu, Fangyu Gai, Mohammad Jalalzai, Chen Feng. INFOCOM'21.
+
 ## ICDCS
 [Application] [Transform Blockchain into Distributed Parallel Computing Architecture for Precision Medicine](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8416392).Zonyin Shae, Jeffrey J.P. Tsai. ICDCS'18
 
