@@ -333,6 +333,8 @@ Eleftherios Kokoris Kogias; Dahlia Malkhi; Alexander Spiegelman. CCS '20.
 
 [Database][vChain: Enabling Verifiable Boolean Range Queries over Blockchain Databases](https://arxiv.org/pdf/1812.02386.pdf).Cheng Xu, Ce Zhang, Jianliang Xu. SIGMOD '19.
 
+[Consensus-sharding][Towards Scaling Blockchain Systems via Sharding](https://www.comp.nus.edu.sg/~hungdang/papers/sharding.pdf). Hung Dang, Tien Tuan Anh Dinh, Dumitrel Loghin, Ee-Chien Chang, Qian Lin, and Beng Chin Ooi. SIGMOD '19.
+
 ## SPAA
 [Consensus-DAG][Why BlockDAGs Excel Blockchains](https://tik-db.ee.ethz.ch/file/b0a2132681958e4cb69055bab4bf6ad8/The_Append_Memory_Model.pdf).	Darya Melnyk and Roger Wattenhofer. SPAA' 20
 
