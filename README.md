@@ -353,6 +353,8 @@ Eleftherios Kokoris Kogias; Dahlia Malkhi; Alexander Spiegelman. CCS '20.
 
 [Consensus-sharding][Towards Scaling Blockchain Systems via Sharding](https://www.comp.nus.edu.sg/~hungdang/papers/sharding.pdf). Hung Dang, Tien Tuan Anh Dinh, Dumitrel Loghin, Ee-Chien Chang, Qian Lin, and Beng Chin Ooi. SIGMOD '19.
 
+[Database][Confidentiality Support over Financial Grade Consortium Blockchain](https://dl.acm.org/doi/abs/10.1145/3318464.3386127). Yan, YingWei, Changzheng Guo, Xuepeng Lu, Xuming Zheng, Xiaofu Liu, Qi Zhou, Chenhui Song, Xuyang Zhao, Boran Zhang, Hui Jiang, Guofei. SIGMOD '20.
+
 ## SPAA
 [Consensus-DAG][Why BlockDAGs Excel Blockchains](https://tik-db.ee.ethz.ch/file/b0a2132681958e4cb69055bab4bf6ad8/The_Append_Memory_Model.pdf).	Darya Melnyk and Roger Wattenhofer. SPAA' 20
 
