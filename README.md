@@ -172,6 +172,8 @@ Alexei Zamyatin, Dominik Harz, Joshua Lind, Panayiotis Panayiotou, Arthur Gervai
 
 [Incentive][Incentive Analysis of Bitcoin-NG, Revisited](https://arxiv.org/abs/2001.05082).Jianyu Niu, Ziyu Wang, Fangyu Gai and Chen Feng. Performance '20.
 
+[Transactions][Tracking Counterfeit Cryptocurrency End-to-end]() Bingyu Gao, Haoyu Wang, Pengcheng Xia, Siwei Wu, Yajin Zhou, Xiapu Luo, Gareth Tyson. Sigmetric '21.
+
 ## NDSS
 [Economic-Smart Contracts] ["Zeus": Analyzing Safety of Smart Contracts](http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2018/02/ndss2018_09-1_Kalra_paper.pdf). Kalra S, Goel S, Dhawan M, Sharma S. NDSS '18.
 
