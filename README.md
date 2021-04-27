@@ -250,6 +250,8 @@ Carsten Binnig, Arvind Arasu, Donald Kossmann, Ravi Ramamurthy. VLDB'19.
 ## PODC
 [Consensus-PoW] [FruitChains: A Fair Blockchain](https://eprint.iacr.org/2016/916.pdf).Rafael Pass, Elaine Shi. PODC'17
 
+[Smart Contracts] [Adding Concurrency to Smart Contracts](https://dl.acm.org/doi/10.1145/3087801.3087835). Maurice Herlihy. PODC'17
+
 [Sidechain] [Atomic Cross-Chain Swaps](https://arxiv.org/abs/1801.09515). Maurice Herlihy. PODC'18
 
 [Consessus] [Brief Announcement: Sustainable Blockchains through Proof of eXercise](https://haslab.uminho.pt/ashoker/files/pox-podc.pdf). Ali Shoker. PODC'18
@@ -356,6 +358,10 @@ Eleftherios Kokoris Kogias; Dahlia Malkhi; Alexander Spiegelman. CCS '20.
 [Consensus-sharding][Towards Scaling Blockchain Systems via Sharding](https://www.comp.nus.edu.sg/~hungdang/papers/sharding.pdf). Hung Dang, Tien Tuan Anh Dinh, Dumitrel Loghin, Ee-Chien Chang, Qian Lin, and Beng Chin Ooi. SIGMOD '19.
 
 [Database][Confidentiality Support over Financial Grade Consortium Blockchain](https://dl.acm.org/doi/abs/10.1145/3318464.3386127). Yan, YingWei, Changzheng Guo, Xuepeng Lu, Xuming Zheng, Xiaofu Liu, Qi Zhou, Chenhui Song, Xuyang Zhao, Boran Zhang, Hui Jiang, Guofei. SIGMOD '20.
+
+[Database] [A Transactional Perspective on Execute-order-validate Blockchains](https://dl.acm.org/doi/10.1145/3318464.3389693). Pingcheng Ruan, Dumitrel Loghin, Meihui Zhang, Gang Chen, Beng Chin Ooi. SIGMOD '20.
+
+[Database] [FalconDB: Blockchain-based Collaborative Database](https://dl.acm.org/doi/10.1145/3318464.3380594). Yanqing Peng, Min Du, Feifei Li, Raymond Cheng, Dawn Song. SIGMOD '20.
 
 ## SPAA
 [Consensus-DAG][Why BlockDAGs Excel Blockchains](https://tik-db.ee.ethz.ch/file/b0a2132681958e4cb69055bab4bf6ad8/The_Append_Memory_Model.pdf).	Darya Melnyk and Roger Wattenhofer. SPAA' 20
