@@ -222,30 +222,32 @@ Charlie Hou, Mingxun Zhou, Yan Ji and Phil Daian, Florian Tramèr, Giulia Fanti,
 
 [Payment Networks] [Teechain: A Secure Payment Network with Asynchronous Blockchain Access](https://arxiv.org/pdf/1707.05454.pdf). Joshua Lind, Oded Naor, Ittay Eyal, Florian Kelbert, Peter Pietzuch, Emin Gun Sirer. SOSP'19
 
-[Consensus][Fast and Secure Global Payments with Stellar](https://www.scs.stanford.edu/~dm/home/papers/lokhava:stellar-core.pdf). Marta Lokhava, Giuliano Losa, David Mazières, Graydon Hoare, Nicolas Barry, Eliezer Gafni, Jonathan Jove, Rafał Malinowski, Jed McCaleb. SOSP'19
+[Consensus] [Fast and Secure Global Payments with Stellar](https://www.scs.stanford.edu/~dm/home/papers/lokhava:stellar-core.pdf). Marta Lokhava, Giuliano Losa, David Mazières, Graydon Hoare, Nicolas Barry, Eliezer Gafni, Jonathan Jove, Rafał Malinowski, Jed McCaleb. SOSP'19
 
-[Consensus][Notary: A Device for Secure Transaction Approval](https://pdos.csail.mit.edu/papers/notary:sosp19.pdf). Anish Athalye, Adam Belay, Frans Kaashoek, Robert Morris, Nickolai Zeldovich.  SOSP'19
+[Consensus] [Notary: A Device for Secure Transaction Approval](https://pdos.csail.mit.edu/papers/notary:sosp19.pdf). Anish Athalye, Adam Belay, Frans Kaashoek, Robert Morris, Nickolai Zeldovich.  SOSP'19
 
 ## VLDB
-[Storage][ForkBase: An Efficient Storage Engine for Blockchain and Forkable Applications](http://www.vldb.org/pvldb/vol11/p1137-wang.pdf). Sheng Wang, Tien Tuan Anh Dinh, Qian Lin, Zhongle Xie, Meihui Zhang, Qingchao Cai, Gang Chen, Beng Chin Ooi, Pingcheng Rua. VLDB'18. 
+[Storage] [ForkBase: An Efficient Storage Engine for Blockchain and Forkable Applications](http://www.vldb.org/pvldb/vol11/p1137-wang.pdf). Sheng Wang, Tien Tuan Anh Dinh, Qian Lin, Zhongle Xie, Meihui Zhang, Qingchao Cai, Gang Chen, Beng Chin Ooi, Pingcheng Rua. VLDB'18. 
 
-[Privacy][A Demonstration of Sterling: A Privacy-Preserving Data Marketplace](http://www.vldb.org/pvldb/vol11/p2086-hynes.pdf). Nick Hynes1, David Dao, David Yan, Raymond Cheng, Dawn Song. VLDB'19. 
+[Privacy] [A Demonstration of Sterling: A Privacy-Preserving Data Marketplace](http://www.vldb.org/pvldb/vol11/p2086-hynes.pdf). Nick Hynes1, David Dao, David Yan, Raymond Cheng, Dawn Song. VLDB'19. 
 
-[Application][CAPER: A Cross-Application Permissioned Blockchain](http://www.vldb.org/pvldb/vol12/p1385-amiri.pdf). Mohammad Javad Amiri, Divyakant Agrawal, Amr El Abbadi. VLDB'19. 
+[Application] [CAPER: A Cross-Application Permissioned Blockchain](http://www.vldb.org/pvldb/vol12/p1385-amiri.pdf). Mohammad Javad Amiri, Divyakant Agrawal, Amr El Abbadi. VLDB'19. 
 
-[Application][BlockchainDB - A Shared Database on Blockchains](http://www.vldb.org/pvldb/vol12/p1597-el-hindi.pdf). Muhammad El-Hindi,
+[Application] [BlockchainDB - A Shared Database on Blockchains](http://www.vldb.org/pvldb/vol12/p1597-el-hindi.pdf). Muhammad El-Hindi,
 Carsten Binnig, Arvind Arasu, Donald Kossmann, Ravi Ramamurthy. VLDB'19.
 
-[Provenance][Fine-Grained, Secure and Efficient Data Provenance on Blockchain Systems](http://www.vldb.org/pvldb/vol12/p975-ruan.pdf). Pingcheng Ruan, Gang Chen, Tien Tuan Anh Dinh, Qian Lin, Beng Chin Ooi, Meihui Zhang. VLDB'19. 
+[Provenance] [Fine-Grained, Secure and Efficient Data Provenance on Blockchain Systems](http://www.vldb.org/pvldb/vol12/p975-ruan.pdf). Pingcheng Ruan, Gang Chen, Tien Tuan Anh Dinh, Qian Lin, Beng Chin Ooi, Meihui Zhang. VLDB'19. 
 
-[Application][Blockchain Meets Database: Design and Implementation of a Blockchain Relational Database](http://www.vldb.org/pvldb/vol12/p1539-nathan.pdf). Senthil Nathan, Chander Govindarajan, Adarsh Saraf, Manish Sethi, and Praveen Jayachandran. VLDB'19.
+[Application] [Blockchain Meets Database: Design and Implementation of a Blockchain Relational Database](http://www.vldb.org/pvldb/vol12/p1539-nathan.pdf). Senthil Nathan, Chander Govindarajan, Adarsh Saraf, Manish Sethi, and Praveen Jayachandran. VLDB'19.
+
+[Consensus] [FireLedger: A High Throughput Blockchain Consensus Protocol](http://www.vldb.org/pvldb/vol13/p1525-buchnik.pdf). Yehonatan Buchnik, and Roy Friedman. VLDB'20.
 
 ## SRDS
-[Consensus][Bloxy: Providing Transparent and Generic BFT-Based Ordering Services for Blockchains](https://www.researchgate.net/publication/340304077_Bloxy_Providing_Transparent_and_Generic_BFT-Based_Ordering_Services_for_Blockchains).Signe Rüsch, Rüdiger Kapitza and Kai Bleeke. SRDS '19.
+[Consensus] [Bloxy: Providing Transparent and Generic BFT-Based Ordering Services for Blockchains](https://www.researchgate.net/publication/340304077_Bloxy_Providing_Transparent_and_Generic_BFT-Based_Ordering_Services_for_Blockchains).Signe Rüsch, Rüdiger Kapitza and Kai Bleeke. SRDS '19.
 
-[Application][Blockchain-based Metadata Protection for Archival Systems](https://ieeexplore.ieee.org/document/9049624).	Arnaud L'Hutereau, Dorian Burihabwa, Pascal Felber, Hugues Mercier and Valerio Schiavoni. SRDS '19.
+[Application] [Blockchain-based Metadata Protection for Archival Systems](https://ieeexplore.ieee.org/document/9049624).	Arnaud L'Hutereau, Dorian Burihabwa, Pascal Felber, Hugues Mercier and Valerio Schiavoni. SRDS '19.
 
-[Application][Trusted Computing meets Blockchain: Rollback Attacks and a Solution for Hyperledger Fabric](https://ieeexplore.ieee.org/document/9049585). Marcus Brandenburger, Christian Cachin, Rüdiger Kapitza and Alessandro Sorniotti. SRDS '19
+[Application] [Trusted Computing meets Blockchain: Rollback Attacks and a Solution for Hyperledger Fabric](https://ieeexplore.ieee.org/document/9049585). Marcus Brandenburger, Christian Cachin, Rüdiger Kapitza and Alessandro Sorniotti. SRDS '19
 
 ## PODC
 [Consensus-PoW] [FruitChains: A Fair Blockchain](https://eprint.iacr.org/2016/916.pdf).Rafael Pass, Elaine Shi. PODC'17
@@ -256,28 +258,28 @@ Carsten Binnig, Arvind Arasu, Donald Kossmann, Ravi Ramamurthy. VLDB'19.
 
 [Consessus] [Brief Announcement: Sustainable Blockchains through Proof of eXercise](https://haslab.uminho.pt/ashoker/files/pox-podc.pdf). Ali Shoker. PODC'18
 
-[Consensus][The Consensus Number of a Cryptocurrency](https://arxiv.org/pdf/1906.05574.pdf). R. Guerraoui, P. Kuznetsov, M. Monti, M. Pavlovic, D. Seredinschi. PODC'19
+[Consensus] [The Consensus Number of a Cryptocurrency](https://arxiv.org/pdf/1906.05574.pdf). R. Guerraoui, P. Kuznetsov, M. Monti, M. Pavlovic, D. Seredinschi. PODC'19
 
-[Consensus-BFT][Communication Complexity of Byzantine Agreement, Revisited](https://arxiv.org/abs/1805.03391). I. Abraham, T. Chan, D. Dolev, K. Nayak, R. Pass, L. Ren, E. Shi. PODC'19
+[Consensus-BFT] [Communication Complexity of Byzantine Agreement, Revisited](https://arxiv.org/abs/1805.03391). I. Abraham, T. Chan, D. Dolev, K. Nayak, R. Pass, L. Ren, E. Shi. PODC'19
 
-[Consensus-BFT][Exact Byzantine Consensus on Undirected Graphs under Local Broadcast Model](https://arxiv.org/pdf/1903.11677.pdf). M. Khan, S. Naqvi, N. Vaidya. PODC'19
+[Consensus-BFT] [Exact Byzantine Consensus on Undirected Graphs under Local Broadcast Model](https://arxiv.org/pdf/1903.11677.pdf). M. Khan, S. Naqvi, N. Vaidya. PODC'19
 
-[Consensus-BFT][Asymptotically Optimal Validated Asynchronous Byzantine Agreement](https://research.vmware.com/files/attachments/0/0/0/0/0/7/8/practical_aba_2_.pdf). I. Abraham, D. Malkhi, A. Spiegelman. PODC'19
+[Consensus-BFT] [Asymptotically Optimal Validated Asynchronous Byzantine Agreement](https://research.vmware.com/files/attachments/0/0/0/0/0/7/8/practical_aba_2_.pdf). I. Abraham, D. Malkhi, A. Spiegelman. PODC'19
 
-[Consensus-BFT][HotStuff: BFT Consensus with Linearity and Responsiveness](https://www.cs.unc.edu/~reiter/papers/2019/PODC.pdf). M. Yin, I. Abraham, G. Gueta, D. Malkhi, M. Reiter. PODC'19
+[Consensus-BFT] [HotStuff: BFT Consensus with Linearity and Responsiveness](https://www.cs.unc.edu/~reiter/papers/2019/PODC.pdf). M. Yin, I. Abraham, G. Gueta, D. Malkhi, M. Reiter. PODC'19
 
 ## CCS
-[Consensus-PoW-Mining][Double-Spending Fast Payments in Bitcoin](https://www.eecis.udel.edu/~ruizhang/CISC859/S17/Paper/p9.pdf). Karame, Ghassan O. and Androulaki, Elli and Capkun, Srdjan. CCS '12.
+[Consensus-PoW-Mining] [Double-Spending Fast Payments in Bitcoin](https://www.eecis.udel.edu/~ruizhang/CISC859/S17/Paper/p9.pdf). Karame, Ghassan O. and Androulaki, Elli and Capkun, Srdjan. CCS '12.
 
 [Privacy] [Deanonymisation of Clients in Bitcoin P2P Network](https://arxiv.org/pdf/1405.7418.pdf). Biryukov A, Khovratovich D, Pustogarov I. CCS '14.
 
 [Privacy] [Provisions: Privacy-preserving proofs of solvency for Bitcoin exchanges](https://eprint.iacr.org/2015/1008.pdf). Dagher GG, Bünz B, Bonneau J, Clark J, Boneh D. CCS '15
 
-[Economic][Demystifying incentives in the consensus computer](https://eprint.iacr.org/2015/702). Loi Luu, Jason Teutsch, Raghav Kulkarni and Prateek Saxena. CCS '15
+[Economic] [Demystifying incentives in the consensus computer](https://eprint.iacr.org/2015/702). Loi Luu, Jason Teutsch, Raghav Kulkarni and Prateek Saxena. CCS '15
 
-[PoW-Network][Tampering with the Delivery of Blocks and Transactions in Bitcoin](https://eprint.iacr.org/2015/578.pdf).Gervais, Arthur and Ritzdorf, Hubert and Karame, Ghassan O. and Capkun, Srdjan. CCS '15
+[PoW-Network] [Tampering with the Delivery of Blocks and Transactions in Bitcoin](https://eprint.iacr.org/2015/578.pdf).Gervais, Arthur and Ritzdorf, Hubert and Karame, Ghassan O. and Capkun, Srdjan. CCS '15
 
-[Consensus-PoW-Mining][Non-outsourceable Scratch-Off Puzzles to Discourage Bitcoin Mining Coalitions](http://soc1024.ece.illinois.edu/nonoutsourceable_full.pdf). Andrew Miller, Elaine Shi, Ahmed Kosba, and Jonathan Katz. CCS '15
+[Consensus-PoW-Mining] [Non-outsourceable Scratch-Off Puzzles to Discourage Bitcoin Mining Coalitions](http://soc1024.ece.illinois.edu/nonoutsourceable_full.pdf). Andrew Miller, Elaine Shi, Ahmed Kosba, and Jonathan Katz. CCS '15
 
 [System] [The Honey Badger of BFT Protocols](https://infoscience.epfl.ch/record/222858/files/199.pdf). Miller A, Xia Y, Croman K, Shi E, Song D. CCS '16.
 
@@ -287,13 +289,13 @@ Carsten Binnig, Arvind Arasu, Donald Kossmann, Ravi Ramamurthy. VLDB'19.
 
 [Smart Contracts] [Town crier: An authenticated data feed for smart contracts](http://delivery.acm.org/10.1145/2980000/2978326/p270-zhang.pdf?ip=46.176.188.9&id=2978326&acc=OA&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E594C525CFFA2AFAF&CFID=923932938&CFTOKEN=56121949&__acm__=1492299159_38039f3afa858f241818fdcf190e0200). Zhang F, Cecchetti E, Croman K, Juels A, Shi E. CCS '16.
 
-[Privacy][On the Security and Performance of Proof of Work Blockchains](https://eprint.iacr.org/2016/555.pdf). Gervais A, Karame GO, Karl Wüst, Glykantzis V, Ritzdorf H, Capkun S. CCS '16.
+[Privacy] [On the Security and Performance of Proof of Work Blockchains](https://eprint.iacr.org/2016/555.pdf). Gervais A, Karame GO, Karl Wüst, Glykantzis V, Ritzdorf H, Capkun S. CCS '16.
 
-[System][A Secure Sharding Protocol For Open Blockchains](https://www.comp.nus.edu.sg/~loiluu/papers/elastico.pdf). Loi Luu, Viswesh Narayanan, Chaodong Zheng, Kunal Baweja, Seth Gilbert, Prateek Saxena. CCS '16.
+[System] [A Secure Sharding Protocol For Open Blockchains](https://www.comp.nus.edu.sg/~loiluu/papers/elastico.pdf). Loi Luu, Viswesh Narayanan, Chaodong Zheng, Kunal Baweja, Seth Gilbert, Prateek Saxena. CCS '16.
 
 [Payment Networks] [Revive: Rebalancing Off-Blockchain Payment Networks](https://eprint.iacr.org/2017/823.pdf). Khalil, R., & Gervais, A. CCS '17.
 
-[Economic][The Gap Game](http://delivery.acm.org/10.1145/3250000/3243737/p713-tsabary.pdf?ip=142.231.81.31&id=3243737&acc=ACTIVE%20SERVICE&key=FD0067F557510FFB%2E26E2C50968A06846%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1572896863_842d24816daa8481df9c256f8a9cb16d). Itay Tsabary, Ittay Eyal. CCS '18.
+[Economic] [The Gap Game](http://delivery.acm.org/10.1145/3250000/3243737/p713-tsabary.pdf?ip=142.231.81.31&id=3243737&acc=ACTIVE%20SERVICE&key=FD0067F557510FFB%2E26E2C50968A06846%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1572896863_842d24816daa8481df9c256f8a9cb16d). Itay Tsabary, Ittay Eyal. CCS '18.
 
 [Payment Networks] [General State Channel Networks](https://eprint.iacr.org/2018/320.pdf) Dziembowski S, Faust S, Hostáková K. CCS '18.
 
@@ -301,13 +303,13 @@ Carsten Binnig, Arvind Arasu, Donald Kossmann, Ravi Ramamurthy. VLDB'19.
 
 [System] [RapidChain: Scaling Blockchain via Full Sharding](https://eprint.iacr.org/2018/460.pdf). Mahdi Zamani, Mahnush Movahedi, Mariana Raykova. CCS '18.
 
-[Consensus][BEAT: Asynchronous BFT Made Practical](https://www.csee.umbc.edu/~hbzhang/files/beat.pdf). Sisi Duan, Michael K. Reiter, Haibin Zhang. CCS '18.
+[Consensus] [BEAT: Asynchronous BFT Made Practical](https://www.csee.umbc.edu/~hbzhang/files/beat.pdf). Sisi Duan, Michael K. Reiter, Haibin Zhang. CCS '18.
 
-[Consensus Applcation][Efficient Publicly Verifiable 2PC over a Blockchain with Applications to Financially-Secure Computations](http://homes.sice.indiana.edu/yh33/mypub/pvc.pdf).	Ruiyu Zhu, Changchang Ding, Yan Huang. CCS '19.
+[Consensus Applcation] [Efficient Publicly Verifiable 2PC over a Blockchain with Applications to Financially-Secure Computations](http://homes.sice.indiana.edu/yh33/mypub/pvc.pdf).	Ruiyu Zhu, Changchang Ding, Yan Huang. CCS '19.
 
-[Network][Erlay: Efficient Transaction Relay for Bitcoin](https://arxiv.org/abs/1905.10518).	Gleb Naumenko, Gregory Maxwell, Pieter Wuille, Alexandra (Sasha) Fedorova, Ivan Beschastnikh. CCS '19.
+[Network] [Erlay: Efficient Transaction Relay for Bitcoin](https://arxiv.org/abs/1905.10518).	Gleb Naumenko, Gregory Maxwell, Pieter Wuille, Alexandra (Sasha) Fedorova, Ivan Beschastnikh. CCS '19.
 
-[Sidechain][HyperService: Interoperability and Programmability across Heterogeneous Blockchains](https://arxiv.org/abs/1908.09343).	Zhuotao Liu, Yangxi Xiang,Jian Shi, Peng Gao, Haoyu Wang, Xusheng Xiao, Bihan Wen, Yih-Chun Hu. CCS '19.
+[Sidechain] [HyperService: Interoperability and Programmability across Heterogeneous Blockchains](https://arxiv.org/abs/1908.09343).	Zhuotao Liu, Yangxi Xiang,Jian Shi, Peng Gao, Haoyu Wang, Xusheng Xiao, Bihan Wen, Yih-Chun Hu. CCS '19.
 
 [Cryptography][MatRiCT: Efficient, Scalable and Post-Quantum Blockchain Confidential Transactions Protocol](https://eprint.iacr.org/2019/1287.pdf).	Muhammed F. Esgin, Raymond K. Zhao, Ron Steinfeld, Joseph K. Liu, Dongxi Liu. CCS '19. 
 
@@ -349,22 +351,24 @@ Eleftherios Kokoris Kogias; Dahlia Malkhi; Alexander Spiegelman. CCS '20.
 
 
 ## SIGMOD
-[Measurement][BLOCKBENCH: A Framework for Analyzing Private Blockchains](https://www.comp.nus.edu.sg/~ooibc/blockbench.pdf). Tien Tuan Anh Dinh, Ji Wang, Gang Chen, Rui Liu, Beng Chin Ooi, Kian-Lee Tan. SIGMOD '17.
+[Measurement][BLOCKBENCH: A Framework for Analyzing Private Blockchains](https://www.comp.nus.edu.sg/~ooibc/blockbench.pdf). Tien Tuan Anh Dinh, Ji Wang, Gang Chen, Rui Liu, Beng Chin Ooi, and Kian-Lee Tan. SIGMOD '17.
 
-[Database][Blurring the Lines between Blockchains and Database Systems: the Case of Hyperledger Fabric](https://dl.acm.org/doi/pdf/10.1145/3299869.3319883?download=true). Ankur Sharma, Felix Martin Schuhknecht, Divya Agrawal, Jens Dittrich. SIGMOD '19.
+[Database][Blurring the Lines between Blockchains and Database Systems: the Case of Hyperledger Fabric](https://dl.acm.org/doi/pdf/10.1145/3299869.3319883?download=true). Ankur Sharma, Felix Martin Schuhknecht, Divya Agrawal, and Jens Dittrich. SIGMOD '19.
 
-[Database][vChain: Enabling Verifiable Boolean Range Queries over Blockchain Databases](https://arxiv.org/pdf/1812.02386.pdf).Cheng Xu, Ce Zhang, Jianliang Xu. SIGMOD '19.
+[Database][vChain: Enabling Verifiable Boolean Range Queries over Blockchain Databases](https://arxiv.org/pdf/1812.02386.pdf). Cheng Xu, Ce Zhang, and Jianliang Xu. SIGMOD '19.
 
 [Consensus-sharding][Towards Scaling Blockchain Systems via Sharding](https://www.comp.nus.edu.sg/~hungdang/papers/sharding.pdf). Hung Dang, Tien Tuan Anh Dinh, Dumitrel Loghin, Ee-Chien Chang, Qian Lin, and Beng Chin Ooi. SIGMOD '19.
 
-[Database][Confidentiality Support over Financial Grade Consortium Blockchain](https://dl.acm.org/doi/abs/10.1145/3318464.3386127). Yan, YingWei, Changzheng Guo, Xuepeng Lu, Xuming Zheng, Xiaofu Liu, Qi Zhou, Chenhui Song, Xuyang Zhao, Boran Zhang, Hui Jiang, Guofei. SIGMOD '20.
+[Database][Confidentiality Support over Financial Grade Consortium Blockchain](https://dl.acm.org/doi/abs/10.1145/3318464.3386127). Yan, YingWei, Changzheng Guo, Xuepeng Lu, Xuming Zheng, Xiaofu Liu, Qi Zhou, Chenhui Song, Xuyang Zhao, Boran Zhang, Hui Jiang, and Guofei. SIGMOD '20.
 
-[Database] [A Transactional Perspective on Execute-order-validate Blockchains](https://dl.acm.org/doi/10.1145/3318464.3389693). Pingcheng Ruan, Dumitrel Loghin, Meihui Zhang, Gang Chen, Beng Chin Ooi. SIGMOD '20.
+[Database] [A Transactional Perspective on Execute-order-validate Blockchains](https://dl.acm.org/doi/10.1145/3318464.3389693). Pingcheng Ruan, Dumitrel Loghin, Meihui Zhang, Gang Chen, and Beng Chin Ooi. SIGMOD '20.
 
-[Database] [FalconDB: Blockchain-based Collaborative Database](https://dl.acm.org/doi/10.1145/3318464.3380594). Yanqing Peng, Min Du, Feifei Li, Raymond Cheng, Dawn Song. SIGMOD '20.
+[Database] [FalconDB: Blockchain-based Collaborative Database](https://dl.acm.org/doi/10.1145/3318464.3380594). Yanqing Peng, Min Du, Feifei Li, Raymond Cheng, and Dawn Song. SIGMOD '20.
+
+[Database] [Blockchains vs. Distributed Databases: Dichotomy and Fusion](https://www.comp.nus.edu.sg/~ooibc/bcvsdb.pdf). Pingcheng Ruan, Tien Tuan Anh Dinh, Dumitrel Loghin, Meihui Zhang, Gang Chen, Qian Lin and Beng Chin Ooi. SIGMOD '20.
 
 ## SPAA
-[Consensus-DAG][Why BlockDAGs Excel Blockchains](https://tik-db.ee.ethz.ch/file/b0a2132681958e4cb69055bab4bf6ad8/The_Append_Memory_Model.pdf).	Darya Melnyk and Roger Wattenhofer. SPAA' 20
+[Consensus-DAG][Why BlockDAGs Excel Blockchains](https://tik-db.ee.ethz.ch/file/b0a2132681958e4cb69055bab4bf6ad8/The_Append_Memory_Model.pdf). Darya Melnyk and Roger Wattenhofer. SPAA' 20
 
 [Consensus-BFT][Fast Byzantine Agreement for Permissioned Distributed Ledgers](https://dl.acm.org/doi/pdf/10.1145/3350755.3400219).	Thomas Locher. SPAA' 20
 
