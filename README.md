@@ -149,7 +149,7 @@ Alexei Zamyatin, Dominik Harz, Joshua Lind, Panayiotis Panayiotou, Arthur Gervai
 
 [Exchange][High-Frequency Trading on Decentralized On-Chain Exchanges]() Liyi Zhou, Kaihua Qin, Christof Ferreira Torres, Duc V Le, Arthur Gervais, Tyler Crain, Christopher Natoli, Vincent Gramoli. IEEE S&P '21.  
 
-[Payment][A2L: Anonymous Atomic Locks for Scalability in Payment Channel Hubs] Erkan Tairi, Pedro Moreno-Sanchez, Matteo Maffei. IEEE S&P '21. 
+[Payment][A2L: Anonymous Atomic Locks for Scalability in Payment Channel Hubs]() Erkan Tairi, Pedro Moreno-Sanchez, Matteo Maffei. IEEE S&P '21. 
 
 [Consensus][Ebb-and-Flow Protocols: A Resolution of the Availability-Finality Dilemma]() Joachim Neu, Ertem Nusret Tas, David Tse. IEEE S&P '21.  
 
@@ -161,7 +161,7 @@ Alexei Zamyatin, Dominik Harz, Joshua Lind, Panayiotis Panayiotou, Arthur Gervai
 
 [Smart contract][SGUARD: Smart Contracts Made Vulnerability-Free]() Long H. Pham, Jun Sun, Tai Duy Nguyen. IEEE S&P '21. 
 
-
+[Consensus][Red Belly: A Secure, Fair and Scalable Open Blockchain]() Tyler Crain, Christopher Natoli, Vincent Gramoli. IEEE S&P '21.
 
 ## Sigmetric&Performance
 [Network][Stability and Scalability of Blockchain Systems](). Aditya Gopalan, Abishek Sankararaman, Anwar Walid, Sriram Vishwanath. Sigmetric '20.
