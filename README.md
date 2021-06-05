@@ -436,6 +436,8 @@ Yang Xiao, Ning Zhang, Wenjing Lou and Thomas Hou. INFOCOM'20
 
 [Consensus][Byzantine ordered consensus without Byzantine oligarchy](https://www.microsoft.com/en-us/research/uploads/prod/2020/10/paper-5f89e2898ee53.pdf) Yunhao Zhang, Srinath Setty, Qi Chen, and Lidong Zhou, Lorenzo Alvisi. OSDI'20 
 
+[Smart Contract][EVMFuzz: Differential Fuzz Testing of Ethereum Virtual Machine](https://arxiv.org/pdf/1903.08483.pdf). Ying Fu, Meng Ren, Fuchen Ma, Yu Jiang, Heyuan Shi, Jiaguang Sun. OSDI'21
+
 ## DSN
 [Smart Contract][FabZK: Supporting Privacy-Preserving, Auditable Smart Contracts in Hyperledger Fabric](). Hui Kang, Ting Dai, Nerla Jean-Louis and Shu Tao. Xiaohui Gu.  DSN '19
 
