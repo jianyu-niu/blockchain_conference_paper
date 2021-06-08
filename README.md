@@ -1,5 +1,5 @@
 # Academic Blockchain Papers
-A curated blockchain-related academic papers. All papers are sorted based on the conference name and published year.
+A curated blockchain-related academic papers. All papers are sorted based on the conference/journal name and published year.
 Welcome developers or researchers to add more published paper to this list. 
 
 ## Table of Listed Conferences
@@ -28,10 +28,13 @@ Welcome developers or researchers to add more published paper to this list.
 - [ACM SIGPLAN Conference on Programming Language Design&Implementation(PLDI)](#pldi) 
 - [Financial Cryptography(FC)](#fc) 
 - [ACM Conference on Economics and Computation(EC)](#ec) 
-- [License](#license)
+
+## Table of Listed Journals
+- [IEEE Transaction on Knowledger and Data Engineering(TKDE)](#tkde)
 
 Key Words: Topics: System Architecture, Consensus(Proof-of-X and BFT), Layer 2 (Off-chain, Payment Networks, Sidechain, Crosschain), Network, Smart Contracts, Application (Trasactions), Cryptograph, Storage (light client); Contents: privacy, security, economics (incentive).
 
+## Conferences
 
 ## CRYPTO
 [Consensus-PoW] [The Bitcoin Backbone Protocol with Chains of Variable Difficulty](https://eprint.iacr.org/2016/1048). Juan A. Garay and Aggelos Kiayias and Nikos Leonardos. Crypto '17.
@@ -498,6 +501,11 @@ Yang Xiao, Ning Zhang, Wenjing Lou and Thomas Hou. INFOCOM'20
 
 ## EC
 [Economic-PoW] [An Economic Analysis of Difficulty Adjustment Algorithms in Proof-of-Work Blockchain Systems](https://econ.hkbu.edu.hk/eng/Doc/Shunya_NODA_POW.pdf). Shunya Noda, Kyohei Okumura and Yoshinori Hashimoto. EC '20.
+
+## Journals
+
+## TKDE
+[Smart Contract] [A High Performance Concurrency Protocol for Smart Contracts of Permissioned Blockchain](https://ieeexplore.ieee.org/document/9356389). Cheqing Jin, Shuaifeng Pang, Xiaodong Qi, Zhao Zhang, and Aoying Zhou. 2021.
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
