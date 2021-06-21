@@ -28,7 +28,7 @@ Welcome developers or researchers to add more published paper to this list.
 - [ACM SIGPLAN Conference on Programming Language Design&Implementation(PLDI)](#pldi) 
 - [Financial Cryptography(FC)](#fc) 
 - [ACM Conference on Economics and Computation(EC)](#ec)
-- [ACM Symposium on Cloud Computing](#socc)
+- [ACM Symposium on Cloud Computing(SOCC)](#socc)
 
 ## Table of Listed Journals
 - [IEEE Transaction on Knowledger and Data Engineering(TKDE)](#tkde)
