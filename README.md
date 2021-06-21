@@ -27,7 +27,8 @@ Welcome developers or researchers to add more published paper to this list.
 - [ACM Conference on Emerging Networking EXperiments and Technologies(CoNEXT)](#conext)
 - [ACM SIGPLAN Conference on Programming Language Design&Implementation(PLDI)](#pldi) 
 - [Financial Cryptography(FC)](#fc) 
-- [ACM Conference on Economics and Computation(EC)](#ec) 
+- [ACM Conference on Economics and Computation(EC)](#ec)
+- [ACM Symposium on Cloud Computing](#socc)
 
 ## Table of Listed Journals
 - [IEEE Transaction on Knowledger and Data Engineering(TKDE)](#tkde)
@@ -501,6 +502,11 @@ Yang Xiao, Ning Zhang, Wenjing Lou and Thomas Hou. INFOCOM'20
 
 ## EC
 [Economic-PoW] [An Economic Analysis of Difficulty Adjustment Algorithms in Proof-of-Work Blockchain Systems](https://econ.hkbu.edu.hk/eng/Doc/Shunya_NODA_POW.pdf). Shunya Noda, Kyohei Okumura and Yoshinori Hashimoto. EC '20.
+
+## SOCC
+[Network] [Gosig: A Scalable and High-Performance Byzantine Consensus for Consortium Blockchains](https://www.cs.toronto.edu/~fanl/papers/gosig-socc20.pdf). Penglun Li, Guosai Wang, Xiaoqi Chen, Fan Long, Wei Xu. SOCC'21.
+
+[Network] [Shrec: Bandwidth-Efficient Transaction Relay in High-Throughput Blockchain Systems](https://www.cs.toronto.edu/~fanl/papers/shrec-socc20.pdf). Yilin Han, Chenxing Li, Peilun Li, Ming Wu, Dong Zhuo, Fan Long. SOCC'21.
 
 ## Journals
 
