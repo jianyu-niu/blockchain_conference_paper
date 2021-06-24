@@ -517,7 +517,7 @@ Yang Xiao, Ning Zhang, Wenjing Lou and Thomas Hou. INFOCOM'20
 [Smart Contract] [A High Performance Concurrency Protocol for Smart Contracts of Permissioned Blockchain](https://ieeexplore.ieee.org/document/9356389). Cheqing Jin, Shuaifeng Pang, Xiaodong Qi, Zhao Zhang, and Aoying Zhou. 2021.
 
 ## ACMCSUR
-[Smart Contract] [A Survey on Blockchain Interoperability: Past, Present, and Future Trends](https://arxiv.org/abs/2005.14282). Rafael Belchior, André Vasconcelos, Sérgio Guerreiro, Miguel Correia. 2021.
+[Layer2] [A Survey on Blockchain Interoperability: Past, Present, and Future Trends](https://arxiv.org/abs/2005.14282). Rafael Belchior, André Vasconcelos, Sérgio Guerreiro, Miguel Correia. 2021.
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
