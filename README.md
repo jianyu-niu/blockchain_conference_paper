@@ -33,6 +33,9 @@ Welcome developers or researchers to add more published paper to this list.
 ## Table of Listed Journals
 - [IEEE Transaction on Knowledger and Data Engineering(TKDE)](#tkde)
 
+- [ACM Computing Surveys (ACM CSUR)](#acmcsur)
+
+
 Key Words: Topics: System Architecture, Consensus(Proof-of-X and BFT), Layer 2 (Off-chain, Payment Networks, Sidechain, Crosschain), Network, Smart Contracts, Application (Trasactions), Cryptograph, Storage (light client); Contents: privacy, security, economics (incentive).
 
 ## Conferences
@@ -512,6 +515,9 @@ Yang Xiao, Ning Zhang, Wenjing Lou and Thomas Hou. INFOCOM'20
 
 ## TKDE
 [Smart Contract] [A High Performance Concurrency Protocol for Smart Contracts of Permissioned Blockchain](https://ieeexplore.ieee.org/document/9356389). Cheqing Jin, Shuaifeng Pang, Xiaodong Qi, Zhao Zhang, and Aoying Zhou. 2021.
+
+## ACMCSUR
+[Layer2] [A Survey on Blockchain Interoperability: Past, Present, and Future Trends](https://arxiv.org/abs/2005.14282). Rafael Belchior, André Vasconcelos, Sérgio Guerreiro, Miguel Correia. 2021.
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
