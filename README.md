@@ -374,7 +374,17 @@ Eleftherios Kokoris Kogias; Dahlia Malkhi; Alexander Spiegelman. CCS '20.
 
 [Database] [FalconDB: Blockchain-based Collaborative Database](https://dl.acm.org/doi/10.1145/3318464.3380594). Yanqing Peng, Min Du, Feifei Li, Raymond Cheng, and Dawn Song. SIGMOD '20.
 
-[Database] [Blockchains vs. Distributed Databases: Dichotomy and Fusion](https://www.comp.nus.edu.sg/~ooibc/bcvsdb.pdf). Pingcheng Ruan, Tien Tuan Anh Dinh, Dumitrel Loghin, Meihui Zhang, Gang Chen, Qian Lin and Beng Chin Ooi. SIGMOD '20.
+[Database] [Blockchains vs. Distributed Databases: Dichotomy and Fusion](https://www.comp.nus.edu.sg/~ooibc/bcvsdb.pdf). Pingcheng Ruan, Tien Tuan Anh Dinh, Dumitrel Loghin, Meihui Zhang, Gang Chen, Qian Lin and Beng Chin Ooi. SIGMOD '21.
+
+[Benchmark] [Why Do My Blockchain Transactions Fail? A Study of Hyperledger Fabric](https://arxiv.org/pdf/2103.04681.pdf). Jeeta Ann Chacko, Ruben Mayer, and Hans-Arno Jacobsen. SIGMOD '21.
+
+[Consensus-sharding] [SharPer: Sharding Permissioned Blockchains Over Network Clusters](https://sites.cs.ucsb.edu/~amiri/papers/sharper.pdf). Mohammad Javad Amiri, Divyakant Agrawal, and Amr El Abbadi. SIGMOD '21.
+
+[PoS] [Do the Rich Get Richer? Fairness Analysis for Blockchain Incentives](https://arxiv.org/pdf/2103.14713.pdf). Yuming Huang, Jing Tang, Qianhao Cong, Andrew Lim, and Jianliang Xu.
+
+[Privacy] [P^2B-Trace: Privacy-Preserving Blockchain-based Contact Tracing to Combat Pandemics](https://dl.acm.org/doi/abs/10.1145/3448016.3459237). Zhe Peng, Cheng Xu, Haixin Wang, Jinbin Huang, Jianliang Xu, and Xiaowen Chu. SIGMOD '21.
+
+[Privacy] [DIV: Resolving the Dynamic Issues of Zero-knowledge Set Membership Proof in the Blockchain](https://dl.acm.org/doi/abs/10.1145/3448016.3457248). Zihuan Xu, and Lei Chen. SIGMOD '21.
 
 ## SPAA
 [Consensus-DAG][Why BlockDAGs Excel Blockchains](https://tik-db.ee.ethz.ch/file/b0a2132681958e4cb69055bab4bf6ad8/The_Append_Memory_Model.pdf). Darya Melnyk and Roger Wattenhofer. SPAA' 20
