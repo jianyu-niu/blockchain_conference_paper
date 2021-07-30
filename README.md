@@ -457,6 +457,8 @@ Yang Xiao, Ning Zhang, Wenjing Lou and Thomas Hou. INFOCOM'20
 
 [Smart Contract][EVMFuzz: Differential Fuzz Testing of Ethereum Virtual Machine](https://arxiv.org/pdf/1903.08483.pdf). Ying Fu, Meng Ren, Fuchen Ma, Yu Jiang, Heyuan Shi, Jiaguang Sun. OSDI'21
 
+[Decentralized Service][https://www.usenix.org/system/files/osdi21-li.pdf](Bringing Decentralized Search to Decentralized Services). Mingyu Li, Jinhao Zhu, Tianxu Zhang, Cheng Tan, Sebastian Angel, and Haibo Chen. OSDI'21
+
 ## DSN
 [Smart Contract][FabZK: Supporting Privacy-Preserving, Auditable Smart Contracts in Hyperledger Fabric](). Hui Kang, Ting Dai, Nerla Jean-Louis and Shu Tao. Xiaohui Gu.  DSN '19
 
