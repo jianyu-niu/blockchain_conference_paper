@@ -386,6 +386,8 @@ Eleftherios Kokoris Kogias; Dahlia Malkhi; Alexander Spiegelman. CCS '20.
 
 [Privacy] [DIV: Resolving the Dynamic Issues of Zero-knowledge Set Membership Proof in the Blockchain](https://dl.acm.org/doi/abs/10.1145/3448016.3457248). Zihuan Xu, and Lei Chen. SIGMOD '21.
 
+[Privacy] [When the Recursive Diversity Anonymity Meets the Ring Signature](https://dl.acm.org/doi/abs/10.1145/3448016.3452825). Ni Wangze, Peng Cheng, Lei Chen, Xuemin Lin. SIGMOD '21.
+
 [Database] [SQL Ledger: Cryptographically Verifiable Data in Azure SQL Database](https://dl.acm.org/doi/pdf/10.1145/3448016.3457558). Panagiotis Antonopoulos, Raghav Kaushik, Hanuma Kodavalla, Sergio Rosales Aceves, Reilly Wong, Jason Anderson, and Jakub Szymaszek. SIGMOD '21
 
 ## SPAA
@@ -457,7 +459,7 @@ Yang Xiao, Ning Zhang, Wenjing Lou and Thomas Hou. INFOCOM'20
 
 [Smart Contract][EVMFuzz: Differential Fuzz Testing of Ethereum Virtual Machine](https://arxiv.org/pdf/1903.08483.pdf). Ying Fu, Meng Ren, Fuchen Ma, Yu Jiang, Heyuan Shi, Jiaguang Sun. OSDI'21
 
-[Decentralized Service][https://www.usenix.org/system/files/osdi21-li.pdf](Bringing Decentralized Search to Decentralized Services). Mingyu Li, Jinhao Zhu, Tianxu Zhang, Cheng Tan, Sebastian Angel, and Haibo Chen. OSDI'21
+[Decentralized Service][Bringing Decentralized Search to Decentralized Services](https://www.usenix.org/system/files/osdi21-li.pdf). Mingyu Li, Jinhao Zhu, Tianxu Zhang, Cheng Tan, Sebastian Angel, and Haibo Chen. OSDI'21
 
 ## DSN
 [Smart Contract][FabZK: Supporting Privacy-Preserving, Auditable Smart Contracts in Hyperledger Fabric](). Hui Kang, Ting Dai, Nerla Jean-Louis and Shu Tao. Xiaohui Gu.  DSN '19
