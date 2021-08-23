@@ -386,7 +386,7 @@ Eleftherios Kokoris Kogias; Dahlia Malkhi; Alexander Spiegelman. CCS '20.
 
 [Privacy] [DIV: Resolving the Dynamic Issues of Zero-knowledge Set Membership Proof in the Blockchain](https://dl.acm.org/doi/abs/10.1145/3448016.3457248). Zihuan Xu, and Lei Chen. SIGMOD '21.
 
-[Privacy] [When the Recursive Diversity Anonymity Meets the Ring Signature](https://dl.acm.org/doi/abs/10.1145/3448016.3452825). Ni Wangze, Peng Cheng, Lei Chen, Xuemin Lin. SIGMOD '21.
+[Privacy] [When the Recursive Diversity Anonymity Meets the Ring Signature](https://dl.acm.org/doi/abs/10.1145/3448016.3452825). Wangze Ni, Peng Cheng, Lei Chen, Xuemin Lin. SIGMOD '21.
 
 [Database] [SQL Ledger: Cryptographically Verifiable Data in Azure SQL Database](https://dl.acm.org/doi/pdf/10.1145/3448016.3457558). Panagiotis Antonopoulos, Raghav Kaushik, Hanuma Kodavalla, Sergio Rosales Aceves, Reilly Wong, Jason Anderson, and Jakub Szymaszek. SIGMOD '21
 
