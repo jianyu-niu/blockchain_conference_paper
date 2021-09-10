@@ -469,7 +469,7 @@ Yang Xiao, Ning Zhang, Wenjing Lou and Thomas Hou. INFOCOM'20
 
 [Consensus][Byzantine ordered consensus without Byzantine oligarchy](https://www.microsoft.com/en-us/research/uploads/prod/2020/10/paper-5f89e2898ee53.pdf) Yunhao Zhang, Srinath Setty, Qi Chen, and Lidong Zhou, Lorenzo Alvisi. OSDI'20 
 
-[Smart Contract][EVMFuzz: Differential Fuzz Testing of Ethereum Virtual Machine](https://arxiv.org/pdf/1903.08483.pdf). Ying Fu, Meng Ren, Fuchen Ma, Yu Jiang, Heyuan Shi, Jiaguang Sun. OSDI'21
+[Smart Contract][Finding Consensus Bugs in Ethereum via Multi-transaction Differential Fuzzing](https://www.usenix.org/system/files/osdi21-yang.pdf). Youngseok Yang, Taesoo Kim, Byung-Gon Chun. OSDI'21
 
 [Decentralized Service][Bringing Decentralized Search to Decentralized Services](https://www.usenix.org/system/files/osdi21-li.pdf). Mingyu Li, Jinhao Zhu, Tianxu Zhang, Cheng Tan, Sebastian Angel, and Haibo Chen. OSDI'21
 
