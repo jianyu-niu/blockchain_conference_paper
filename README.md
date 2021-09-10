@@ -353,6 +353,18 @@ Eleftherios Kokoris Kogias; Dahlia Malkhi; Alexander Spiegelman. CCS '20.
 
 [Consensus][Tight Consistency Bounds for Bitcoin](). Peter Gaži, Aggelos Kiayias, Alexander Russell. CCS '20.
 
+[Consensus][Multi-Threshold Byzantine Fault Tolerance](https://eprint.iacr.org/2021/671.pdf).Atsuki Momose, Ling Ren. CCS '21.
+
+[Consensus][Revisiting Nakamoto Consensus in Asynchronous Networks: A Comprehensive Analysis of Bitcoin Safety and Chain Quality](http://www.cs.ucf.edu/~msaad/ccs_21.pdf).Muhammad Saad, Afsah Anwar, Srivatsan Ravi, and David Mohaisen. CCS '21.
+
+[Consensus][BFT Protocol Forensics](https://arxiv.org/abs/2010.06785). Peiyao Sheng, Gerui Wang, Kartik Nayak, Sreeram Kannan, Pramod Viswanath. CCS '21.
+
+[Consensus][Securing Parallel-chain Protocols under Variable Mining Power](https://arxiv.org/abs/2105.02927) Xuechao Wang, Viswa Virinchi Muppirala, Lei Yang, Sreeram Kannan, Pramod Viswanath. CCS '21.
+
+[Beacon][RandPiper-Reconfiguration-Friendly Random Beacons with Quadratic Communication](https://eprint.iacr.org/2020/1590). Adithya Bhat and Nibesh Shrestha and Aniket Kate and Kartik Nayak. CCS '21.
+
+[Consensus][Asynchronous Data Dissemination and its Applications](https://eprint.iacr.org/2021/777) Sourav Das and Zhuolun Xiang and Ling Ren. CCS '21.
+
 ## IPDPS
 [Consensus][G-PBFT: A Location-based and Scalable Consensus Protocol for IoT-Blockchain Applications](http://www4.comp.polyu.edu.hk/~csbxiao/paper/2020/IPDPS_GPBFT_2020.pdf). LapHou Lao, Xiaohai Dai, Bin Xiao, and Songtao Guo. IPDPS '20.
 
