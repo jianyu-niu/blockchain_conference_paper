@@ -256,6 +256,12 @@ Carsten Binnig, Arvind Arasu, Donald Kossmann, Ravi Ramamurthy. VLDB'19.
 
 [Application] [Trusted Computing meets Blockchain: Rollback Attacks and a Solution for Hyperledger Fabric](https://ieeexplore.ieee.org/document/9049585). Marcus Brandenburger, Christian Cachin, Rüdiger Kapitza and Alessandro Sorniotti. SRDS '19
 
+[Application] [NF-Crowd: Nearly-free Blockchain-based Crowdsourcing]() Chao Li, Balaji Palanisamy, Runhua Xu, Jian Wang, Jiqiang Liu. SRDS '20
+
+[Query][An Efficient Query Scheme for Hybrid Storage Blockchains Based on Merkle Semantic Trie]() Qingqi Pei, Enyuan Zhou, Yang Xiao, Deyu Zhang, Dongxiao Zhao. SRDS '20
+		
+[Smart contract][Protect Your Smart Contract Against Unfair Payment]() Yue Li, Han Liu, Zhiqiang Yang, Bin Wang, Qian Ren, Lei Wang, Bangdao Chen. SRDS '20
+
 [Consensus] [Threat Adaptive Byzantine Fault Tolerant State-Machine Replication]	Douglas Simões Silva, Rafal Graczyk, Jérémie Decouchant, Marcus Völp and Paulo Esteves-Verissimo. SRDS '21
 
 [Consensus] [Adding Fairness to Order: Preventing Front-Running Attacks in BFT Protocols using TEEs]	Chrysoula Stathakopoulou, Signe Rüsch, Marcus Brandenburger and Marko Vukolic. SRDS '21
