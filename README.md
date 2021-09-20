@@ -41,11 +41,11 @@ Key Words: Topics: System Architecture, Consensus(Proof-of-X and BFT), Layer 2 (
 ## Conferences
 
 ## CRYPTO
-[Consensus-PoW] [The Bitcoin Backbone Protocol with Chains of Variable Difficulty](https://eprint.iacr.org/2016/1048). Juan A. Garay and Aggelos Kiayias and Nikos Leonardos. Crypto '17.
+[The Bitcoin Backbone Protocol with Chains of Variable Difficulty](https://eprint.iacr.org/2016/1048). Juan A. Garay and Aggelos Kiayias and Nikos Leonardos. Crypto '17.
 
-[Consensus-PoS] [Ouroboros Praos: An adaptively-secure, semi-synchronous proof-of-stake protocol](http://eprint.iacr.org/2017/573.pdf). Bernardo D, Gazi P, Kiayias A, Russell A. Crypto '17.
+[Ouroboros Praos: An adaptively-secure, semi-synchronous proof-of-stake protocol](http://eprint.iacr.org/2017/573.pdf). Bernardo D, Gazi P, Kiayias A, Russell A. Crypto '17.
 
-[Consensus-BFT] [Order-Fairness for Byzantine Consensus](https://eprint.iacr.org/2020/269.pdf) Mahimna Kelkar,Fan Zhang,Ari Juels. Crypto '20.
+[Order-Fairness for Byzantine Consensus](https://eprint.iacr.org/2020/269.pdf) Mahimna Kelkar,Fan Zhang,Ari Juels. Crypto '20.
 
 ## Eurosys
 [System] [Hyperledger Fabric: A Distributed Operating System for Permissioned Blockchains](https://arxiv.org/pdf/1801.10228.pdf). Elli Androulaki, Artem Barger, Vita Bortnikov, Christian Cachin, Konstantinos Christidis, Angelo De Caro, David Enyeart, Christopher Ferris, Gennady Laventman, Yacov Manevich, Srinivasan Muralidharan, Chet Murthy, Binh Nguyen, Manish Sethi, Gari Singh, Keith Smith, Alessandro Sorniotti, Chrysoula Stathakopoulou, Marko Vukolić, Sharon Weed Cocco, Jason Yellick. EuroSys'18
@@ -255,6 +255,16 @@ Carsten Binnig, Arvind Arasu, Donald Kossmann, Ravi Ramamurthy. VLDB'19.
 [Application] [Blockchain-based Metadata Protection for Archival Systems](https://ieeexplore.ieee.org/document/9049624).	Arnaud L'Hutereau, Dorian Burihabwa, Pascal Felber, Hugues Mercier and Valerio Schiavoni. SRDS '19.
 
 [Application] [Trusted Computing meets Blockchain: Rollback Attacks and a Solution for Hyperledger Fabric](https://ieeexplore.ieee.org/document/9049585). Marcus Brandenburger, Christian Cachin, Rüdiger Kapitza and Alessandro Sorniotti. SRDS '19
+
+[Consensus] [Threat Adaptive Byzantine Fault Tolerant State-Machine Replication]	Douglas Simões Silva, Rafal Graczyk, Jérémie Decouchant, Marcus Völp and Paulo Esteves-Verissimo. SRDS '21
+
+[Consensus] [Adding Fairness to Order: Preventing Front-Running Attacks in BFT Protocols using TEEs]	Chrysoula Stathakopoulou, Signe Rüsch, Marcus Brandenburger and Marko Vukolic. SRDS '21
+
+[Consensus] [How to Trust Strangers: Composition of Byzantine Quorum Systems]	Orestis Alpos, Christian Cachin and Luca Zanolini. SRDS '21
+
+[Consensus] [Making Reads in BFT State Machine Replication Fast, Linearizable, and Live]	Christian Berger, Hans P. Reiser and Alysson Bessani. SRDS '21
+
+[Provenance] [Vassago: Efficient and Authenticated Provenance Query on Multiple Blockchains]	Rui Han, Jiang Xiao, Xiaohai Dai, Shijie Zhang, Yi Sun, Baochun Li and Hai Jin. SRDS '21
 
 ## PODC
 [Consensus-PoW] [FruitChains: A Fair Blockchain](https://eprint.iacr.org/2016/916.pdf).Rafael Pass, Elaine Shi. PODC'17
