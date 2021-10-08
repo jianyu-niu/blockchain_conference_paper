@@ -556,7 +556,7 @@ Yang Xiao, Ning Zhang, Wenjing Lou and Thomas Hou. INFOCOM'20
 
 [Network] [Shrec: Bandwidth-Efficient Transaction Relay in High-Throughput Blockchain Systems](https://www.cs.toronto.edu/~fanl/papers/shrec-socc20.pdf). Yilin Han, Chenxing Li, Peilun Li, Ming Wu, Dong Zhuo, Fan Long. SOCC'21.
 
-## #OOPSLA
+## OOPSLA
 [Smart Contract] [Detecting Nondeterministic Payment Bugs in Ethereum Smart Contracts](https://home.cse.ust.hk/~shuaiw/papers/oopsla19.pdf). Shuai Wang, Chengyu Zhang, Zhendong Su. OOPSLA'19
 
 ## Journals
