@@ -86,8 +86,6 @@ Key Words: Topics: System Architecture, Consensus(Proof-of-X and BFT), Layer 2 (
 [Smart contract][Arbitrum: Scalable, private smart contracts](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-kalodner.pdf). Harry Kalodner, Steven Goldfeder, Xiaoqi Chen, S. Matthew Weinberg,
 and Edward W. Felten. USENIX '18 Security Symposium.
 
-[Smart contract][FastKitten: Practical Smart Contracts on Bitcoin](). Poulami Das, Lisa Eckey, Tommaso Frassetto, David Gens, Kristina Hostáková, Patrick Jauernig, Sebastian Faust, and Ahmad-Reza Sadeghi. USENIX '18 Security Symposium.
-
 [Transaction Analysis][Tracing Transactions Across Cryptocurrency Ledgers](https://smeiklej.com/files/usenix19.pdf). Haaroon Yousaf, George Kappos, and Sarah Meiklejohn. USENIX '19 Security Symposium.
 
 [Consensus][StrongChain: Transparent and Collaborative Proof-of-Work Consensus](https://arxiv.org/pdf/1905.09655.pdf). Pawel Szalachowski, Daniël Reijsbergen, and Ivan Homoliak, Siwei Sun. USENIX '19 Security Symposium.
