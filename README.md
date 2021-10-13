@@ -6,6 +6,7 @@ Welcome developers or researchers to add more published paper to this list.
 - [CRYPTO](#crypto)
 - [EuroSys](#eurosys)
 - [EUROCRYPT](#eurocrypt)
+- [IEEE European Symposium on Security and Privacy (EuroS&P)](#eurosp)
 - [USENIX Security](#usenix-security)
 - [IEEE Security and Privacy(S&P)](#sp)
 - [ACM SIGMETRICS / IFIP Performance](#sigmetricperformance)
@@ -26,10 +27,10 @@ Welcome developers or researchers to add more published paper to this list.
 - [IEEE/IFIP International Conference on Dependable Systems and Networks(DSN)](#dsn)
 - [ACM Conference on Emerging Networking EXperiments and Technologies(CoNEXT)](#conext)
 - [ACM SIGPLAN Conference on Programming Language Design&Implementation(PLDI)](#pldi) 
-- [ACM SIGPLAN International Conference on Object-Oriented Programming Systems,Languages,and Applications(OOPSLA)](#OOPSLA) 
 - [Financial Cryptography(FC)](#fc) 
 - [ACM Conference on Economics and Computation(EC)](#ec)
 - [ACM Symposium on Cloud Computing(SOCC)](#socc)
+- [ACM SIGPLAN International Conference on Object-Oriented Programming Systems,Languages,and Applications(OOPSLA)](#oopsla) 
 
 ## Table of Listed Journals
 - [IEEE Transaction on Knowledger and Data Engineering(TKDE)](#tkde)
@@ -69,6 +70,10 @@ Key Words: Topics: System Architecture, Consensus(Proof-of-X and BFT), Layer 2 (
 [Payment Channel][Multi-Party Virtual State Channels](https://link.springer.com/content/pdf/10.1007%2F978-3-030-17653-2_21.pdf). Stefan Dziembowski Lisa Eckey Sebastian Faust Julia Hesse Kristina Hostáková. EUROCRYPT '19. 
 
 [Cryptography-Privacy][Aggregate Cash Systems: A Cryptographic Investigation of Mimblewimble](https://link.springer.com/content/pdf/10.1007%2F978-3-030-17653-2_22.pdf). Georg Fuchsbauer Michele Orrù Yannick Seurin. EUROCRYPT '19. 
+
+## EuroS&P
+
+[Smart Contract][Ekiden: A Platform for Conﬁdentiality-Preserving, Trustworthy, and Performant Smart Contracts](https://arxiv.org/pdf/1804.05141.pdf). Raymond Cheng, Fan Zhang, Jernej Kos, Warren He, Nicholas Hynes, Noah Johnson, Ari Juels, Andrew Miller, Dawn Song. EuroS&P '19.
 
 ## USENIX Security
 [Network-security] [Eclipse Attacks on Bitcoin's Peer-to-Peer Network](https://www.usenix.org/system/files/conference/usenixsecurity15/sec15-paper-heilman.pdf). Heilman E, Kendler A, Zohar A, Goldberg S. USENIX '15 Security Symposium.
@@ -249,27 +254,27 @@ Carsten Binnig, Arvind Arasu, Donald Kossmann, Ravi Ramamurthy. VLDB'19.
 [Consensus] [FireLedger: A High Throughput Blockchain Consensus Protocol](http://www.vldb.org/pvldb/vol13/p1525-buchnik.pdf). Yehonatan Buchnik, and Roy Friedman. VLDB'20.
 
 ## SRDS
-[Consensus] [Bloxy: Providing Transparent and Generic BFT-Based Ordering Services for Blockchains](https://www.researchgate.net/publication/340304077_Bloxy_Providing_Transparent_and_Generic_BFT-Based_Ordering_Services_for_Blockchains).Signe Rüsch, Rüdiger Kapitza and Kai Bleeke. SRDS '19.
+[Consensus] [Bloxy: Providing Transparent and Generic BFT-Based Ordering Services for Blockchains](https://www.researchgate.net/publication/340304077_Bloxy_Providing_Transparent_and_Generic_BFT-Based_Ordering_Services_for_Blockchains). Signe Rüsch, Rüdiger Kapitza and Kai Bleeke. SRDS '19.
 
-[Application] [Blockchain-based Metadata Protection for Archival Systems](https://ieeexplore.ieee.org/document/9049624).	Arnaud L'Hutereau, Dorian Burihabwa, Pascal Felber, Hugues Mercier and Valerio Schiavoni. SRDS '19.
+[Application] [Blockchain-based Metadata Protection for Archival Systems](https://ieeexplore.ieee.org/document/9049624). Arnaud L'Hutereau, Dorian Burihabwa, Pascal Felber, Hugues Mercier and Valerio Schiavoni. SRDS '19.
 
-[Application] [Trusted Computing meets Blockchain: Rollback Attacks and a Solution for Hyperledger Fabric](https://ieeexplore.ieee.org/document/9049585). Marcus Brandenburger, Christian Cachin, Rüdiger Kapitza and Alessandro Sorniotti. SRDS '19
+[Application] [Trusted Computing meets Blockchain: Rollback Attacks and a Solution for Hyperledger Fabric](https://ieeexplore.ieee.org/document/9049585). Marcus Brandenburger, Christian Cachin, Rüdiger Kapitza and Alessandro Sorniotti. SRDS '19.
 
-[Application] [NF-Crowd: Nearly-free Blockchain-based Crowdsourcing]() Chao Li, Balaji Palanisamy, Runhua Xu, Jian Wang, Jiqiang Liu. SRDS '20
+[Application] [NF-Crowd: Nearly-free Blockchain-based Crowdsourcing](). Chao Li, Balaji Palanisamy, Runhua Xu, Jian Wang, Jiqiang Liu. SRDS '20.
 
-[Query][An Efficient Query Scheme for Hybrid Storage Blockchains Based on Merkle Semantic Trie]() Qingqi Pei, Enyuan Zhou, Yang Xiao, Deyu Zhang, Dongxiao Zhao. SRDS '20
+[Query][An Efficient Query Scheme for Hybrid Storage Blockchains Based on Merkle Semantic Trie](). Qingqi Pei, Enyuan Zhou, Yang Xiao, Deyu Zhang, Dongxiao Zhao. SRDS '20.
 		
-[Smart contract][Protect Your Smart Contract Against Unfair Payment]() Yue Li, Han Liu, Zhiqiang Yang, Bin Wang, Qian Ren, Lei Wang, Bangdao Chen. SRDS '20
+[Smart contract][Protect Your Smart Contract Against Unfair Payment](). Yue Li, Han Liu, Zhiqiang Yang, Bin Wang, Qian Ren, Lei Wang, Bangdao Chen. SRDS '20.
 
-[Consensus] [Threat Adaptive Byzantine Fault Tolerant State-Machine Replication]	Douglas Simões Silva, Rafal Graczyk, Jérémie Decouchant, Marcus Völp and Paulo Esteves-Verissimo. SRDS '21
+[Consensus] [Threat Adaptive Byzantine Fault Tolerant State-Machine Replication](). Douglas Simões Silva, Rafal Graczyk, Jérémie Decouchant, Marcus Völp and Paulo Esteves-Verissimo. SRDS '21.
 
-[Consensus] [Adding Fairness to Order: Preventing Front-Running Attacks in BFT Protocols using TEEs]	Chrysoula Stathakopoulou, Signe Rüsch, Marcus Brandenburger and Marko Vukolic. SRDS '21
+[Consensus] [Adding Fairness to Order: Preventing Front-Running Attacks in BFT Protocols using TEEs](). Chrysoula Stathakopoulou, Signe Rüsch, Marcus Brandenburger and Marko Vukolic. SRDS '21.
 
-[Consensus] [How to Trust Strangers: Composition of Byzantine Quorum Systems]	Orestis Alpos, Christian Cachin and Luca Zanolini. SRDS '21
+[Consensus] [How to Trust Strangers: Composition of Byzantine Quorum Systems](). Orestis Alpos, Christian Cachin and Luca Zanolini. SRDS '21.
 
-[Consensus] [Making Reads in BFT State Machine Replication Fast, Linearizable, and Live]	Christian Berger, Hans P. Reiser and Alysson Bessani. SRDS '21
+[Consensus] [Making Reads in BFT State Machine Replication Fast, Linearizable, and Live](). Christian Berger, Hans P. Reiser and Alysson Bessani. SRDS '21.
 
-[Provenance] [Vassago: Efficient and Authenticated Provenance Query on Multiple Blockchains]	Rui Han, Jiang Xiao, Xiaohai Dai, Shijie Zhang, Yi Sun, Baochun Li and Hai Jin. SRDS '21
+[Provenance] [Vassago: Efficient and Authenticated Provenance Query on Multiple Blockchains](). Rui Han, Jiang Xiao, Xiaohai Dai, Shijie Zhang, Yi Sun, Baochun Li and Hai Jin. SRDS '21.
 
 ## PODC
 [Consensus-PoW] [FruitChains: A Fair Blockchain](https://eprint.iacr.org/2016/916.pdf).Rafael Pass, Elaine Shi. PODC'17
@@ -555,7 +560,7 @@ Yang Xiao, Ning Zhang, Wenjing Lou and Thomas Hou. INFOCOM'20
 [Network] [Shrec: Bandwidth-Efficient Transaction Relay in High-Throughput Blockchain Systems](https://www.cs.toronto.edu/~fanl/papers/shrec-socc20.pdf). Yilin Han, Chenxing Li, Peilun Li, Ming Wu, Dong Zhuo, Fan Long. SOCC'21.
 
 ## OOPSLA
-[Smart Contract] [Detecting Nondeterministic Payment Bugs in Ethereum Smart Contracts](https://home.cse.ust.hk/~shuaiw/papers/oopsla19.pdf). Shuai Wang, Chengyu Zhang, Zhendong Su. OOPSLA'19
+[Smart Contract] [Detecting Nondeterministic Payment Bugs in Ethereum Smart Contracts](https://home.cse.ust.hk/~shuaiw/papers/oopsla19.pdf). Shuai Wang, Chengyu Zhang, Zhendong Su. OOPSLA'19.
 
 ## Journals
 
