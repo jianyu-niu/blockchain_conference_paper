@@ -6,7 +6,6 @@ Welcome developers or researchers to add more published paper to this list.
 - [CRYPTO](#crypto)
 - [EuroSys](#eurosys)
 - [EUROCRYPT](#eurocrypt)
-- [IEEE European Symposium on Security and Privacy (EuroS&P)](#eurosp)
 - [USENIX Security](#usenix-security)
 - [IEEE Security and Privacy(S&P)](#sp)
 - [ACM SIGMETRICS / IFIP Performance](#sigmetricperformance)
@@ -14,6 +13,7 @@ Welcome developers or researchers to add more published paper to this list.
 - [International Conference on Software Engineering(ICSE)](#icse) 
 - [ACM Symposium on Operating Systems Principles(SOSP)](#sosp)
 - [International Conference on Very Large Data Bases(VLDB)](#vldb)
+- [IEEE European Symposium on Security and Privacy (EuroS&P)](#eurosp)
 - [International Symposium on Reliable Distributed Systems(SRDS)](#srds)
 - [ACM Symposium on Principles of Distributed Computing(PODC)](#podc)
 - [ACM International Conference on Management of Data(SIGMOD)](#sigmod)
@@ -71,9 +71,6 @@ Key Words: Topics: System Architecture, Consensus(Proof-of-X and BFT), Layer 2 (
 
 [Cryptography-Privacy][Aggregate Cash Systems: A Cryptographic Investigation of Mimblewimble](https://link.springer.com/content/pdf/10.1007%2F978-3-030-17653-2_22.pdf). Georg Fuchsbauer Michele Orrù Yannick Seurin. EUROCRYPT '19. 
 
-## EuroS&P
-
-[Smart Contract][Ekiden: A Platform for Conﬁdentiality-Preserving, Trustworthy, and Performant Smart Contracts](https://arxiv.org/pdf/1804.05141.pdf). Raymond Cheng, Fan Zhang, Jernej Kos, Warren He, Nicholas Hynes, Noah Johnson, Ari Juels, Andrew Miller, Dawn Song. EuroS&P '19.
 
 ## USENIX Security
 [Network-security] [Eclipse Attacks on Bitcoin's Peer-to-Peer Network](https://www.usenix.org/system/files/conference/usenixsecurity15/sec15-paper-heilman.pdf). Heilman E, Kendler A, Zohar A, Goldberg S. USENIX '15 Security Symposium.
@@ -252,6 +249,10 @@ Carsten Binnig, Arvind Arasu, Donald Kossmann, Ravi Ramamurthy. VLDB'19.
 [Application] [Blockchain Meets Database: Design and Implementation of a Blockchain Relational Database](http://www.vldb.org/pvldb/vol12/p1539-nathan.pdf). Senthil Nathan, Chander Govindarajan, Adarsh Saraf, Manish Sethi, and Praveen Jayachandran. VLDB'19.
 
 [Consensus] [FireLedger: A High Throughput Blockchain Consensus Protocol](http://www.vldb.org/pvldb/vol13/p1525-buchnik.pdf). Yehonatan Buchnik, and Roy Friedman. VLDB'20.
+
+## EuroS&P
+[Smart Contract][Ekiden: A Platform for Conﬁdentiality-Preserving, Trustworthy, and Performant Smart Contracts](https://arxiv.org/pdf/1804.05141.pdf). Raymond Cheng, Fan Zhang, Jernej Kos, Warren He, Nicholas Hynes, Noah Johnson, Ari Juels, Andrew Miller, Dawn Song. EuroS&P '19.
+
 
 ## SRDS
 [Consensus] [Bloxy: Providing Transparent and Generic BFT-Based Ordering Services for Blockchains](https://www.researchgate.net/publication/340304077_Bloxy_Providing_Transparent_and_Generic_BFT-Based_Ordering_Services_for_Blockchains). Signe Rüsch, Rüdiger Kapitza and Kai Bleeke. SRDS '19.
