@@ -232,7 +232,17 @@ Charlie Hou, Mingxun Zhou, Yan Ji and Phil Daian, Florian Tramèr, Giulia Fanti,
 
 [Consensus] [Fast and Secure Global Payments with Stellar](https://www.scs.stanford.edu/~dm/home/papers/lokhava:stellar-core.pdf). Marta Lokhava, Giuliano Losa, David Mazières, Graydon Hoare, Nicolas Barry, Eliezer Gafni, Jonathan Jove, Rafał Malinowski, Jed McCaleb. SOSP'19
 
-[Consensus] [Notary: A Device for Secure Transaction Approval](https://pdos.csail.mit.edu/papers/notary:sosp19.pdf). Anish Athalye, Adam Belay, Frans Kaashoek, Robert Morris, Nickolai Zeldovich.  SOSP'19
+[Consensus] [Notary: A Device for Secure Transaction Approval](https://pdos.csail.mit.edu/papers/notary:sosp19.pdf). Anish Athalye, Adam Belay, Frans Kaashoek, Robert Morris, Nickolai Zeldovich. SOSP'19
+
+[Database] [Basil: Breaking up BFT with ACID (transactions)](https://dl.acm.org/doi/pdf/10.1145/3477132.3483552). Florian Suri-Payer (Cornell University), Matthew Burke (Cornell University), Yunhao Zhang (Cornell University), Zheng Wang (Cornell University), Lorenzo Alvisi (Cornell University), and Natacha Crooks (UC Berkeley). SOSP'21
+
+[Network] [Bidl: A High-throughput, Low-latency Permissioned Blockchain Framework for Datacenter Networks](https://dl.acm.org/doi/pdf/10.1145/3477132.3483574). Ji Qi (The University of Hong Kong), Xusheng Chen (The University of Hong Kong), Yunpeng Jiang (The University of Hong Kong), Jianyu Jiang (The University of Hong Kong), Tianxiang Shen (The University of Hong Kong), Shixiong Zhao (The University of Hong Kong), Sen Wang (Huawei Technologies Co., Ltd.), Gong Zhang (Huawei Technologies Co., Ltd.), Li Chen (Huawei Technologies Co., Ltd.), Man Ho Au (The University of Hong Kong), and Heming Cui (The University of Hong Kong). SOSP'21
+
+[Consensus] [Kauri: Scalable BFT Consensus with Pipelined Tree-Based Dissemination and Aggregation](https://dl.acm.org/doi/pdf/10.1145/3477132.3483584). Ray Neiheiser (INESC-ID, IST, U. Lisboa and UFSC/DAS), Miguel Matos (INESC-ID, IST, U. Lisboa), and Luís Rodrigues (INESC-ID, IST, U. Lisboa). SOSP'21
+
+[Smart Contract] [Forerunner: Constraint-based Speculative Transaction Execution for Ethereum](https://dl.acm.org/doi/pdf/10.1145/3477132.3483564). Yang Chen (Microsoft Research), Zhongxin Guo (Microsoft Research), Runhuai Li (Zhejiang University and Microsoft Research), Shuo Chen (Microsoft Research), Lidong Zhou (Microsoft Research), Yajin Zhou (Zhejiang University), and Xian Zhang (Microsoft Research). SOSP'21
+
+[Consensus] [Rabia: Simplifying State-Machine Replication Through Randomization](https://dl.acm.org/doi/pdf/10.1145/3477132.3483582). Haochen Pan (Boston College), Jesse Tuglu (Boston College), Neo Zhou (Boston College), Tianshu Wang (Boston College), Yicheng Shen (Boston College), Xiong Zheng (UT Austin), Joseph Tassarotti (Boston College), Lewis Tseng (Boston College), Roberto Palmieri (Lehigh University). SOSP'21
 
 ## VLDB
 [Storage] [ForkBase: An Efficient Storage Engine for Blockchain and Forkable Applications](http://www.vldb.org/pvldb/vol11/p1137-wang.pdf). Sheng Wang, Tien Tuan Anh Dinh, Qian Lin, Zhongle Xie, Meihui Zhang, Qingchao Cai, Gang Chen, Beng Chin Ooi, Pingcheng Rua. VLDB'18. 
