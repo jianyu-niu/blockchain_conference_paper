@@ -582,6 +582,7 @@ Yang Xiao, Ning Zhang, Wenjing Lou and Thomas Hou. INFOCOM'20
 
 ## TKDE
 [Smart Contract] [A High Performance Concurrency Protocol for Smart Contracts of Permissioned Blockchain](https://ieeexplore.ieee.org/document/9356389). Cheqing Jin, Shuaifeng Pang, Xiaodong Qi, Zhao Zhang, and Aoying Zhou. 2021.
+[Storage] [A Reliable Storage Partition for Permissioned Blockchain](https://ieeexplore.ieee.org/document/9152150). Xiaodong Qi, Zhao Zhang, Cheqing Jin, and Aoying Zhou. 2021.
 
 ## ACMCSUR
 [Layer2] [A Survey on Blockchain Interoperability: Past, Present, and Future Trends](https://arxiv.org/abs/2005.14282). Rafael Belchior, André Vasconcelos, Sérgio Guerreiro, Miguel Correia. 2021.
