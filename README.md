@@ -31,6 +31,7 @@ Welcome developers or researchers to add more published paper to this list.
 - [ACM Conference on Economics and Computation(EC)](#ec)
 - [ACM Symposium on Cloud Computing(SOCC)](#socc)
 - [ACM SIGPLAN International Conference on Object-Oriented Programming Systems,Languages,and Applications(OOPSLA)](#oopsla) 
+- [IEEE International Conference on Data Engineering(ICDE)](#icde) 
 
 ## Table of Listed Journals
 - [IEEE Transaction on Knowledger and Data Engineering(TKDE)](#tkde)
@@ -577,6 +578,13 @@ Yang Xiao, Ning Zhang, Wenjing Lou and Thomas Hou. INFOCOM'20
 
 ## OOPSLA
 [Smart Contract] [Detecting Nondeterministic Payment Bugs in Ethereum Smart Contracts](https://home.cse.ust.hk/~shuaiw/papers/oopsla19.pdf). Shuai Wang, Chengyu Zhang, Zhendong Su. OOPSLA'19.
+
+## ICDE
+[Storage] [CUB, a Consensus Unit-Based Storage Scheme for Blockchain System](https://ieeexplore.ieee.org/abstract/document/8509246). Zihuan Xu, Siyuan Han, Lei Chen. 2018.
+
+[Database] [SEBDB:Semantics Empowered BlockChain DataBase](https://ieeexplore.ieee.org/abstract/document/8731416). Yanchao Zhu, Zhao Zhang, Cheqing Jin, Aoying Zhou, Ying Yan. 2019.
+
+[Query] [Authenticated Keyword Search in Scalable Hybrid-Storage Blockchains](https://ieeexplore.ieee.org/abstract/document/9458753). Ce Zhang, Cheng Xu, Haixin Wang, Jianliang Xu, Byron Choi. 2021.
 
 ## Journals
 
