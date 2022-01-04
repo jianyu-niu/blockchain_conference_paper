@@ -10,8 +10,10 @@ Welcome developers or researchers to add more published paper to this list.
 - [IEEE Security and Privacy(S&P)](#sp)
 - [ACM SIGMETRICS / IFIP Performance](#sigmetricperformance)
 - [Network and Distributed System Security(NDSS)](#ndss)
+- 
 - [International Conference on Software Engineering(ICSE)](#icse) 
 - [ACM Symposium on Operating Systems Principles(SOSP)](#sosp)
+- [IEEE International Conference on Data Engineering(ICDE)](#icde) 
 - [International Conference on Very Large Data Bases(VLDB)](#vldb)
 - [IEEE European Symposium on Security and Privacy (EuroS&P)](#eurosp)
 - [International Symposium on Reliable Distributed Systems(SRDS)](#srds)
@@ -26,13 +28,11 @@ Welcome developers or researchers to add more published paper to this list.
 - [USENIX Symposium on Operating Systems Design and Implementation(OSDI)](#osdi)
 - [IEEE/IFIP International Conference on Dependable Systems and Networks(DSN)](#dsn)
 - [ACM Conference on Emerging Networking EXperiments and Technologies(CoNEXT)](#conext)
-- [ACM SIGPLAN Conference on Programming Language Design&Implementation(PLDI)](#pldi) 
-- [Financial Cryptography(FC)](#fc) 
-- [ACM Conference on Economics and Computation(EC)](#ec)
-- [ACM Symposium on Cloud Computing(SOCC)](#socc)
+- [ACM SIGPLAN Conference on Programming Language Design&Implementation(PLDI)](#pldi)
 - [ACM SIGPLAN International Conference on Object-Oriented Programming Systems,Languages,and Applications(OOPSLA)](#oopsla) 
-- [IEEE International Conference on Data Engineering(ICDE)](#icde) 
-
+- [Financial Cryptography(FC)](#fc) 
+- [ACM Symposium on Cloud Computing(SOCC)](#socc)
+- [ACM Conference on Economics and Computation(EC)](#ec)
 ## Table of Listed Journals
 - [IEEE Transaction on Knowledger and Data Engineering(TKDE)](#tkde)
 
