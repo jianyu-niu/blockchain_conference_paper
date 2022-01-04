@@ -10,7 +10,6 @@ Welcome developers or researchers to add more published paper to this list.
 - [IEEE Security and Privacy(S&P)](#sp)
 - [ACM SIGMETRICS / IFIP Performance](#sigmetricperformance)
 - [Network and Distributed System Security(NDSS)](#ndss)
-- 
 - [International Conference on Software Engineering(ICSE)](#icse) 
 - [ACM Symposium on Operating Systems Principles(SOSP)](#sosp)
 - [IEEE International Conference on Data Engineering(ICDE)](#icde) 
