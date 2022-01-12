@@ -106,6 +106,10 @@ and Edward W. Felten. USENIX '18 Security Symposium.
 
 [Smart Contract][An Ever-evolving Game: Evaluation of Real-world Attacks and Defenses in Ethereum Ecosystem](https://www.usenix.org/conference/usenixsecurity20/presentation/zhou-shunfan). Shunfan Zhou, Zhemin Yang, and Jie Xiang, Yinzhi Cao,Min Yang and Yuan Zhang. USENIX '20 Security Symposium.
 
+
+[consensus][A Decentralized Blockchain with HighThroughput and Fast Confirmation](https://www.usenix.org/conference/atc20/presentation/li-chenxing). Li, Chenxing et al. “A Decentralized Blockchain with High Throughput and Fast Confirmation.” USENIX Annual Technical Conference (2020).
+
+
 [Smart Contract][EVMPatch: Timely and Automated Patching of Ethereum Smart Contracts](). Michael Rodler, Wenting Li and Ghassan O. Karame, Lucas Davi. USENIX '21 Security Symposium.
 
 [Application][Evil Under the Sun: Understanding and Discovering Attacks on Ethereum Decentralized Applications](). Liya Su, Xinyue Shen, Xiangyu Du, Xiaojing Liao, XiaoFeng Wang, and Luyi Xing, Baoxu Liu. USENIX '21 Security Symposium.
