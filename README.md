@@ -219,6 +219,11 @@ Charlie Hou, Mingxun Zhou, Yan Ji and Phil Daian, Florian Tramèr, Giulia Fanti,
 
 [Consensus-PoS][ProPoS: A Probabilistic Proof-of-Stake Protocol](). Daniel Reijsbergen, Pawel Szalachowski, Junming Ke, Zengpeng Li, and Jianying Zhou. NDSS '21.
 
+[Consensus-BFT][Speeding Dumbo: Pushing Asynchronous BFT to Practice](). Bingyong Guo, Yuan Lu, Zhenliang Lu, Qiang Tang, jing xu, Zhenfeng Zhang. NDSS '22. 
+
+[Consensus-PoW][NC-Max: Breaking the Security-Performance Tradeoff in Nakamoto Consensus](). Ren Zhang, Dingwei Zhang, and Quake Wang, Shichen Wu, Jan Xie, Bart Preneel. NDSS '22. 
+
+[Consensus-PoET][Multi-Certificate Attacks against Proof-of-Elapsed-Time and Their Countermeasures](). Huibo Wang, Guoxing Chen, Yinqian Zhang, Zhiqiang Lin. NDSS '22. 
 
 ## ICSE
 [Smart Contract] [Empirical Review of Automated Analysis Tools on 47,587 Ethereum Smart Contracts](https://arxiv.org/pdf/1910.10601.pdf). T Durieux, JF Ferreira, R Abreu, P Cruz. ICSE '2020
