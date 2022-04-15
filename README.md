@@ -153,7 +153,9 @@ Alexei Zamyatin, Dominik Harz, Joshua Lind, Panayiotis Panayiotou, Arthur Gervai
 
 [Application][Flash Boys 2.0: Frontrunning in Decentralized Exchanges, Miner Extractable Value, and Consensus Instability](). Philip Daian, Steven Goldfeder, Tyler Kell, Yunqi Li, Xueyuan Zhao, Iddo Bentov, Lorenz Breidenbach, Ari Juels. IEEE S&P '20. 
 
-[Application][FlyClient: Super-Light Clients for Cryptocurrencies](). Benedikt Bünz, Lucianna Kiffer, Loi Luu, Mahdi Zamani. IEEE S&P '20. 
+[Application][FlyClient: Super-Light Clients for Cryptocurrencies](). Benedikt Bünz, Lucianna Kiffer, Loi Luu, Mahdi Zamani. IEEE S&P '20.
+
+[smart contract][Semantic Understanding of Smart Contracts: Executable Operational Semantics of Solidity](https://ieeexplore.ieee.org/document/9152785) Jiao, Jiao, Shuanglong Kan, Shang-Wei Lin, David Sanan, Yang Liu, and Jun Sun. IEEE S&P '20
 
 [Exchange][High-Frequency Trading on Decentralized On-Chain Exchanges]() Liyi Zhou, Kaihua Qin, Christof Ferreira Torres, Duc V Le, Arthur Gervais, Tyler Crain, Christopher Natoli, Vincent Gramoli. IEEE S&P '21.  
 
