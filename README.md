@@ -173,6 +173,18 @@ Alexei Zamyatin, Dominik Harz, Joshua Lind, Panayiotis Panayiotou, Arthur Gervai
 
 [Consensus][Red Belly: A Secure, Fair and Scalable Open Blockchain]() Tyler Crain, Christopher Natoli, Vincent Gramoli. IEEE S&P '21.
 
+[Smart Contract][ZeeStar: Private Smart Contracts by Homomorphic Encryption and Zero-knowledge Proofs]() Samuel Steffen, Benjamin Bichsel, Roger Baumgartner, Martin Vechev. IEEE S&P '22.
+
+[Smart Contract][SAILFISH: Vetting Smart Contract State-Inconsistency Bugs in Seconds]() Priyanka Bose, Dipanjan Das, Yanju Chen, Yu Feng, Christopher Kruegel, Giovanni Vigna. IEEE S&P '22.
+
+[Payment][MatRiCT+: More Efficient Post-Quantum Private Blockchain Payments]() Muhammed F. Esgin, Ron Steinfeld, Raymond K. Zhao. IEEE S&P '22.
+
+[Security][Quantifying Blockchain Extractable Value:How dark is the forest?]() Kaihua Qin, Liyi Zhou, Arthur Gervais. IEEE S&P '22.
+
+[Exchange][Universal Atomic Swaps: Secure Exchange of Coins Across All Blockchains]() Sri AravindaKrishnan Thyagarajan, Giulio Malavolta, Pedro Moreno-Sanchez. IEEE S&P '22.
+
+[Consensus][Using Throughput-Centric Byzantine Broadcast to Tolerate Malicious Majority in Blockchains]() Ruomu Hou, Haifeng Yu, Prateek Saxena. IEEE S&P '22.
+
 ## Sigmetric&Performance
 [Network][Stability and Scalability of Blockchain Systems](). Aditya Gopalan, Abishek Sankararaman, Anwar Walid, Sriram Vishwanath. Sigmetric '20.
 
