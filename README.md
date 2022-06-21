@@ -56,6 +56,12 @@ Key Words: Topics: System Architecture, Consensus(Proof-of-X and BFT), Layer 2 (
 
 [System] [Hyperledger Fabric: A Distributed Operating System for Permissioned Blockchains](https://arxiv.org/pdf/1801.10228.pdf). Elli Androulaki, Artem Barger, Vita Bortnikov, Christian Cachin, Konstantinos Christidis, Angelo De Caro, David Enyeart, Christopher Ferris, Gennady Laventman, Yacov Manevich, Srinivasan Muralidharan, Chet Murthy, Binh Nguyen, Manish Sethi, Gari Singh, Keith Smith, Alessandro Sorniotti, Chrysoula Stathakopoulou, Marko Vukolić, Sharon Weed Cocco, Jason Yellick. EuroSys'18.
 
+[Consensus] [DAMYSUS: Streamlined BFT Consensus Leveraging Trusted Components](https://dl.acm.org/doi/pdf/10.1145/3492321.3519568). Jeremie Decouchant, David Kozhaya, Vincent Rahli, Jiangshan Yu. EuroSys'22.
+
+[Consensus] [State Machine Replication Scalability Made Simple](https://dl.acm.org/doi/pdf/10.1145/3492321.3519579). Chrysoula Stathakopoulou, Matej Pavlovic, Marko Vukolic. EuroSys'22.
+
+[Consensus] [Narwhal and Tusk: A DAG-based Mempool and Efficient BFT Consensus](https://dl.acm.org/doi/abs/10.1145/3492321.3519594). George Danezis, Lefteris Kokoris-Kogias, Alberto Sonnino, Alexander Spiegelman. EuroSys'22.
+
 ## EUROCRYPT
 [Consensus-PoW] [The Bitcoin Backbone Protocol: Analysis and Applications](https://eprint.iacr.org/2014/765.pdf). Garay J, Kiayias A, Leonardos N. EUROCRYPT '15.
 
