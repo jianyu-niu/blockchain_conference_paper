@@ -3,40 +3,21 @@ A curated blockchain-related academic papers. All papers are sorted based on the
 Welcome developers or researchers to add more published paper to this list. 
 
 ## Table of Listed Conferences
-- [CRYPTO](#crypto)
-- [EuroSys](#eurosys)
-- [EUROCRYPT](#eurocrypt)
-- [USENIX Security](#usenix-security)
-- [IEEE Security and Privacy(S&P)](#sp)
-- [ACM SIGMETRICS / IFIP Performance](#sigmetricperformance)
-- [Network and Distributed System Security(NDSS)](#ndss)
-- [International Conference on Software Engineering(ICSE)](#icse) 
-- [ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering(ESEC/FSE)](#esecfse)
-- [International Conference on Automated Software Engineering(ASE)](#ase)
-- [ACM Symposium on Operating Systems Principles(SOSP)](#sosp)
-- [IEEE International Conference on Data Engineering(ICDE)](#icde) 
-- [International Conference on Very Large Data Bases(VLDB)](#vldb)
-- [IEEE European Symposium on Security and Privacy (EuroS&P)](#eurosp)
-- [International Symposium on Reliable Distributed Systems(SRDS)](#srds)
-- [ACM Symposium on Principles of Distributed Computing(PODC)](#podc)
-- [ACM International Conference on Management of Data(SIGMOD)](#sigmod)
-- [ACM Conference on Computer and Communications Security(CCS)](#ccs)
-- [IEEE International Parallel & Distributed Processing Symposium(IPDPS)](#ipdps)
-- [ACM Symposium on Parallelism in Algorithms and Architectures(SPAA)](#spaa)
-- [IEEE International Conference on Computer Communications(INFOCOM)](#infocom)
-- [IEEE International Conference on Distributed Computing Systems(ICDCS)](#icdcs)
-- [USENIX Symposium on Networked Systems Design and Implementation(NSDI)](#nsdi)
-- [USENIX Symposium on Operating Systems Design and Implementation(OSDI)](#osdi)
-- [IEEE/IFIP International Conference on Dependable Systems and Networks(DSN)](#dsn)
-- [ACM Conference on Emerging Networking EXperiments and Technologies(CoNEXT)](#conext)
-- [ACM SIGPLAN Conference on Programming Language Design&Implementation(PLDI)](#pldi)
-- [ACM SIGPLAN International Conference on Object-Oriented Programming Systems,Languages,and Applications(OOPSLA)](#oopsla) 
-- [Financial Cryptography(FC)](#fc) 
-- [ACM Symposium on Cloud Computing(SOCC)](#socc)
-- [ACM Conference on Economics and Computation(EC)](#ec)
+|   Seucrity & Privacy & Crypto  |  Networking & Database  | Software Engineering & Programing Lanuage  |     System   |
+| :-----: | :-------------: | :--------: | :------------------------: |
+| [CRYPTO](#crypto)        |  [SIGMETRICS & Performance](#sigmetricperformance)  |   [ICSE](#icse)          |    [EuroSys](#eurosys)   |
+| [EUROCRYPT](#eurocrypt)  |  [ICDE](#icde)                                               |   [ESEC/FSE](#esecfse)   |    [ACM SOSP](#sosp)     |
+| [USENIX Security](#usenix-security)  |       [VLDB](#vldb)                              |   [ASE](#ase)            |    [EuroS&P](#eurosp)    |
+| [IEEE S&P)](#sp) |                           [ACM SIGMOD](#sigmod)                      |   [ACM PLDI](#pldi)      |    [SRDS](#srds)         |
+| [NDSS](#ndss)    |                           [IEEE INFOCOM](#infocom)                   |   [ACM OOPSLA](#oopsla)  |    [ACM PODC](#podc)     |
+| [ACM CCS](#ccs)  |                           [NSDI](#nsdi)                              |   [ACM EC](#ec)          |    [IEEE IPDPS](#ipdps) |
+| [FC](#fc)        |                           [ACM CoNEXT](#conext)                      |                          |    [IEEE DSN](#dsn)      |
+|                  |                                                                      |                          |    [IEEE ICDCS](#icdcs)  |
+|                  |                                                                      |                          |    [ACM SOCC](#socc)     |
+
+
 ## Table of Listed Journals
 - [IEEE Transaction on Knowledger and Data Engineering(TKDE)](#tkde)
-
 - [ACM Computing Surveys (ACM CSUR)](#acmcsur)
 
 
