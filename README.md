@@ -8,7 +8,7 @@ Welcome developers or researchers to add more published paper to this list.
 | [CRYPTO](#crypto)        |  [SIGMETRICS & Performance](#sigmetricperformance)  |   [ICSE](#icse)          |    [EuroSys](#eurosys)   |
 | [EUROCRYPT](#eurocrypt)  |  [ICDE](#icde)                                               |   [ESEC/FSE](#esecfse)   |    [ACM SOSP](#sosp)     |
 | [USENIX Security](#usenix-security)  |       [VLDB](#vldb)                              |   [ASE](#ase)            |    [EuroS&P](#eurosp)    |
-| [IEEE S&P)](#sp) |                           [ACM SIGMOD](#sigmod)                      |   [ACM PLDI](#pldi)      |    [SRDS](#srds)         |
+| [IEEE S&P](#sp) |                           [ACM SIGMOD](#sigmod)                      |   [ACM PLDI](#pldi)      |    [SRDS](#srds)         |
 | [NDSS](#ndss)    |                           [IEEE INFOCOM](#infocom)                   |   [ACM OOPSLA](#oopsla)  |    [ACM PODC](#podc)     |
 | [ACM CCS](#ccs)  |                           [NSDI](#nsdi)                              |   [ACM EC](#ec)          |    [IEEE IPDPS](#ipdps) |
 | [FC](#fc)        |                           [ACM CoNEXT](#conext)                      |                          |    [IEEE DSN](#dsn)      |
