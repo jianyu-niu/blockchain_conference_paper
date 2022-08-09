@@ -101,6 +101,10 @@ and Edward W. Felten. USENIX '18 Security Symposium.
 
 [Smart Contract][Smart Contract Vulnerabilities: Vulnerable Does Not Imply Exploited]() Daniel Perez and Ben Livshits. USENIX '21 Security Symposium. 
 
+[Transaction][How to Peel a Million: Validating and Expanding Bitcoin Clusters]() George Kappos and Haaroon Yousaf, Rainer Stütz and Sofia Rollet, Bernhard Haslhofer, Sarah Meiklejohn. USENIX '22 Security Symposium. 
+
+[Payment][Twilight: A Differentially Private Payment Channel Network]() Maya Dotan, Saar Tochner, Aviv Zohar, and Yossi Gilad. USENIX '22 Security Symposium. 
+
 
 ## S&P
 [Privacy] [Zerocoin: Anonymous distributed e-cash from bitcoin](http://ieeexplore.ieee.org/iel7/6547086/6547088/06547123.pdf). Miers I, Garman C, Green M, Rubin AD. S&P '13.
