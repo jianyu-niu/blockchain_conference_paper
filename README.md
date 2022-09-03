@@ -482,6 +482,12 @@ Yang Xiao, Ning Zhang, Wenjing Lou and Thomas Hou. INFOCOM'20
 
 [Consensus][On the Performance of Pipelined HotStuff](). Jianyu Niu, Fangyu Gai, Mohammad Jalalzai, Chen Feng. INFOCOM'21.
 
+[Application][Blockchain Based Non-repudiable IoT Data Trading: Simpler, Faster, and Cheaper](https://ieeexplore.ieee.org/document/9796857). Fei Chen, Jiahao Wang, Changkun Jiang, Tao Xiang, Yuanyuan Yang. INFOCOM'22.
+
+[Scalability][BrokerChain: A Cross-Shard Blockchain Protocol for Account/Balance-based State Sharding](https://ieeexplore.ieee.org/document/9796859). Huawei Huang, Xiaowen Peng, Jianzhou Zhan, Shenyang Zhang, Yue Lin, Zibin Zheng, Song Guo. INFOCOM'22.
+
+[Scalability][S-Store:: A Scalable Data Store towards Permissioned Blockchain Sharding](https://ieeexplore.ieee.org/document/9796800). Xiaodong Qi. INFOCOM'22.
+
 ## ICDCS
 [Application] [Transform Blockchain into Distributed Parallel Computing Architecture for Precision Medicine](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8416392).Zonyin Shae, Jeffrey J.P. Tsai. ICDCS'18
 
