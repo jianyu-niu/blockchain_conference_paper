@@ -11,7 +11,7 @@ Welcome developers or researchers to add more published paper to this list.
 | [IEEE S&P](#sp) |                           [ACM SIGMOD](#sigmod)                      |   [ACM PLDI](#pldi)      |    [SRDS](#srds)         |
 | [NDSS](#ndss)    |                           [IEEE INFOCOM](#infocom)                   |   [ACM OOPSLA](#oopsla)  |    [ACM PODC](#podc)     |
 | [ACM CCS](#ccs)  |                           [NSDI](#nsdi)                              |   [ACM EC](#ec)          |    [IEEE IPDPS](#ipdps) |
-| [FC](#fc)        |                           [ACM CoNEXT](#conext)                      |                          |    [IEEE DSN](#dsn)      |
+| [FC](#fc)        |                           [ACM CoNEXT](#conext)                      |    [ISSTA](#issta)       |    [IEEE DSN](#dsn)      |
 |                  |                                                                      |                          |    [IEEE ICDCS](#icdcs)  |
 |                  |                                                                      |                          |    [ACM SOCC](#socc)     |
 
@@ -244,6 +244,16 @@ Charlie Hou, Mingxun Zhou, Yan Ji and Phil Daian, Florian Tramèr, Giulia Fanti,
 ## ASE
 
 [Smart Contract] [Characterizing Transaction-Reverting Statements in Ethereum Smart Contracts](https://arxiv.org/abs/2108.10799). Lu Liu, Lili Wei, Wuqi Zhang, Ming Wen, Yepang Liu, Shing-Chi Cheung. ASE '21
+
+## ISSTA
+
+[Smart Contract] [eTainter: Detecting Gas-Related Vulnerabilities in Smart Contracts](https://doi.org/10.1145/3533767.3534378). Asem Ghaleb, Julia Rubin, Karthik Pattabiraman. ISSTA '22
+
+[Smart Contract] [Finding Permission Bugs in Smart Contracts with Role Mining](https://doi.org/10.1145/3533767.3534372). Ye Liu, Yi Li, Shang-Wei Lin, Cyrille Artho. ISSTA '22
+
+[Smart Contract] [Park: Accelerating Smart Contract Vulnerability Detection via Parallel-fork Symbolic Execution](https://doi.org/10.1145/3533767.3534395). Peilin Zheng, Zibin Zheng, Xiapu Luo. ISSTA '22
+
+[Smart Contract] [WASAI: Uncovering Vulnerabilities in Wasm Smart Contracts](https://doi.org/10.1145/3533767.3534218). Weimin Chen, Zihan Sun, Haoyu Wang, Xiapu Luo, Haipeng Cai, Lei Wu. ISSTA '22
 
 ## SOSP
 [Consensus] [Algorand: Scaling Byzantine Agreements for Cryptocurrencies](https://people.csail.mit.edu/nickolai/papers/gilad-algorand.pdf). Yossi Gilad, Rotem Hemo, Silvio Micali, Georgios Vlachos, Nickolai Zeldovich. SOSP'17
