@@ -178,6 +178,10 @@ Alexei Zamyatin, Dominik Harz, Joshua Lind, Panayiotis Panayiotou, Arthur Gervai
 
 [Consensus][Using Throughput-Centric Byzantine Broadcast to Tolerate Malicious Majority in Blockchains]() Ruomu Hou, Haifeng Yu, Prateek Saxena. IEEE S&P '22.
 
+[Consensus][Foundations of Dynamic BFT]() Sisi Duan, Haibin Zhang. IEEE S&P '22.
+
+
+
 ## Sigmetric&Performance
 [Network][Stability and Scalability of Blockchain Systems](). Aditya Gopalan, Abishek Sankararaman, Anwar Walid, Sriram Vishwanath. Sigmetric '20.
 
