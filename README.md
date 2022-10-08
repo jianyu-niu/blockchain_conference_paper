@@ -180,8 +180,6 @@ Alexei Zamyatin, Dominik Harz, Joshua Lind, Panayiotis Panayiotou, Arthur Gervai
 
 [Consensus][Foundations of Dynamic BFT]() Sisi Duan, Haibin Zhang. IEEE S&P '22.
 
-
-
 ## Sigmetric&Performance
 [Network][Stability and Scalability of Blockchain Systems](). Aditya Gopalan, Abishek Sankararaman, Anwar Walid, Sriram Vishwanath. Sigmetric '20.
 
