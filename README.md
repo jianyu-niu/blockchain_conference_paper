@@ -431,9 +431,9 @@ Eleftherios Kokoris Kogias; Dahlia Malkhi; Alexander Spiegelman. CCS '20.
 
 [Consensus][Bolt-Dumbo Transformer: Asynchronous Consensus As Fast As the Pipelined BFT](https://arxiv.org/pdf/2103.09425.pdf). yuan Lu, Zhenliang Lu and Qiang Tang. CCS '22.
 
-[Consensus][Bullshark: The Partially Synchronous Version]https://arxiv.org/abs/2209.05633). Alexander Spiegelman, Neil Giridharan, Alberto Sonnino, Lefteris Kokoris-Kogias. CCS '22.
+[Consensus][Bullshark: The Partially Synchronous Version](https://arxiv.org/abs/2209.05633). Alexander Spiegelman, Neil Giridharan, Alberto Sonnino, Lefteris Kokoris-Kogias. CCS '22.
 
-[Consensus][Dumbo-NG: Fast Asynchronous BFT Consensus with Throughput-Oblivious Latency]https://arxiv.org/abs/2209.00750). Yingzi Gao, Yuan Lu, Zhenliang Lu, Qiang Tang, Jing Xu, Zhenfeng Zhang. CCS '22.
+[Consensus][Dumbo-NG: Fast Asynchronous BFT Consensus with Throughput-Oblivious Latency](https://arxiv.org/abs/2209.00750). Yingzi Gao, Yuan Lu, Zhenliang Lu, Qiang Tang, Jing Xu, Zhenfeng Zhang. CCS '22.
 
 
 ## IPDPS
