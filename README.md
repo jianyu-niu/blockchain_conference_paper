@@ -19,7 +19,7 @@ Welcome developers or researchers to add more published paper to this list.
 ## Table of Listed Journals
 - [IEEE Transaction on Knowledger and Data Engineering(TKDE)](#tkde)
 - [ACM Computing Surveys (ACM CSUR)](#acmcsur)
-
+- [ACM Distributed Ledger Technologies: Research and Practice (ACM DLT)](#acmdlt)
 
 Key Words: Topics: System Architecture, Consensus(Proof-of-X and BFT), Layer 2 (Off-chain, Payment Networks, Sidechain, Crosschain), Network, Smart Contracts, Application (Trasactions), Cryptograph, Storage (light client); Contents: privacy, security, economics (incentive).
 
@@ -632,7 +632,11 @@ Yang Xiao, Ning Zhang, Wenjing Lou and Thomas Hou. INFOCOM'20
 [Storage] [A Reliable Storage Partition for Permissioned Blockchain](https://ieeexplore.ieee.org/document/9152150). Xiaodong Qi, Zhao Zhang, Cheqing Jin, and Aoying Zhou. 2021.
 
 ## ACMCSUR
-[Layer2] [A Survey on Blockchain Interoperability: Past, Present, and Future Trends](https://arxiv.org/abs/2005.14282). Rafael Belchior, André Vasconcelos, Sérgio Guerreiro, Miguel Correia. 2021.
+[Layer2] [A Survey on Blockchain Interoperability: Past, Present, and Future Trends](https://dl.acm.org/doi/10.1145/3471140). Rafael Belchior, André Vasconcelos, Sérgio Guerreiro, Miguel Correia. 2021.
+
+## ACMDLT
+[Layer2] [Do You Need a Distributed Ledger Technology Interoperability Solution?](https://arxiv.org/abs/2005.14282). Rafael Belchior, Luke Riley, Thomas Hardjono, André Vasconcelos, Miguel Correia. 2022.
+
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
