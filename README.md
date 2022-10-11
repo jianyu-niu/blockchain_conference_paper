@@ -643,7 +643,7 @@ Yang Xiao, Ning Zhang, Wenjing Lou and Thomas Hou. INFOCOM'20
 [Layer2] [A Survey on Blockchain Interoperability: Past, Present, and Future Trends](https://dl.acm.org/doi/10.1145/3471140). Rafael Belchior, André Vasconcelos, Sérgio Guerreiro, Miguel Correia. 2021.
 
 ## ACMDLT
-[Layer2] [Do You Need a Distributed Ledger Technology Interoperability Solution?](https://arxiv.org/abs/2005.14282). Rafael Belchior, Luke Riley, Thomas Hardjono, André Vasconcelos, Miguel Correia. 2022.
+[Layer2] [Do You Need a Distributed Ledger Technology Interoperability Solution?](https://dl.acm.org/doi/10.1145/3564532). Rafael Belchior, Luke Riley, Thomas Hardjono, André Vasconcelos, Miguel Correia. 2022.
 
 
 ## License
