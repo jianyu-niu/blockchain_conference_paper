@@ -178,6 +178,8 @@ Alexei Zamyatin, Dominik Harz, Joshua Lind, Panayiotis Panayiotou, Arthur Gervai
 
 [Consensus][Using Throughput-Centric Byzantine Broadcast to Tolerate Malicious Majority in Blockchains]() Ruomu Hou, Haifeng Yu, Prateek Saxena. IEEE S&P '22.
 
+[Consensus][Foundations of Dynamic BFT](https://eprint.iacr.org/2022/597) Sisi Duan, Haibin Zhang. IEEE S&P '22.
+
 ## Sigmetric&Performance
 [Network][Stability and Scalability of Blockchain Systems](). Aditya Gopalan, Abishek Sankararaman, Anwar Walid, Sriram Vishwanath. Sigmetric '20.
 
@@ -426,6 +428,12 @@ Eleftherios Kokoris Kogias; Dahlia Malkhi; Alexander Spiegelman. CCS '20.
 [Beacon][RandPiper-Reconfiguration-Friendly Random Beacons with Quadratic Communication](https://eprint.iacr.org/2020/1590). Adithya Bhat and Nibesh Shrestha and Aniket Kate and Kartik Nayak. CCS '21.
 
 [Consensus][Asynchronous Data Dissemination and its Applications](https://eprint.iacr.org/2021/777) Sourav Das and Zhuolun Xiang and Ling Ren. CCS '21.
+
+[Consensus][Bolt-Dumbo Transformer: Asynchronous Consensus As Fast As the Pipelined BFT](https://arxiv.org/pdf/2103.09425.pdf). yuan Lu, Zhenliang Lu and Qiang Tang. CCS '22.
+
+[Consensus][Bullshark: The Partially Synchronous Version](https://arxiv.org/abs/2209.05633). Alexander Spiegelman, Neil Giridharan, Alberto Sonnino, Lefteris Kokoris-Kogias. CCS '22.
+
+[Consensus][Dumbo-NG: Fast Asynchronous BFT Consensus with Throughput-Oblivious Latency](https://arxiv.org/abs/2209.00750). Yingzi Gao, Yuan Lu, Zhenliang Lu, Qiang Tang, Jing Xu, Zhenfeng Zhang. CCS '22.
 
 ## IPDPS
 [Consensus][G-PBFT: A Location-based and Scalable Consensus Protocol for IoT-Blockchain Applications](http://www4.comp.polyu.edu.hk/~csbxiao/paper/2020/IPDPS_GPBFT_2020.pdf). LapHou Lao, Xiaohai Dai, Bin Xiao, and Songtao Guo. IPDPS '20.
