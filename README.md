@@ -12,7 +12,7 @@ Welcome developers or researchers to add more published paper to this list.
 | [NDSS](#ndss)    |                           [IEEE INFOCOM](#infocom)                   |   [ACM OOPSLA](#oopsla)  |    [ACM PODC](#podc)     |
 | [ACM CCS](#ccs)  |                           [NSDI](#nsdi)                              |   [ACM EC](#ec)          |    [IEEE IPDPS](#ipdps) |
 | [FC](#fc)        |                           [ACM CoNEXT](#conext)                      |    [ISSTA](#issta)       |    [IEEE DSN](#dsn)      |
-|                  |                                                                      |                          |    [IEEE ICDCS](#icdcs)  |
+|                  |                           [ACM MobiHoc](#mobihoc)                    |                          |    [IEEE ICDCS](#icdcs)  |
 |                  |                                                                      |                          |    [ACM SOCC](#socc)     |
 
 
@@ -20,6 +20,8 @@ Welcome developers or researchers to add more published paper to this list.
 - [IEEE Transaction on Knowledger and Data Engineering(TKDE)](#tkde)
 - [ACM Computing Surveys (ACM CSUR)](#acmcsur)
 - [ACM Distributed Ledger Technologies: Research and Practice (ACM DLT)](#acmdlt)
+- [IEEE Journal on Selected Areas in Communications](#jsac)
+- [IEEE Transactions on Network Science and Engineering](#tnse)
 
 Key Words: Topics: System Architecture, Consensus(Proof-of-X and BFT), Layer 2 (Off-chain, Payment Networks, Sidechain, Crosschain), Network, Smart Contracts, Application (Trasactions), Cryptograph, Storage (light client); Contents: privacy, security, economics (incentive).
 
@@ -589,6 +591,9 @@ Yang Xiao, Ning Zhang, Wenjing Lou and Thomas Hou. INFOCOM'20
 
 [Layer2][Flash: Efficient Dynamic Routing for Offchain Networks](http://www.cs.jhu.edu/~xinjin/files/CoNEXT19_Flash.pdf). Peng Wang, Hong Xu, Xin Jin, Tao Wang.  CoNEXT '19
 
+## MobiHoc
+[Consensus-sharding] [User Distributions in Shard-based Blockchain Network: Queueing Modeling, Game Analysis, and Protocol Design](https://dl.acm.org/doi/abs/10.1145/3466772.3467051). Canhui Chen, Qian Ma, Xu Chen, Jianwei Huang. MobiHoc '21
+
 ## PLDI
 [Smart Contract][Behavioral Simulation for Smart Contracts](). Sidi Mohamed Beillahi, Gabriela Ciocarlie, Michael Emmi, Constantin Enea. PLDI '2020
 
@@ -645,6 +650,11 @@ Yang Xiao, Ning Zhang, Wenjing Lou and Thomas Hou. INFOCOM'20
 ## ACMDLT
 [Layer2] [Do You Need a Distributed Ledger Technology Interoperability Solution?](https://dl.acm.org/doi/10.1145/3564532). Rafael Belchior, Luke Riley, Thomas Hardjono, André Vasconcelos, Miguel Correia. 2022.
 
+## JSAC
+[Network] [TIPS: Transaction Inclusion Protocol with Signaling in DAG-based Blockchain](https://arxiv.org/pdf/2207.04841.pdf). Canhui Chen, Xu Chen, Zhixuan Fang. 2022.
+
+## TNSE
+[Consensus-PoW] [Impact of temporary fork on the evolution of mining pools in blockchain networks: An evolutionary game analysis](https://arxiv.org/pdf/2011.07238.pdf). Canhui Chen, Xu Chen, Jiangshan Yu, Weigang Wu, Di Wu. 2020.
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
