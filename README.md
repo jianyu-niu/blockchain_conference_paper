@@ -310,11 +310,6 @@ Eleftherios Kokoris Kogias; Dahlia Malkhi; Alexander Spiegelman. CCS '20.
 
 [Consensus][Dumbo-NG: Fast Asynchronous BFT Consensus with Throughput-Oblivious Latency](https://arxiv.org/abs/2209.00750). Yingzi Gao, Yuan Lu, Zhenliang Lu, Qiang Tang, Jing Xu, Zhenfeng Zhang. CCS '22.
 
-## IPDPS
-[Consensus][G-PBFT: A Location-based and Scalable Consensus Protocol for IoT-Blockchain Applications](http://www4.comp.polyu.edu.hk/~csbxiao/paper/2020/IPDPS_GPBFT_2020.pdf). LapHou Lao, Xiaohai Dai, Bin Xiao, and Songtao Guo. IPDPS '20.
-
-[BFT][Byzantine Generalized Lattice Agreement](https://arxiv.org/pdf/1910.05768.pdf). Giuseppe Antonio Di Luna, Emmanuelle Anceaume, and Leonardo Querzoni. IPDPS '20. 
-
 ## SOSP
 [Consensus] [Algorand: Scaling Byzantine Agreements for Cryptocurrencies](https://people.csail.mit.edu/nickolai/papers/gilad-algorand.pdf). Yossi Gilad, Rotem Hemo, Silvio Micali, Georgios Vlachos, Nickolai Zeldovich. SOSP'17
 
@@ -431,7 +426,6 @@ Carsten Binnig, Arvind Arasu, Donald Kossmann, Ravi Ramamurthy. VLDB'19.
 [Decentralized Application] [ÐArcher: Detecting On-Chain-Off-Chain Synchronization Bugs in Decentralized Applications](https://arxiv.org/abs/2106.09440). Wuqi Zhang, Lili Wei, Shuqing Li, Yepang Liu, Shing-Chi Cheung. ESEC/FSE '21
 
 ## ASE
-
 [Smart Contract] [Characterizing Transaction-Reverting Statements in Ethereum Smart Contracts](https://arxiv.org/abs/2108.10799). Lu Liu, Lili Wei, Wuqi Zhang, Ming Wen, Yepang Liu, Shing-Chi Cheung. ASE '21
 
 ## ISSTA
@@ -442,6 +436,11 @@ Carsten Binnig, Arvind Arasu, Donald Kossmann, Ravi Ramamurthy. VLDB'19.
 [Smart Contract] [Park: Accelerating Smart Contract Vulnerability Detection via Parallel-fork Symbolic Execution](https://doi.org/10.1145/3533767.3534395). Peilin Zheng, Zibin Zheng, Xiapu Luo. ISSTA '22
 
 [Smart Contract] [WASAI: Uncovering Vulnerabilities in Wasm Smart Contracts](https://doi.org/10.1145/3533767.3534218). Weimin Chen, Zihan Sun, Haoyu Wang, Xiapu Luo, Haipeng Cai, Lei Wu. ISSTA '22
+
+## IPDPS
+[Consensus][G-PBFT: A Location-based and Scalable Consensus Protocol for IoT-Blockchain Applications](http://www4.comp.polyu.edu.hk/~csbxiao/paper/2020/IPDPS_GPBFT_2020.pdf). LapHou Lao, Xiaohai Dai, Bin Xiao, and Songtao Guo. IPDPS '20.
+
+[BFT][Byzantine Generalized Lattice Agreement](https://arxiv.org/pdf/1910.05768.pdf). Giuseppe Antonio Di Luna, Emmanuelle Anceaume, and Leonardo Querzoni. IPDPS '20. 
 
 
 ## EuroS&P
