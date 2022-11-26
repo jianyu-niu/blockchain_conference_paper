@@ -601,6 +601,20 @@ Yang Xiao, Ning Zhang, Wenjing Lou and Thomas Hou. INFOCOM'20
 
 [Smart Contract][Practical Smart Contract Sharding with Ownership and Commutativity Analysis]() George Pîrlea, Amrit Kumar, Ilya Sergey. PLDI '2021
 
+## SOCC
+[Network] [Gosig: A Scalable and High-Performance Byzantine Consensus for Consortium Blockchains](https://www.cs.toronto.edu/~fanl/papers/gosig-socc20.pdf). Peilun Li, Guosai Wang, Xiaoqi Chen, Fan Long, Wei Xu. SOCC'21.
+
+[Network] [Shrec: Bandwidth-Efficient Transaction Relay in High-Throughput Blockchain Systems](https://www.cs.toronto.edu/~fanl/papers/shrec-socc20.pdf). Yilin Han, Chenxing Li, Peilun Li, Ming Wu, Dong Zhuo, Fan Long. SOCC'21.
+
+## OOPSLA
+[Smart Contract] [Detecting Nondeterministic Payment Bugs in Ethereum Smart Contracts](https://home.cse.ust.hk/~shuaiw/papers/oopsla19.pdf). Shuai Wang, Chengyu Zhang, Zhendong Su. OOPSLA'19.
+
+## ICDE
+[Storage] [CUB, a Consensus Unit-Based Storage Scheme for Blockchain System](https://ieeexplore.ieee.org/abstract/document/8509246). Zihuan Xu, Siyuan Han, Lei Chen. 2018.
+
+[Database] [SEBDB:Semantics Empowered BlockChain DataBase](https://ieeexplore.ieee.org/abstract/document/8731416). Yanchao Zhu, Zhao Zhang, Cheqing Jin, Aoying Zhou, Ying Yan. 2019.
+
+[Query] [Authenticated Keyword Search in Scalable Hybrid-Storage Blockchains](https://ieeexplore.ieee.org/abstract/document/9458753). Ce Zhang, Cheng Xu, Haixin Wang, Jianliang Xu, Byron Choi. 2021.
 
 ## FC
 [Economic-PoW] [Majority Is Not Enough: Bitcoin Mining Is Vulnerable](https://arxiv.org/pdf/1311.0243). Eyal I, Sirer EG. FC '14.
@@ -620,20 +634,6 @@ Yang Xiao, Ning Zhang, Wenjing Lou and Thomas Hou. INFOCOM'20
 ## EC
 [Economic-PoW] [An Economic Analysis of Difficulty Adjustment Algorithms in Proof-of-Work Blockchain Systems](https://econ.hkbu.edu.hk/eng/Doc/Shunya_NODA_POW.pdf). Shunya Noda, Kyohei Okumura and Yoshinori Hashimoto. EC '20.
 
-## SOCC
-[Network] [Gosig: A Scalable and High-Performance Byzantine Consensus for Consortium Blockchains](https://www.cs.toronto.edu/~fanl/papers/gosig-socc20.pdf). Peilun Li, Guosai Wang, Xiaoqi Chen, Fan Long, Wei Xu. SOCC'21.
-
-[Network] [Shrec: Bandwidth-Efficient Transaction Relay in High-Throughput Blockchain Systems](https://www.cs.toronto.edu/~fanl/papers/shrec-socc20.pdf). Yilin Han, Chenxing Li, Peilun Li, Ming Wu, Dong Zhuo, Fan Long. SOCC'21.
-
-## OOPSLA
-[Smart Contract] [Detecting Nondeterministic Payment Bugs in Ethereum Smart Contracts](https://home.cse.ust.hk/~shuaiw/papers/oopsla19.pdf). Shuai Wang, Chengyu Zhang, Zhendong Su. OOPSLA'19.
-
-## ICDE
-[Storage] [CUB, a Consensus Unit-Based Storage Scheme for Blockchain System](https://ieeexplore.ieee.org/abstract/document/8509246). Zihuan Xu, Siyuan Han, Lei Chen. 2018.
-
-[Database] [SEBDB:Semantics Empowered BlockChain DataBase](https://ieeexplore.ieee.org/abstract/document/8731416). Yanchao Zhu, Zhao Zhang, Cheqing Jin, Aoying Zhou, Ying Yan. 2019.
-
-[Query] [Authenticated Keyword Search in Scalable Hybrid-Storage Blockchains](https://ieeexplore.ieee.org/abstract/document/9458753). Ce Zhang, Cheng Xu, Haixin Wang, Jianliang Xu, Byron Choi. 2021.
 
 ## Journals
 
