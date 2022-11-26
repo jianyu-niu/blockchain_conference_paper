@@ -34,17 +34,6 @@ Key Words: Topics: System Architecture, Consensus(Proof-of-X and BFT), Layer 2 (
 
 [Order-Fairness for Byzantine Consensus](https://eprint.iacr.org/2020/269.pdf) Mahimna Kelkar,Fan Zhang,Ari Juels. Crypto '20.
 
-## Eurosys
-[Consensus] [Hybrids on Steroids: SGX-Based High Performance BFT](https://www4.cs.fau.de/Publications/2017/behl_17_eurosys.pdf). Johannes Behl, Tobias Distler, Rüdiger Kapitza. EuroSys'17.
-
-[System] [Hyperledger Fabric: A Distributed Operating System for Permissioned Blockchains](https://arxiv.org/pdf/1801.10228.pdf). Elli Androulaki, Artem Barger, Vita Bortnikov, Christian Cachin, Konstantinos Christidis, Angelo De Caro, David Enyeart, Christopher Ferris, Gennady Laventman, Yacov Manevich, Srinivasan Muralidharan, Chet Murthy, Binh Nguyen, Manish Sethi, Gari Singh, Keith Smith, Alessandro Sorniotti, Chrysoula Stathakopoulou, Marko Vukolić, Sharon Weed Cocco, Jason Yellick. EuroSys'18.
-
-[Consensus] [DAMYSUS: Streamlined BFT Consensus Leveraging Trusted Components](https://dl.acm.org/doi/pdf/10.1145/3492321.3519568). Jeremie Decouchant, David Kozhaya, Vincent Rahli, Jiangshan Yu. EuroSys'22.
-
-[Consensus] [State Machine Replication Scalability Made Simple](https://dl.acm.org/doi/pdf/10.1145/3492321.3519579). Chrysoula Stathakopoulou, Matej Pavlovic, Marko Vukolic. EuroSys'22.
-
-[Consensus] [Narwhal and Tusk: A DAG-based Mempool and Efficient BFT Consensus](https://dl.acm.org/doi/abs/10.1145/3492321.3519594). George Danezis, Lefteris Kokoris-Kogias, Alberto Sonnino, Alexander Spiegelman. EuroSys'22.
-
 ## EUROCRYPT
 [Consensus-PoW] [The Bitcoin Backbone Protocol: Analysis and Applications](https://eprint.iacr.org/2014/765.pdf). Garay J, Kiayias A, Leonardos N. EUROCRYPT '15.
 
@@ -61,52 +50,6 @@ Key Words: Topics: System Architecture, Consensus(Proof-of-X and BFT), Layer 2 (
 [Payment Channel][Multi-Party Virtual State Channels](https://link.springer.com/content/pdf/10.1007%2F978-3-030-17653-2_21.pdf). Stefan Dziembowski Lisa Eckey Sebastian Faust Julia Hesse Kristina Hostáková. EUROCRYPT '19. 
 
 [Cryptography-Privacy][Aggregate Cash Systems: A Cryptographic Investigation of Mimblewimble](https://link.springer.com/content/pdf/10.1007%2F978-3-030-17653-2_22.pdf). Georg Fuchsbauer Michele Orrù Yannick Seurin. EUROCRYPT '19. 
-
-
-## USENIX Security
-[Network-security] [Eclipse Attacks on Bitcoin's Peer-to-Peer Network](https://www.usenix.org/system/files/conference/usenixsecurity15/sec15-paper-heilman.pdf). Heilman E, Kendler A, Zohar A, Goldberg S. USENIX '15 Security Symposium.
-
-[Consensus-PoW] [Enhancing Bitcoin Security and Performance with Strong Consistency via Collective Signing](https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_kokoris-kogias.pdf). Kogias EK, Jovanovic P, Gailly N, Khoffi I, Gasser L, Ford B. USENIX '16 Security Symposium.
-
-[Mining][SmartPool: Practical Decentralized Pooled Mining](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-luu.pdf). Loi Luu,  Yaron Velner, Jason Teutsch, TrueBit Foundation; Prateek Saxena.USENIX '17 Security Symposium.
-
-[Mining][REM: Resource-Efficient Mining for Blockchains](https://eprint.iacr.org/2017/179). Fan Zhang and Ittay Eyal and Robert Escriva and Ari Juels and Robbert van Renesse. USENIX '17 Security Symposium.
-
-[Smart contract][teEther: Gnawing at Ethereum to Automatically Exploit Smart Contracts](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-krupp.pdf).Johannes Krupp and Christian Rossow. USENIX '18 Security Symposium.
-
-[Anonymity Privacy][An Empirical Analysis of Anonymity in Zcash](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-kappos.pdf). George Kappos, Haaroon Yousaf, Mary Maller, and Sarah Meiklejohn. USENIX '18 Security Symposium.
-
-[Smart contract][Arbitrum: Scalable, private smart contracts](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-kalodner.pdf). Harry Kalodner, Steven Goldfeder, Xiaoqi Chen, S. Matthew Weinberg,
-and Edward W. Felten. USENIX '18 Security Symposium.
-
-[Transaction Analysis][Tracing Transactions Across Cryptocurrency Ledgers](https://smeiklej.com/files/usenix19.pdf). Haaroon Yousaf, George Kappos, and Sarah Meiklejohn. USENIX '19 Security Symposium.
-
-[Consensus][StrongChain: Transparent and Collaborative Proof-of-Work Consensus](https://arxiv.org/pdf/1905.09655.pdf). Pawel Szalachowski, Daniël Reijsbergen, and Ivan Homoliak, Siwei Sun. USENIX '19 Security Symposium.
-
-[Privacy][BITE: Bitcoin Lightweight Client Privacy using Trusted Execution](https://www.usenix.org/system/files/sec19fall_matetic_prepub.pdf). Sinisa Matetic, Karl Wüst, Moritz Schneider, and Kari Kostiainen, Ghassan Karame, Srdjan Capkun. USENIX '19 Security Symposium.
-
-[Smart Contract][FastKitten: Practical Smart Contracts on Bitcoin](https://www.usenix.org/system/files/sec19fall_das_prepub.pdf). Poulami Das, Lisa Eckey, Tommaso Frassetto, David Gens, Kristina Hostáková, Patrick Jauernig, Sebastian Faust, and Ahmad-Reza Sadeghi. USENIX '19 Security Symposium.
-
-[Transaction Analysis][BlockSci: Design and applications of a blockchain analysis platform](https://www.usenix.org/conference/usenixsecurity20/presentation/kalodner). Harry Kalodner, Malte Möser, and Kevin Lee,Steven Goldfeder, Martin Plattner, Alishah Chator, Arvind Narayanan. USENIX '20 Security Symposium.
-
-[SideChain][Remote Side-Channel Attacks on Anonymous Transaction](https://www.usenix.org/conference/usenixsecurity20/presentation/tramer#:~:text=These%20attacks%20enable%20an%20active,implementation%20of%20different%20system%20components.). Florian Tramer and Dan Boneh, Kenny Paterson. USENIX '20 Security Symposium.
-
-[Smart Contract][ETHBMC: A Bounded Model Checker for Smart Contracts](https://www.usenix.org/conference/usenixsecurity20/presentation/frank). Joel Frank, Cornelius Aschermann, and Thorsten Holz. USENIX '20 Security Symposium.
-
-[Smart Contract][TXSPECTOR: Uncovering Attacks in Ethereum from Transactions](https://www.usenix.org/conference/usenixsecurity20/presentation/zhang-mengya). Mengya Zhang, Xiaokuan Zhang, Yinqian Zhang, and Zhiqiang Lin. USENIX '20 Security Symposium.
-
-[Smart Contract][An Ever-evolving Game: Evaluation of Real-world Attacks and Defenses in Ethereum Ecosystem](https://www.usenix.org/conference/usenixsecurity20/presentation/zhou-shunfan). Shunfan Zhou, Zhemin Yang, and Jie Xiang, Yinzhi Cao,Min Yang and Yuan Zhang. USENIX '20 Security Symposium.
-
-[Smart Contract][EVMPatch: Timely and Automated Patching of Ethereum Smart Contracts](). Michael Rodler, Wenting Li and Ghassan O. Karame, Lucas Davi. USENIX '21 Security Symposium.
-
-[Application][Evil Under the Sun: Understanding and Discovering Attacks on Ethereum Decentralized Applications](). Liya Su, Xinyue Shen, Xiangyu Du, Xiaojing Liao, XiaoFeng Wang, and Luyi Xing, Baoxu Liu. USENIX '21 Security Symposium.
-
-[Smart Contract][Smart Contract Vulnerabilities: Vulnerable Does Not Imply Exploited]() Daniel Perez and Ben Livshits. USENIX '21 Security Symposium. 
-
-[Transaction][How to Peel a Million: Validating and Expanding Bitcoin Clusters]() George Kappos and Haaroon Yousaf, Rainer Stütz and Sofia Rollet, Bernhard Haslhofer, Sarah Meiklejohn. USENIX '22 Security Symposium. 
-
-[Payment][Twilight: A Differentially Private Payment Channel Network]() Maya Dotan, Saar Tochner, Aviv Zohar, and Yossi Gilad. USENIX '22 Security Symposium. 
-
 
 ## S&P
 [Privacy] [Zerocoin: Anonymous distributed e-cash from bitcoin](http://ieeexplore.ieee.org/iel7/6547086/6547088/06547123.pdf). Miers I, Garman C, Green M, Rubin AD. S&P '13.
@@ -182,16 +125,50 @@ Alexei Zamyatin, Dominik Harz, Joshua Lind, Panayiotis Panayiotou, Arthur Gervai
 
 [Consensus][Foundations of Dynamic BFT](https://eprint.iacr.org/2022/597) Sisi Duan, Haibin Zhang. IEEE S&P '22.
 
-## Sigmetric&Performance
-[Network][Stability and Scalability of Blockchain Systems](). Aditya Gopalan, Abishek Sankararaman, Anwar Walid, Sriram Vishwanath. Sigmetric '20.
+## USENIX SECURITY
+[Network-security] [Eclipse Attacks on Bitcoin's Peer-to-Peer Network](https://www.usenix.org/system/files/conference/usenixsecurity15/sec15-paper-heilman.pdf). Heilman E, Kendler A, Zohar A, Goldberg S. USENIX '15 Security Symposium.
 
-[Layer-2][Privacy-Utility Tradeoffs in Routing Cryptocurrency over Payment Channel Networks](). Weizhao Tang, Weina Wang, Giulia Fanti, Sewoong Oh. Sigmetric '20.
+[Consensus-PoW] [Enhancing Bitcoin Security and Performance with Strong Consistency via Collective Signing](https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_kokoris-kogias.pdf). Kogias EK, Jovanovic P, Gailly N, Khoffi I, Gasser L, Ford B. USENIX '16 Security Symposium.
 
-[Network][Understanding (Mis)Behavior on the EOSIO Blockchain](). Yuheng Huang, Haoyu Wang, Lei Wu, Gareth Tyson, Xiapu Luo, Run Zhang, Xuanzhe Liu, Gang Huang, Xuxian Jiang. Sigmetric '20.
+[Mining][SmartPool: Practical Decentralized Pooled Mining](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-luu.pdf). Loi Luu,  Yaron Velner, Jason Teutsch, TrueBit Foundation; Prateek Saxena.USENIX '17 Security Symposium.
 
-[Incentive][Incentive Analysis of Bitcoin-NG, Revisited](https://arxiv.org/abs/2001.05082).Jianyu Niu, Ziyu Wang, Fangyu Gai and Chen Feng. Performance '20.
+[Mining][REM: Resource-Efficient Mining for Blockchains](https://eprint.iacr.org/2017/179). Fan Zhang and Ittay Eyal and Robert Escriva and Ari Juels and Robbert van Renesse. USENIX '17 Security Symposium.
 
-[Transactions][Tracking Counterfeit Cryptocurrency End-to-end]() Bingyu Gao, Haoyu Wang, Pengcheng Xia, Siwei Wu, Yajin Zhou, Xiapu Luo, Gareth Tyson. Sigmetric '21.
+[Smart contract][teEther: Gnawing at Ethereum to Automatically Exploit Smart Contracts](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-krupp.pdf).Johannes Krupp and Christian Rossow. USENIX '18 Security Symposium.
+
+[Anonymity Privacy][An Empirical Analysis of Anonymity in Zcash](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-kappos.pdf). George Kappos, Haaroon Yousaf, Mary Maller, and Sarah Meiklejohn. USENIX '18 Security Symposium.
+
+[Smart contract][Arbitrum: Scalable, private smart contracts](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-kalodner.pdf). Harry Kalodner, Steven Goldfeder, Xiaoqi Chen, S. Matthew Weinberg,
+and Edward W. Felten. USENIX '18 Security Symposium.
+
+[Transaction Analysis][Tracing Transactions Across Cryptocurrency Ledgers](https://smeiklej.com/files/usenix19.pdf). Haaroon Yousaf, George Kappos, and Sarah Meiklejohn. USENIX '19 Security Symposium.
+
+[Consensus][StrongChain: Transparent and Collaborative Proof-of-Work Consensus](https://arxiv.org/pdf/1905.09655.pdf). Pawel Szalachowski, Daniël Reijsbergen, and Ivan Homoliak, Siwei Sun. USENIX '19 Security Symposium.
+
+[Privacy][BITE: Bitcoin Lightweight Client Privacy using Trusted Execution](https://www.usenix.org/system/files/sec19fall_matetic_prepub.pdf). Sinisa Matetic, Karl Wüst, Moritz Schneider, and Kari Kostiainen, Ghassan Karame, Srdjan Capkun. USENIX '19 Security Symposium.
+
+[Smart Contract][FastKitten: Practical Smart Contracts on Bitcoin](https://www.usenix.org/system/files/sec19fall_das_prepub.pdf). Poulami Das, Lisa Eckey, Tommaso Frassetto, David Gens, Kristina Hostáková, Patrick Jauernig, Sebastian Faust, and Ahmad-Reza Sadeghi. USENIX '19 Security Symposium.
+
+[Transaction Analysis][BlockSci: Design and applications of a blockchain analysis platform](https://www.usenix.org/conference/usenixsecurity20/presentation/kalodner). Harry Kalodner, Malte Möser, and Kevin Lee,Steven Goldfeder, Martin Plattner, Alishah Chator, Arvind Narayanan. USENIX '20 Security Symposium.
+
+[SideChain][Remote Side-Channel Attacks on Anonymous Transaction](https://www.usenix.org/conference/usenixsecurity20/presentation/tramer#:~:text=These%20attacks%20enable%20an%20active,implementation%20of%20different%20system%20components.). Florian Tramer and Dan Boneh, Kenny Paterson. USENIX '20 Security Symposium.
+
+[Smart Contract][ETHBMC: A Bounded Model Checker for Smart Contracts](https://www.usenix.org/conference/usenixsecurity20/presentation/frank). Joel Frank, Cornelius Aschermann, and Thorsten Holz. USENIX '20 Security Symposium.
+
+[Smart Contract][TXSPECTOR: Uncovering Attacks in Ethereum from Transactions](https://www.usenix.org/conference/usenixsecurity20/presentation/zhang-mengya). Mengya Zhang, Xiaokuan Zhang, Yinqian Zhang, and Zhiqiang Lin. USENIX '20 Security Symposium.
+
+[Smart Contract][An Ever-evolving Game: Evaluation of Real-world Attacks and Defenses in Ethereum Ecosystem](https://www.usenix.org/conference/usenixsecurity20/presentation/zhou-shunfan). Shunfan Zhou, Zhemin Yang, and Jie Xiang, Yinzhi Cao,Min Yang and Yuan Zhang. USENIX '20 Security Symposium.
+
+[Smart Contract][EVMPatch: Timely and Automated Patching of Ethereum Smart Contracts](). Michael Rodler, Wenting Li and Ghassan O. Karame, Lucas Davi. USENIX '21 Security Symposium.
+
+[Application][Evil Under the Sun: Understanding and Discovering Attacks on Ethereum Decentralized Applications](). Liya Su, Xinyue Shen, Xiangyu Du, Xiaojing Liao, XiaoFeng Wang, and Luyi Xing, Baoxu Liu. USENIX '21 Security Symposium.
+
+[Smart Contract][Smart Contract Vulnerabilities: Vulnerable Does Not Imply Exploited]() Daniel Perez and Ben Livshits. USENIX '21 Security Symposium. 
+
+[Transaction][How to Peel a Million: Validating and Expanding Bitcoin Clusters]() George Kappos and Haaroon Yousaf, Rainer Stütz and Sofia Rollet, Bernhard Haslhofer, Sarah Meiklejohn. USENIX '22 Security Symposium. 
+
+[Payment][Twilight: A Differentially Private Payment Channel Network]() Maya Dotan, Saar Tochner, Aviv Zohar, and Yossi Gilad. USENIX '22 Security Symposium. 
+
 
 ## NDSS
 [Economic-Smart Contracts] ["Zeus": Analyzing Safety of Smart Contracts](http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2018/02/ndss2018_09-1_Kalra_paper.pdf). Kalra S, Goel S, Dhawan M, Sharma S. NDSS '18.
@@ -236,110 +213,6 @@ Charlie Hou, Mingxun Zhou, Yan Ji and Phil Daian, Florian Tramèr, Giulia Fanti,
 
 [Consensus-PoET][Multi-Certificate Attacks against Proof-of-Elapsed-Time and Their Countermeasures](). Huibo Wang, Guoxing Chen, Yinqian Zhang, Zhiqiang Lin. NDSS '22. 
 
-## ICSE
-[Smart Contract] [Empirical Review of Automated Analysis Tools on 47,587 Ethereum Smart Contracts](https://arxiv.org/pdf/1910.10601.pdf). T Durieux, JF Ferreira, R Abreu, P Cruz. ICSE '2020
-
-[Smart Contract] [sFuzz-An Efficient Adaptive Fuzzer for Solidity Smart Contracts](https://arxiv.org/pdf/2004.08563.pdf). TD Nguyen, LH Pham, J Sun, Y Lin, QT Minh. ICSE '2020
-
-## ESEC/FSE
-
-[Decentralized Application] [ÐArcher: Detecting On-Chain-Off-Chain Synchronization Bugs in Decentralized Applications](https://arxiv.org/abs/2106.09440). Wuqi Zhang, Lili Wei, Shuqing Li, Yepang Liu, Shing-Chi Cheung. ESEC/FSE '21
-
-## ASE
-
-[Smart Contract] [Characterizing Transaction-Reverting Statements in Ethereum Smart Contracts](https://arxiv.org/abs/2108.10799). Lu Liu, Lili Wei, Wuqi Zhang, Ming Wen, Yepang Liu, Shing-Chi Cheung. ASE '21
-
-## ISSTA
-
-[Smart Contract] [eTainter: Detecting Gas-Related Vulnerabilities in Smart Contracts](https://doi.org/10.1145/3533767.3534378). Asem Ghaleb, Julia Rubin, Karthik Pattabiraman. ISSTA '22
-
-[Smart Contract] [Finding Permission Bugs in Smart Contracts with Role Mining](https://doi.org/10.1145/3533767.3534372). Ye Liu, Yi Li, Shang-Wei Lin, Cyrille Artho. ISSTA '22
-
-[Smart Contract] [Park: Accelerating Smart Contract Vulnerability Detection via Parallel-fork Symbolic Execution](https://doi.org/10.1145/3533767.3534395). Peilin Zheng, Zibin Zheng, Xiapu Luo. ISSTA '22
-
-[Smart Contract] [WASAI: Uncovering Vulnerabilities in Wasm Smart Contracts](https://doi.org/10.1145/3533767.3534218). Weimin Chen, Zihan Sun, Haoyu Wang, Xiapu Luo, Haipeng Cai, Lei Wu. ISSTA '22
-
-## SOSP
-[Consensus] [Algorand: Scaling Byzantine Agreements for Cryptocurrencies](https://people.csail.mit.edu/nickolai/papers/gilad-algorand.pdf). Yossi Gilad, Rotem Hemo, Silvio Micali, Georgios Vlachos, Nickolai Zeldovich. SOSP'17
-
-[Payment Networks] [Teechain: A Secure Payment Network with Asynchronous Blockchain Access](https://arxiv.org/pdf/1707.05454.pdf). Joshua Lind, Oded Naor, Ittay Eyal, Florian Kelbert, Peter Pietzuch, Emin Gun Sirer. SOSP'19
-
-[Consensus] [Fast and Secure Global Payments with Stellar](https://www.scs.stanford.edu/~dm/home/papers/lokhava:stellar-core.pdf). Marta Lokhava, Giuliano Losa, David Mazières, Graydon Hoare, Nicolas Barry, Eliezer Gafni, Jonathan Jove, Rafał Malinowski, Jed McCaleb. SOSP'19
-
-[Consensus] [Notary: A Device for Secure Transaction Approval](https://pdos.csail.mit.edu/papers/notary:sosp19.pdf). Anish Athalye, Adam Belay, Frans Kaashoek, Robert Morris, Nickolai Zeldovich. SOSP'19
-
-[Database] [Basil: Breaking up BFT with ACID (transactions)](https://dl.acm.org/doi/pdf/10.1145/3477132.3483552). Florian Suri-Payer, Matthew Burke, Yunhao Zhang, Zheng Wang, Lorenzo Alvisi, and Natacha Crooks. SOSP'21
-
-[Network] [Bidl: A High-throughput, Low-latency Permissioned Blockchain Framework for Datacenter Networks](https://dl.acm.org/doi/pdf/10.1145/3477132.3483574). Ji Qi, Xusheng Chen, Yunpeng Jiang, Jianyu Jiang, Tianxiang Shen, Shixiong Zhao, Sen Wang, Gong Zhang, Li Chen, Man Ho Au, and Heming Cui. SOSP'21
-
-[Consensus] [Kauri: Scalable BFT Consensus with Pipelined Tree-Based Dissemination and Aggregation](https://dl.acm.org/doi/pdf/10.1145/3477132.3483584). Ray Neiheiser, Miguel Matos, and Luís Rodrigues. SOSP'21
-
-[Smart Contract] [Forerunner: Constraint-based Speculative Transaction Execution for Ethereum](https://dl.acm.org/doi/pdf/10.1145/3477132.3483564). Yang Chen, Zhongxin Guo, Runhuai Li, Shuo Chen, Lidong Zhou, Yajin Zhou, and Xian Zhang. SOSP'21
-
-[Consensus] [Rabia: Simplifying State-Machine Replication Through Randomization](https://dl.acm.org/doi/pdf/10.1145/3477132.3483582). Haochen Pan, Jesse Tuglu, Neo Zhou, Tianshu Wang, Yicheng Shen, Xiong Zheng, Joseph Tassarotti, Lewis Tseng, Roberto Palmieri. SOSP'21
-
-## VLDB
-[Storage] [ForkBase: An Efficient Storage Engine for Blockchain and Forkable Applications](http://www.vldb.org/pvldb/vol11/p1137-wang.pdf). Sheng Wang, Tien Tuan Anh Dinh, Qian Lin, Zhongle Xie, Meihui Zhang, Qingchao Cai, Gang Chen, Beng Chin Ooi, Pingcheng Rua. VLDB'18. 
-
-[Privacy] [A Demonstration of Sterling: A Privacy-Preserving Data Marketplace](http://www.vldb.org/pvldb/vol11/p2086-hynes.pdf). Nick Hynes1, David Dao, David Yan, Raymond Cheng, Dawn Song. VLDB'19. 
-
-[Application] [CAPER: A Cross-Application Permissioned Blockchain](http://www.vldb.org/pvldb/vol12/p1385-amiri.pdf). Mohammad Javad Amiri, Divyakant Agrawal, Amr El Abbadi. VLDB'19. 
-
-[Application] [BlockchainDB - A Shared Database on Blockchains](http://www.vldb.org/pvldb/vol12/p1597-el-hindi.pdf). Muhammad El-Hindi,
-Carsten Binnig, Arvind Arasu, Donald Kossmann, Ravi Ramamurthy. VLDB'19.
-
-[Provenance] [Fine-Grained, Secure and Efficient Data Provenance on Blockchain Systems](http://www.vldb.org/pvldb/vol12/p975-ruan.pdf). Pingcheng Ruan, Gang Chen, Tien Tuan Anh Dinh, Qian Lin, Beng Chin Ooi, Meihui Zhang. VLDB'19. 
-
-[Application] [Blockchain Meets Database: Design and Implementation of a Blockchain Relational Database](http://www.vldb.org/pvldb/vol12/p1539-nathan.pdf). Senthil Nathan, Chander Govindarajan, Adarsh Saraf, Manish Sethi, and Praveen Jayachandran. VLDB'19.
-
-[Consensus] [FireLedger: A High Throughput Blockchain Consensus Protocol](http://www.vldb.org/pvldb/vol13/p1525-buchnik.pdf). Yehonatan Buchnik, and Roy Friedman. VLDB'20.
-
-## EuroS&P
-[Smart Contract][Ekiden: A Platform for Conﬁdentiality-Preserving, Trustworthy, and Performant Smart Contracts](https://arxiv.org/pdf/1804.05141.pdf). Raymond Cheng, Fan Zhang, Jernej Kos, Warren He, Nicholas Hynes, Noah Johnson, Ari Juels, Andrew Miller, Dawn Song. EuroS&P '19.
-
-[Random Beacons][Fully Distributed Verifiable Random Functions and their Application to Decentralised Random Beacons](). David Galindo, Jia Liu, Mihai Ordean, Jin-Mann Wong. EuroS&P '21.
-
-## SRDS
-[Consensus] [Bloxy: Providing Transparent and Generic BFT-Based Ordering Services for Blockchains](https://www.researchgate.net/publication/340304077_Bloxy_Providing_Transparent_and_Generic_BFT-Based_Ordering_Services_for_Blockchains). Signe Rüsch, Rüdiger Kapitza and Kai Bleeke. SRDS '19.
-
-[Application] [Blockchain-based Metadata Protection for Archival Systems](https://ieeexplore.ieee.org/document/9049624). Arnaud L'Hutereau, Dorian Burihabwa, Pascal Felber, Hugues Mercier and Valerio Schiavoni. SRDS '19.
-
-[Application] [Trusted Computing meets Blockchain: Rollback Attacks and a Solution for Hyperledger Fabric](https://ieeexplore.ieee.org/document/9049585). Marcus Brandenburger, Christian Cachin, Rüdiger Kapitza and Alessandro Sorniotti. SRDS '19.
-
-[Application] [NF-Crowd: Nearly-free Blockchain-based Crowdsourcing](). Chao Li, Balaji Palanisamy, Runhua Xu, Jian Wang, Jiqiang Liu. SRDS '20.
-
-[Query][An Efficient Query Scheme for Hybrid Storage Blockchains Based on Merkle Semantic Trie](). Qingqi Pei, Enyuan Zhou, Yang Xiao, Deyu Zhang, Dongxiao Zhao. SRDS '20.
-		
-[Smart contract][Protect Your Smart Contract Against Unfair Payment](). Yue Li, Han Liu, Zhiqiang Yang, Bin Wang, Qian Ren, Lei Wang, Bangdao Chen. SRDS '20.
-
-[Consensus] [Threat Adaptive Byzantine Fault Tolerant State-Machine Replication](). Douglas Simões Silva, Rafal Graczyk, Jérémie Decouchant, Marcus Völp and Paulo Esteves-Verissimo. SRDS '21.
-
-[Consensus] [Adding Fairness to Order: Preventing Front-Running Attacks in BFT Protocols using TEEs](). Chrysoula Stathakopoulou, Signe Rüsch, Marcus Brandenburger and Marko Vukolic. SRDS '21.
-
-[Consensus] [How to Trust Strangers: Composition of Byzantine Quorum Systems](). Orestis Alpos, Christian Cachin and Luca Zanolini. SRDS '21.
-
-[Consensus] [Making Reads in BFT State Machine Replication Fast, Linearizable, and Live](). Christian Berger, Hans P. Reiser and Alysson Bessani. SRDS '21.
-
-[Provenance] [Vassago: Efficient and Authenticated Provenance Query on Multiple Blockchains](). Rui Han, Jiang Xiao, Xiaohai Dai, Shijie Zhang, Yi Sun, Baochun Li and Hai Jin. SRDS '21.
-
-## PODC
-[Consensus-PoW] [FruitChains: A Fair Blockchain](https://eprint.iacr.org/2016/916.pdf).Rafael Pass, Elaine Shi. PODC'17
-
-[Smart Contracts] [Adding Concurrency to Smart Contracts](https://dl.acm.org/doi/10.1145/3087801.3087835). Maurice Herlihy. PODC'17
-
-[Sidechain] [Atomic Cross-Chain Swaps](https://arxiv.org/abs/1801.09515). Maurice Herlihy. PODC'18
-
-[Consessus] [Brief Announcement: Sustainable Blockchains through Proof of eXercise](https://haslab.uminho.pt/ashoker/files/pox-podc.pdf). Ali Shoker. PODC'18
-
-[Consensus] [The Consensus Number of a Cryptocurrency](https://arxiv.org/pdf/1906.05574.pdf). R. Guerraoui, P. Kuznetsov, M. Monti, M. Pavlovic, D. Seredinschi. PODC'19
-
-[Consensus-BFT] [Communication Complexity of Byzantine Agreement, Revisited](https://arxiv.org/abs/1805.03391). I. Abraham, T. Chan, D. Dolev, K. Nayak, R. Pass, L. Ren, E. Shi. PODC'19
-
-[Consensus-BFT] [Exact Byzantine Consensus on Undirected Graphs under Local Broadcast Model](https://arxiv.org/pdf/1903.11677.pdf). M. Khan, S. Naqvi, N. Vaidya. PODC'19
-
-[Consensus-BFT] [Asymptotically Optimal Validated Asynchronous Byzantine Agreement](https://research.vmware.com/files/attachments/0/0/0/0/0/7/8/practical_aba_2_.pdf). I. Abraham, D. Malkhi, A. Spiegelman. PODC'19
-
-[Consensus-BFT] [HotStuff: BFT Consensus with Linearity and Responsiveness](https://www.cs.unc.edu/~reiter/papers/2019/PODC.pdf). M. Yin, I. Abraham, G. Gueta, D. Malkhi, M. Reiter. PODC'19
 
 ## CCS
 [Consensus-PoW-Mining] [Double-Spending Fast Payments in Bitcoin](https://www.eecis.udel.edu/~ruizhang/CISC859/S17/Paper/p9.pdf). Karame, Ghassan O. and Androulaki, Elli and Capkun, Srdjan. CCS '12.
@@ -442,6 +315,64 @@ Eleftherios Kokoris Kogias; Dahlia Malkhi; Alexander Spiegelman. CCS '20.
 
 [BFT][Byzantine Generalized Lattice Agreement](https://arxiv.org/pdf/1910.05768.pdf). Giuseppe Antonio Di Luna, Emmanuelle Anceaume, and Leonardo Querzoni. IPDPS '20. 
 
+## SOSP
+[Consensus] [Algorand: Scaling Byzantine Agreements for Cryptocurrencies](https://people.csail.mit.edu/nickolai/papers/gilad-algorand.pdf). Yossi Gilad, Rotem Hemo, Silvio Micali, Georgios Vlachos, Nickolai Zeldovich. SOSP'17
+
+[Payment Networks] [Teechain: A Secure Payment Network with Asynchronous Blockchain Access](https://arxiv.org/pdf/1707.05454.pdf). Joshua Lind, Oded Naor, Ittay Eyal, Florian Kelbert, Peter Pietzuch, Emin Gun Sirer. SOSP'19
+
+[Consensus] [Fast and Secure Global Payments with Stellar](https://www.scs.stanford.edu/~dm/home/papers/lokhava:stellar-core.pdf). Marta Lokhava, Giuliano Losa, David Mazières, Graydon Hoare, Nicolas Barry, Eliezer Gafni, Jonathan Jove, Rafał Malinowski, Jed McCaleb. SOSP'19
+
+[Consensus] [Notary: A Device for Secure Transaction Approval](https://pdos.csail.mit.edu/papers/notary:sosp19.pdf). Anish Athalye, Adam Belay, Frans Kaashoek, Robert Morris, Nickolai Zeldovich. SOSP'19
+
+[Database] [Basil: Breaking up BFT with ACID (transactions)](https://dl.acm.org/doi/pdf/10.1145/3477132.3483552). Florian Suri-Payer, Matthew Burke, Yunhao Zhang, Zheng Wang, Lorenzo Alvisi, and Natacha Crooks. SOSP'21
+
+[Network] [Bidl: A High-throughput, Low-latency Permissioned Blockchain Framework for Datacenter Networks](https://dl.acm.org/doi/pdf/10.1145/3477132.3483574). Ji Qi, Xusheng Chen, Yunpeng Jiang, Jianyu Jiang, Tianxiang Shen, Shixiong Zhao, Sen Wang, Gong Zhang, Li Chen, Man Ho Au, and Heming Cui. SOSP'21
+
+[Consensus] [Kauri: Scalable BFT Consensus with Pipelined Tree-Based Dissemination and Aggregation](https://dl.acm.org/doi/pdf/10.1145/3477132.3483584). Ray Neiheiser, Miguel Matos, and Luís Rodrigues. SOSP'21
+
+[Smart Contract] [Forerunner: Constraint-based Speculative Transaction Execution for Ethereum](https://dl.acm.org/doi/pdf/10.1145/3477132.3483564). Yang Chen, Zhongxin Guo, Runhuai Li, Shuo Chen, Lidong Zhou, Yajin Zhou, and Xian Zhang. SOSP'21
+
+[Consensus] [Rabia: Simplifying State-Machine Replication Through Randomization](https://dl.acm.org/doi/pdf/10.1145/3477132.3483582). Haochen Pan, Jesse Tuglu, Neo Zhou, Tianshu Wang, Yicheng Shen, Xiong Zheng, Joseph Tassarotti, Lewis Tseng, Roberto Palmieri. SOSP'21
+
+## OSDI
+[System][Blockene: A High-throughput Blockchain Over Mobile Devices](https://arxiv.org/pdf/2010.07277). Sambhav Satija and Apurv Mehra, Sudheesh Singanamalla, Karan Grover, Muthian Sivathanu, Nishanth Chandran, Divya Gupta, and Satya Lokam. OSDI'20 
+
+[Consensus][Byzantine ordered consensus without Byzantine oligarchy](https://www.microsoft.com/en-us/research/uploads/prod/2020/10/paper-5f89e2898ee53.pdf) Yunhao Zhang, Srinath Setty, Qi Chen, and Lidong Zhou, Lorenzo Alvisi. OSDI'20 
+
+[Smart Contract][Finding Consensus Bugs in Ethereum via Multi-transaction Differential Fuzzing](https://www.usenix.org/system/files/osdi21-yang.pdf). Youngseok Yang, Taesoo Kim, Byung-Gon Chun. OSDI'21
+
+[Decentralized Service][Bringing Decentralized Search to Decentralized Services](https://www.usenix.org/system/files/osdi21-li.pdf). Mingyu Li, Jinhao Zhu, Tianxu Zhang, Cheng Tan, Sebastian Angel, and Haibo Chen. OSDI'21
+
+## Eurosys
+[Consensus] [Hybrids on Steroids: SGX-Based High Performance BFT](https://www4.cs.fau.de/Publications/2017/behl_17_eurosys.pdf). Johannes Behl, Tobias Distler, Rüdiger Kapitza. EuroSys'17.
+
+[System] [Hyperledger Fabric: A Distributed Operating System for Permissioned Blockchains](https://arxiv.org/pdf/1801.10228.pdf). Elli Androulaki, Artem Barger, Vita Bortnikov, Christian Cachin, Konstantinos Christidis, Angelo De Caro, David Enyeart, Christopher Ferris, Gennady Laventman, Yacov Manevich, Srinivasan Muralidharan, Chet Murthy, Binh Nguyen, Manish Sethi, Gari Singh, Keith Smith, Alessandro Sorniotti, Chrysoula Stathakopoulou, Marko Vukolić, Sharon Weed Cocco, Jason Yellick. EuroSys'18.
+
+[Consensus] [DAMYSUS: Streamlined BFT Consensus Leveraging Trusted Components](https://dl.acm.org/doi/pdf/10.1145/3492321.3519568). Jeremie Decouchant, David Kozhaya, Vincent Rahli, Jiangshan Yu. EuroSys'22.
+
+[Consensus] [State Machine Replication Scalability Made Simple](https://dl.acm.org/doi/pdf/10.1145/3492321.3519579). Chrysoula Stathakopoulou, Matej Pavlovic, Marko Vukolic. EuroSys'22.
+
+[Consensus] [Narwhal and Tusk: A DAG-based Mempool and Efficient BFT Consensus](https://dl.acm.org/doi/abs/10.1145/3492321.3519594). George Danezis, Lefteris Kokoris-Kogias, Alberto Sonnino, Alexander Spiegelman. EuroSys'22.
+
+## NSDI
+[Consensus-PoW] [Bitcoin-NG: A Scalable Blockchain Protocol](https://www.usenix.org/system/files/conference/nsdi16/nsdi16-paper-eyal.pdf). Eyal I, Gencer AE, Sirer EG, Van Renesse R. NSDI ’16
+
+[System][Monoxide: Scale Out Blockchain with Asynchronized Consensus Zones](https://www.usenix.org/system/files/nsdi19-wang-jiaping.pdf). Jiaping Wang, Hao Wang. NSDI'19
+
+[Network][High Throughput Cryptocurrency Routing in Payment Channel Networks](https://www.usenix.org/system/files/nsdi20-paper-sivaraman.pdf). Vibhaalakshmi Sivaraman, Shaileshh Bojja Venkatakrishnan, Kathleen Ruan, Parimarjan Negi and Lei Yang, Radhika Mittal, Giulia Fanti, Mohammad Alizadeh. NSDI ’20
+
+[Consensus-BFT] [DispersedLedger: High-Throughput Byzantine Consensus on Variable Bandwidth Networks](https://arxiv.org/pdf/2110.04371.pdf). Lei Yang, Seo Jin Park, Sreeram Kannan, Kannan S, David Tse. NSDI ’22
+
+## Sigmetric&Performance
+[Network][Stability and Scalability of Blockchain Systems](). Aditya Gopalan, Abishek Sankararaman, Anwar Walid, Sriram Vishwanath. Sigmetric '20.
+
+[Layer-2][Privacy-Utility Tradeoffs in Routing Cryptocurrency over Payment Channel Networks](). Weizhao Tang, Weina Wang, Giulia Fanti, Sewoong Oh. Sigmetric '20.
+
+[Network][Understanding (Mis)Behavior on the EOSIO Blockchain](). Yuheng Huang, Haoyu Wang, Lei Wu, Gareth Tyson, Xiapu Luo, Run Zhang, Xuanzhe Liu, Gang Huang, Xuxian Jiang. Sigmetric '20.
+
+[Incentive][Incentive Analysis of Bitcoin-NG, Revisited](https://arxiv.org/abs/2001.05082).Jianyu Niu, Ziyu Wang, Fangyu Gai and Chen Feng. Performance '20.
+
+[Transactions][Tracking Counterfeit Cryptocurrency End-to-end]() Bingyu Gao, Haoyu Wang, Pengcheng Xia, Siwei Wu, Yajin Zhou, Xiapu Luo, Gareth Tyson. Sigmetric '21.
 
 ## SIGMOD
 [Measurement][BLOCKBENCH: A Framework for Analyzing Private Blockchains](https://www.comp.nus.edu.sg/~ooibc/blockbench.pdf). Tien Tuan Anh Dinh, Ji Wang, Gang Chen, Rui Liu, Beng Chin Ooi, and Kian-Lee Tan. SIGMOD '17.
@@ -473,6 +404,92 @@ Eleftherios Kokoris Kogias; Dahlia Malkhi; Alexander Spiegelman. CCS '20.
 [Privacy] [When the Recursive Diversity Anonymity Meets the Ring Signature](https://dl.acm.org/doi/abs/10.1145/3448016.3452825). Wangze Ni, Peng Cheng, Lei Chen, Xuemin Lin. SIGMOD '21.
 
 [Database] [SQL Ledger: Cryptographically Verifiable Data in Azure SQL Database](https://dl.acm.org/doi/pdf/10.1145/3448016.3457558). Panagiotis Antonopoulos, Raghav Kaushik, Hanuma Kodavalla, Sergio Rosales Aceves, Reilly Wong, Jason Anderson, and Jakub Szymaszek. SIGMOD '21
+
+## VLDB
+[Storage] [ForkBase: An Efficient Storage Engine for Blockchain and Forkable Applications](http://www.vldb.org/pvldb/vol11/p1137-wang.pdf). Sheng Wang, Tien Tuan Anh Dinh, Qian Lin, Zhongle Xie, Meihui Zhang, Qingchao Cai, Gang Chen, Beng Chin Ooi, Pingcheng Rua. VLDB'18. 
+
+[Privacy] [A Demonstration of Sterling: A Privacy-Preserving Data Marketplace](http://www.vldb.org/pvldb/vol11/p2086-hynes.pdf). Nick Hynes1, David Dao, David Yan, Raymond Cheng, Dawn Song. VLDB'19. 
+
+[Application] [CAPER: A Cross-Application Permissioned Blockchain](http://www.vldb.org/pvldb/vol12/p1385-amiri.pdf). Mohammad Javad Amiri, Divyakant Agrawal, Amr El Abbadi. VLDB'19. 
+
+[Application] [BlockchainDB - A Shared Database on Blockchains](http://www.vldb.org/pvldb/vol12/p1597-el-hindi.pdf). Muhammad El-Hindi,
+Carsten Binnig, Arvind Arasu, Donald Kossmann, Ravi Ramamurthy. VLDB'19.
+
+[Provenance] [Fine-Grained, Secure and Efficient Data Provenance on Blockchain Systems](http://www.vldb.org/pvldb/vol12/p975-ruan.pdf). Pingcheng Ruan, Gang Chen, Tien Tuan Anh Dinh, Qian Lin, Beng Chin Ooi, Meihui Zhang. VLDB'19. 
+
+[Application] [Blockchain Meets Database: Design and Implementation of a Blockchain Relational Database](http://www.vldb.org/pvldb/vol12/p1539-nathan.pdf). Senthil Nathan, Chander Govindarajan, Adarsh Saraf, Manish Sethi, and Praveen Jayachandran. VLDB'19.
+
+[Consensus] [FireLedger: A High Throughput Blockchain Consensus Protocol](http://www.vldb.org/pvldb/vol13/p1525-buchnik.pdf). Yehonatan Buchnik, and Roy Friedman. VLDB'20.
+
+## ICSE
+[Smart Contract] [Empirical Review of Automated Analysis Tools on 47,587 Ethereum Smart Contracts](https://arxiv.org/pdf/1910.10601.pdf). T Durieux, JF Ferreira, R Abreu, P Cruz. ICSE '2020
+
+[Smart Contract] [sFuzz-An Efficient Adaptive Fuzzer for Solidity Smart Contracts](https://arxiv.org/pdf/2004.08563.pdf). TD Nguyen, LH Pham, J Sun, Y Lin, QT Minh. ICSE '2020
+
+## ESEC/FSE
+
+[Decentralized Application] [ÐArcher: Detecting On-Chain-Off-Chain Synchronization Bugs in Decentralized Applications](https://arxiv.org/abs/2106.09440). Wuqi Zhang, Lili Wei, Shuqing Li, Yepang Liu, Shing-Chi Cheung. ESEC/FSE '21
+
+## ASE
+
+[Smart Contract] [Characterizing Transaction-Reverting Statements in Ethereum Smart Contracts](https://arxiv.org/abs/2108.10799). Lu Liu, Lili Wei, Wuqi Zhang, Ming Wen, Yepang Liu, Shing-Chi Cheung. ASE '21
+
+## ISSTA
+[Smart Contract] [eTainter: Detecting Gas-Related Vulnerabilities in Smart Contracts](https://doi.org/10.1145/3533767.3534378). Asem Ghaleb, Julia Rubin, Karthik Pattabiraman. ISSTA '22
+
+[Smart Contract] [Finding Permission Bugs in Smart Contracts with Role Mining](https://doi.org/10.1145/3533767.3534372). Ye Liu, Yi Li, Shang-Wei Lin, Cyrille Artho. ISSTA '22
+
+[Smart Contract] [Park: Accelerating Smart Contract Vulnerability Detection via Parallel-fork Symbolic Execution](https://doi.org/10.1145/3533767.3534395). Peilin Zheng, Zibin Zheng, Xiapu Luo. ISSTA '22
+
+[Smart Contract] [WASAI: Uncovering Vulnerabilities in Wasm Smart Contracts](https://doi.org/10.1145/3533767.3534218). Weimin Chen, Zihan Sun, Haoyu Wang, Xiapu Luo, Haipeng Cai, Lei Wu. ISSTA '22
+
+
+## EuroS&P
+[Smart Contract][Ekiden: A Platform for Conﬁdentiality-Preserving, Trustworthy, and Performant Smart Contracts](https://arxiv.org/pdf/1804.05141.pdf). Raymond Cheng, Fan Zhang, Jernej Kos, Warren He, Nicholas Hynes, Noah Johnson, Ari Juels, Andrew Miller, Dawn Song. EuroS&P '19.
+
+[Random Beacons][Fully Distributed Verifiable Random Functions and their Application to Decentralised Random Beacons](). David Galindo, Jia Liu, Mihai Ordean, Jin-Mann Wong. EuroS&P '21.
+
+## SRDS
+[Consensus] [Bloxy: Providing Transparent and Generic BFT-Based Ordering Services for Blockchains](https://www.researchgate.net/publication/340304077_Bloxy_Providing_Transparent_and_Generic_BFT-Based_Ordering_Services_for_Blockchains). Signe Rüsch, Rüdiger Kapitza and Kai Bleeke. SRDS '19.
+
+[Application] [Blockchain-based Metadata Protection for Archival Systems](https://ieeexplore.ieee.org/document/9049624). Arnaud L'Hutereau, Dorian Burihabwa, Pascal Felber, Hugues Mercier and Valerio Schiavoni. SRDS '19.
+
+[Application] [Trusted Computing meets Blockchain: Rollback Attacks and a Solution for Hyperledger Fabric](https://ieeexplore.ieee.org/document/9049585). Marcus Brandenburger, Christian Cachin, Rüdiger Kapitza and Alessandro Sorniotti. SRDS '19.
+
+[Application] [NF-Crowd: Nearly-free Blockchain-based Crowdsourcing](). Chao Li, Balaji Palanisamy, Runhua Xu, Jian Wang, Jiqiang Liu. SRDS '20.
+
+[Query][An Efficient Query Scheme for Hybrid Storage Blockchains Based on Merkle Semantic Trie](). Qingqi Pei, Enyuan Zhou, Yang Xiao, Deyu Zhang, Dongxiao Zhao. SRDS '20.
+		
+[Smart contract][Protect Your Smart Contract Against Unfair Payment](). Yue Li, Han Liu, Zhiqiang Yang, Bin Wang, Qian Ren, Lei Wang, Bangdao Chen. SRDS '20.
+
+[Consensus] [Threat Adaptive Byzantine Fault Tolerant State-Machine Replication](). Douglas Simões Silva, Rafal Graczyk, Jérémie Decouchant, Marcus Völp and Paulo Esteves-Verissimo. SRDS '21.
+
+[Consensus] [Adding Fairness to Order: Preventing Front-Running Attacks in BFT Protocols using TEEs](). Chrysoula Stathakopoulou, Signe Rüsch, Marcus Brandenburger and Marko Vukolic. SRDS '21.
+
+[Consensus] [How to Trust Strangers: Composition of Byzantine Quorum Systems](). Orestis Alpos, Christian Cachin and Luca Zanolini. SRDS '21.
+
+[Consensus] [Making Reads in BFT State Machine Replication Fast, Linearizable, and Live](). Christian Berger, Hans P. Reiser and Alysson Bessani. SRDS '21.
+
+[Provenance] [Vassago: Efficient and Authenticated Provenance Query on Multiple Blockchains](). Rui Han, Jiang Xiao, Xiaohai Dai, Shijie Zhang, Yi Sun, Baochun Li and Hai Jin. SRDS '21.
+
+## PODC
+[Consensus-PoW] [FruitChains: A Fair Blockchain](https://eprint.iacr.org/2016/916.pdf).Rafael Pass, Elaine Shi. PODC'17
+
+[Smart Contracts] [Adding Concurrency to Smart Contracts](https://dl.acm.org/doi/10.1145/3087801.3087835). Maurice Herlihy. PODC'17
+
+[Sidechain] [Atomic Cross-Chain Swaps](https://arxiv.org/abs/1801.09515). Maurice Herlihy. PODC'18
+
+[Consessus] [Brief Announcement: Sustainable Blockchains through Proof of eXercise](https://haslab.uminho.pt/ashoker/files/pox-podc.pdf). Ali Shoker. PODC'18
+
+[Consensus] [The Consensus Number of a Cryptocurrency](https://arxiv.org/pdf/1906.05574.pdf). R. Guerraoui, P. Kuznetsov, M. Monti, M. Pavlovic, D. Seredinschi. PODC'19
+
+[Consensus-BFT] [Communication Complexity of Byzantine Agreement, Revisited](https://arxiv.org/abs/1805.03391). I. Abraham, T. Chan, D. Dolev, K. Nayak, R. Pass, L. Ren, E. Shi. PODC'19
+
+[Consensus-BFT] [Exact Byzantine Consensus on Undirected Graphs under Local Broadcast Model](https://arxiv.org/pdf/1903.11677.pdf). M. Khan, S. Naqvi, N. Vaidya. PODC'19
+
+[Consensus-BFT] [Asymptotically Optimal Validated Asynchronous Byzantine Agreement](https://research.vmware.com/files/attachments/0/0/0/0/0/7/8/practical_aba_2_.pdf). I. Abraham, D. Malkhi, A. Spiegelman. PODC'19
+
+[Consensus-BFT] [HotStuff: BFT Consensus with Linearity and Responsiveness](https://www.cs.unc.edu/~reiter/papers/2019/PODC.pdf). M. Yin, I. Abraham, G. Gueta, D. Malkhi, M. Reiter. PODC'19
 
 ## SPAA
 [Consensus-DAG][Why BlockDAGs Excel Blockchains](https://tik-db.ee.ethz.ch/file/b0a2132681958e4cb69055bab4bf6ad8/The_Append_Memory_Model.pdf). Darya Melnyk and Roger Wattenhofer. SPAA' 20
@@ -538,24 +555,6 @@ Yang Xiao, Ning Zhang, Wenjing Lou and Thomas Hou. INFOCOM'20
 [Consensus][Dissecting the Performance of Chained-BFT](https://arxiv.org/abs/2103.00777). Fangyu Gai, Ali Farahbakhsh, Jianyu Niu, Chen Feng, Ivan Beschastnikh, Hao Duan. ICDCS'21
 
 [Consensus][Strengthened Fault Tolerance in Byzantine Fault Tolerant Replication](https://arxiv.org/abs/2101.03715). Zhuolun Xiang, Dahlia Malkhi, Kartik Nayak, Ling Ren. ICDCS'21
-
-## NSDI
-[Consensus-PoW] [Bitcoin-NG: A Scalable Blockchain Protocol](https://www.usenix.org/system/files/conference/nsdi16/nsdi16-paper-eyal.pdf). Eyal I, Gencer AE, Sirer EG, Van Renesse R. NSDI ’16
-
-[System][Monoxide: Scale Out Blockchain with Asynchronized Consensus Zones](https://www.usenix.org/system/files/nsdi19-wang-jiaping.pdf). Jiaping Wang, Hao Wang. NSDI'19
-
-[Network][High Throughput Cryptocurrency Routing in Payment Channel Networks](https://www.usenix.org/system/files/nsdi20-paper-sivaraman.pdf). Vibhaalakshmi Sivaraman, Shaileshh Bojja Venkatakrishnan, Kathleen Ruan, Parimarjan Negi and Lei Yang, Radhika Mittal, Giulia Fanti, Mohammad Alizadeh. NSDI ’20
-
-[Consensus-BFT] [DispersedLedger: High-Throughput Byzantine Consensus on Variable Bandwidth Networks](https://arxiv.org/pdf/2110.04371.pdf). Lei Yang, Seo Jin Park, Sreeram Kannan, Kannan S, David Tse. NSDI ’22
-
-## OSDI
-[System][Blockene: A High-throughput Blockchain Over Mobile Devices](https://arxiv.org/pdf/2010.07277). Sambhav Satija and Apurv Mehra, Sudheesh Singanamalla, Karan Grover, Muthian Sivathanu, Nishanth Chandran, Divya Gupta, and Satya Lokam. OSDI'20 
-
-[Consensus][Byzantine ordered consensus without Byzantine oligarchy](https://www.microsoft.com/en-us/research/uploads/prod/2020/10/paper-5f89e2898ee53.pdf) Yunhao Zhang, Srinath Setty, Qi Chen, and Lidong Zhou, Lorenzo Alvisi. OSDI'20 
-
-[Smart Contract][Finding Consensus Bugs in Ethereum via Multi-transaction Differential Fuzzing](https://www.usenix.org/system/files/osdi21-yang.pdf). Youngseok Yang, Taesoo Kim, Byung-Gon Chun. OSDI'21
-
-[Decentralized Service][Bringing Decentralized Search to Decentralized Services](https://www.usenix.org/system/files/osdi21-li.pdf). Mingyu Li, Jinhao Zhu, Tianxu Zhang, Cheng Tan, Sebastian Angel, and Haibo Chen. OSDI'21
 
 ## DSN
 [Smart Contract][FabZK: Supporting Privacy-Preserving, Auditable Smart Contracts in Hyperledger Fabric](). Hui Kang, Ting Dai, Nerla Jean-Louis and Shu Tao. Xiaohui Gu.  DSN '19
