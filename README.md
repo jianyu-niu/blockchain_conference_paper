@@ -310,6 +310,29 @@ Eleftherios Kokoris Kogias; Dahlia Malkhi; Alexander Spiegelman. CCS '20.
 
 [Consensus][Dumbo-NG: Fast Asynchronous BFT Consensus with Throughput-Oblivious Latency](https://arxiv.org/abs/2209.00750). Yingzi Gao, Yuan Lu, Zhenliang Lu, Qiang Tang, Jing Xu, Zhenfeng Zhang. CCS '22.
 
+[Consensus] [Bolt-Dumbo Transformer: Asynchronous Consensus As Fast As the Pipelined BFT](). Yuan Lu, Zhenliang Lu, Qiang Tang. CCS '22. 
+
+[Consensus] [Bullshark: DAG BFT Protocols Made Practical](). Alexander Spiegelman, Neil Giridharan, Alberto Sonnino, Lefteris Kokoris-Kogias. CCS '22. 
+
+[Consensus] [Constant Latency in Sleepy Consensus](). Atsuki Momose, Ling Ren. CCS '22.
+
+[Consensus] [Dumbo-NG: Fast Asynchronous BFT Consensus with Throughput-Oblivious Latency](). Yingzi Gao , Yuan Lu, Zhenliang Lu, Qiang Tang, Jing Xu, Zhenfeng Zhang. CCS '22. 
+
+[Consensus] [ENGRAFT: Enclave-guarded Raft on Byzantine Faulty Nodes]()	Weili Wang , Sen Deng, Jianyu Niu, Michael K. Reiter, Yinqian Zhang. CCS '22.
+
+[Transactions] [Empirical Analysis of EIP-1559: Transaction Fees, Waiting Times, and Consensus Security]() Yulin Liu, Yuxuan Lu, Kartik Nayak, Fan Zhang, Luyao Zhang,  Yinhong Zhao. CCS '22.
+
+[Consensus] [Minotaur: Multi-Resource Blockchain Consensus]().	Matthias Fitzi, Xuechao Wang, Sreeram Kannan, Aggelos Kiayias, Nikos Leonardos, Pramod Viswanath, Gerui Wang. CCS '22.
+
+[Consensus] [PACE: Fully Parallelizable BFT from Reproposable Byzantine Agreement]().	Haibin Zhang, Sisi Duan. CCS '22.
+
+[Payment channel] [Sleepy Channels: Bi-directional Payment Channels without Watchtowers](). Lukas Aumayr, Sri AravindaKrishnan Thyagarajan, Giulio Malavolta, Pedro Moreno-Sanchez, Matteo Maffei. CCS '22.
+
+[Transactions] [Watch Your Back: Identifying Cybercrime Financial Relationships in Bitcoin through Back-and-Forth Exploration]().	Gibran Gomez, Pedro Moreno-Sanchez, Juan Caballero. CCS '22.
+
+[Cross-chain] [zkBridge: Trustless Cross-chain Bridges Made Practical]().	Tiancheng Xie, Jiaheng Zhang, Zerui Cheng, Fan Zhang, Yupeng Zhang, Yongzheng Jia, Dan Boneh, Dawn Song. CCS '22.
+
+
 ## SOSP
 [Consensus] [Algorand: Scaling Byzantine Agreements for Cryptocurrencies](https://people.csail.mit.edu/nickolai/papers/gilad-algorand.pdf). Yossi Gilad, Rotem Hemo, Silvio Micali, Georgios Vlachos, Nickolai Zeldovich. SOSP'17
 
@@ -328,6 +351,7 @@ Eleftherios Kokoris Kogias; Dahlia Malkhi; Alexander Spiegelman. CCS '20.
 [Smart Contract] [Forerunner: Constraint-based Speculative Transaction Execution for Ethereum](https://dl.acm.org/doi/pdf/10.1145/3477132.3483564). Yang Chen, Zhongxin Guo, Runhuai Li, Shuo Chen, Lidong Zhou, Yajin Zhou, and Xian Zhang. SOSP'21
 
 [Consensus] [Rabia: Simplifying State-Machine Replication Through Randomization](https://dl.acm.org/doi/pdf/10.1145/3477132.3483582). Haochen Pan, Jesse Tuglu, Neo Zhou, Tianshu Wang, Yicheng Shen, Xiong Zheng, Joseph Tassarotti, Lewis Tseng, Roberto Palmieri. SOSP'21
+
 
 ## OSDI
 [System][Blockene: A High-throughput Blockchain Over Mobile Devices](https://arxiv.org/pdf/2010.07277). Sambhav Satija and Apurv Mehra, Sudheesh Singanamalla, Karan Grover, Muthian Sivathanu, Nishanth Chandran, Divya Gupta, and Satya Lokam. OSDI'20 
