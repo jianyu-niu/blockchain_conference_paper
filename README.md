@@ -441,18 +441,52 @@ Carsten Binnig, Arvind Arasu, Donald Kossmann, Ravi Ramamurthy. VLDB'19.
 [Consensus] [FireLedger: A High Throughput Blockchain Consensus Protocol](http://www.vldb.org/pvldb/vol13/p1525-buchnik.pdf). Yehonatan Buchnik, and Roy Friedman. VLDB'20.
 
 ## ICSE
+[Smart Contract] [Gigahorse: Thorough, Declarative Decompilation of Smart Contracts](https://ieeexplore.ieee.org/document/8811905). Neville Grech, Lexi Brent, Bernhard Scholz, Yannis Smaragdakis. ICSE '2019.
+
+[Smart Contract] [Gap between theory and practice: an empirical study of security patches in solidity](https://doi.org/10.1145/3377811.3380424). Sungjae Hwang, Sukyoung Ryu. ICSE '2020.
+
+[Smart Contract] [Targeted greybox fuzzing with static lookahead analysis](https://dl.acm.org/doi/10.1145/3377811.3380388). Valentin Wüstholz, Maria Christakis. ICSE '2020.
+
 [Smart Contract] [Empirical Review of Automated Analysis Tools on 47,587 Ethereum Smart Contracts](https://arxiv.org/pdf/1910.10601.pdf). T Durieux, JF Ferreira, R Abreu, P Cruz. ICSE '2020
 
 [Smart Contract] [sFuzz-An Efficient Adaptive Fuzzer for Solidity Smart Contracts](https://arxiv.org/pdf/2004.08563.pdf). TD Nguyen, LH Pham, J Sun, Y Lin, QT Minh. ICSE '2020
 
+[Smart Contract] [Smart Contract Security: a Practitioners' Perspective](http://arxiv.org/abs/2102.10963). Zhiyuan Wan, Xin Xia, David Lo, Jiachi Chen, Xiapu Luo, Xiaohu Yang.  ICSE '2021
+
+[Application] [Utilizing Parallelism in Smart Contracts on Decentralized Blockchains by Taming Application-Inherent Conflicts](https://dl.acm.org/doi/10.1145/3510003.3510086). Péter Garamvölgyi, Yuxi Liu, Dong Zhou, Fan Long, Ming Wu.  ICSE '2022
+
 ## ESEC/FSE
+
+[Smart Contract] [Towards automated verification of smart contract fairness](https://dl.acm.org/doi/10.1145/3368089.3409740). Ye Liu, Yi Li, Shang-Wei Lin, Rong Zhao. ESEC/FSE '20.
+
+[Smart Contract] [Harvey: a greybox fuzzer for smart contracts](https://dl.acm.org/doi/10.1145/3368089.3417064).Valentin Wüstholz, Maria Christakis. ESEC/FSE '20.
+
+[Application] [Making smart contract development more secure and easier](https://dl.acm.org/doi/abs/10.1145/3468264.3473929). Meng Ren, Fuchen Ma, Zijing Yin, Ying Fu, Huizhong Li, Wanli Chang, Yu Jiang. ESEC/FSE '21.
+
+[Smart Contract] [iBatch: saving Ethereum fees via secure and cost-effective batching of smart-contract invocations](https://dl.acm.org/doi/10.1145/3468264.3468568). Yibo Wang, Qi Zhang, Kai Li, Yuzhe Tang, Jiaqi Chen, Xiapu Luo, Ting Chen. ESEC/FSE '21.
 
 [Decentralized Application] [ÐArcher: Detecting On-Chain-Off-Chain Synchronization Bugs in Decentralized Applications](https://arxiv.org/abs/2106.09440). Wuqi Zhang, Lili Wei, Shuqing Li, Yepang Liu, Shing-Chi Cheung. ESEC/FSE '21
 
 ## ASE
+[Smart Contract] [ContractFuzzer: fuzzing smart contracts for vulnerability detection](https://doi.org/10.1145/3238147.3238177). Bo Jiang, Ye Liu, W. K Chan. ASE '18.
+
+[Smart Contract] [Summary-based symbolic evaluation for smart contracts](https://doi.org/10.1145/3324884.3416646). Yu Feng, Emina Torlak, Rastislav Bodik. ASE '20.
+
+[Smart Contract] [Demystifying loops in smart contracts](https://dl.acm.org/doi/10.1145/3324884.3416626). Benjamin Mariano, Yanju Chen, Yu Feng, Shuvendu K. Lahiri, Isil Dillig. ASE '20.
+
+[Smart Contract] [Cross-contract static analysis for detecting practical reentrancy vulnerabilities in smart contracts](https://dl.acm.org/doi/10.1145/3324884.3416553). Yinxing Xue, Mingliang Ma, Yun Lin, Yulei Sui, Jiaming Ye, Tianyong Peng. ASE '20.
+
+[Smart Contract] [SMARTIAN: Enhancing Smart Contract Fuzzing with Static and Dynamic Data-Flow Analyses](https://ieeexplore.ieee.org/document/9678888). Jaeseung Choi, Doyeon Kim, Soomin Kim, Gustavo Grieco, Alex Groce, Sang Kil Cha. ASE '21.
+
+[Smart Contract] [Automating User Notice Generation for Smart Contract Functions](https://ieeexplore.ieee.org/document/9678552). Xing Hu, Zhipeng Gao, Xin Xia, David Lo, Xiaohu Yang. ASE '21.
+
 [Smart Contract] [Characterizing Transaction-Reverting Statements in Ethereum Smart Contracts](https://arxiv.org/abs/2108.10799). Lu Liu, Lili Wei, Wuqi Zhang, Ming Wen, Yepang Liu, Shing-Chi Cheung. ASE '21
 
 ## ISSTA
+[Smart Contract] [Exploiting The Laws of Order in Smart Contracts](https://dl.acm.org/doi/10.1145/3293882.3330560). Aashish Kolluri, Ivica Nikoli ́ c, Ilya Sergey, Aquinas Hobor, Prateek Saxena. ISSTA '19
+
+[Smart Contract] [How effective are smart contract analysis tools? evaluating smart contract static analysis tools using bug injection](https://dl.acm.org/doi/10.1145/3395363.3397385). Asem Ghaleb, Karthik Pattabiraman. ISSTA '20
+
 [Smart Contract] [eTainter: Detecting Gas-Related Vulnerabilities in Smart Contracts](https://doi.org/10.1145/3533767.3534378). Asem Ghaleb, Julia Rubin, Karthik Pattabiraman. ISSTA '22
 
 [Smart Contract] [Finding Permission Bugs in Smart Contracts with Role Mining](https://doi.org/10.1145/3533767.3534372). Ye Liu, Yi Li, Shang-Wei Lin, Cyrille Artho. ISSTA '22
