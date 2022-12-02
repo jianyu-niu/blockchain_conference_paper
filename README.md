@@ -3,17 +3,17 @@ A curated blockchain-related academic papers. All papers are sorted based on the
 Welcome developers or researchers to add more published paper to this list. 
 
 ## Table of Listed Conferences
-|   Seucrity & Privacy & Crypto  |  Networking & Database  | Software Engineering & Programming Language  |     System Architecture  |
-| :-----: | :-------------: | :--------: | :------------------------: |
-| [CRYPTO](#crypto)        |  [SIGMETRICS & Performance](#sigmetricperformance)  |   [ICSE](#icse)          |    [EuroSys](#eurosys)   |
-| [EUROCRYPT](#eurocrypt)  |  [ICDE](#icde)                                               |   [ESEC/FSE](#esecfse)   |    [ACM SOSP](#sosp)     |
-| [USENIX Security](#usenix-security)  |       [VLDB](#vldb)                              |   [ASE](#ase)            |    [EuroS&P](#eurosp)    |
-| [IEEE S&P](#sp) |                           [ACM SIGMOD](#sigmod)                      |   [ACM PLDI](#pldi)      |    [SRDS](#srds)         |
-| [NDSS](#ndss)    |                           [IEEE INFOCOM](#infocom)                   |   [ACM OOPSLA](#oopsla)  |    [ACM PODC](#podc)     |
-| [ACM CCS](#ccs)  |                           [NSDI](#nsdi)                              |   [ACM EC](#ec)          |    [IEEE IPDPS](#ipdps) |
-| [FC](#fc)        |                           [ACM CoNEXT](#conext)                      |    [ISSTA](#issta)       |    [IEEE DSN](#dsn)      |
-|                  |                           [ACM MobiHoc](#mobihoc)                    |                          |    [IEEE ICDCS](#icdcs)  |
-|                  |                                                                      |                          |    [ACM SOCC](#socc)     |
+|     Seucrity & Privacy & Crypto     |               Networking & Database               | Software Engineering & Programming Language | System Architecture  |
+| :---------------------------------: | :-----------------------------------------------: | :-----------------------------------------: | :------------------: |
+|          [CRYPTO](#crypto)          | [SIGMETRICS & Performance](#sigmetricperformance) |                [ICSE](#icse)                | [EuroSys](#eurosys)  |
+|       [EUROCRYPT](#eurocrypt)       |                   [ICDE](#icde)                   |            [ESEC/FSE](#esecfse)             |  [ACM SOSP](#sosp)   |
+| [USENIX Security](#usenix-security) |                   [VLDB](#vldb)                   |                 [ASE](#ase)                 |  [EuroS&P](#eurosp)  |
+|           [IEEE S&P](#sp)           |               [ACM SIGMOD](#sigmod)               |              [ACM PLDI](#pldi)              |    [SRDS](#srds)     |
+|            [NDSS](#ndss)            |             [IEEE INFOCOM](#infocom)              |            [ACM OOPSLA](#oopsla)            |  [ACM PODC](#podc)   |
+|           [ACM CCS](#ccs)           |                   [NSDI](#nsdi)                   |                [ACM EC](#ec)                | [IEEE IPDPS](#ipdps) |
+|              [FC](#fc)              |               [ACM CoNEXT](#conext)               |               [ISSTA](#issta)               |   [IEEE DSN](#dsn)   |
+|                                     |              [ACM MobiHoc](#mobihoc)              |              [ACM POPL](#popl)              | [IEEE ICDCS](#icdcs) |
+|                                     |                                                   |                                             |  [ACM SOCC](#socc)   |
 
 
 ## Table of Listed Journals
@@ -495,6 +495,12 @@ Carsten Binnig, Arvind Arasu, Donald Kossmann, Ravi Ramamurthy. VLDB'19.
 
 [Smart Contract] [WASAI: Uncovering Vulnerabilities in Wasm Smart Contracts](https://doi.org/10.1145/3533767.3534218). Weimin Chen, Zihan Sun, Haoyu Wang, Xiapu Luo, Haipeng Cai, Lei Wu. ISSTA '22
 
+## POPL
+
+[Smart Contract] [Online detection of effectively callback free objects with applications to smart contracts](https://dl.acm.org/doi/10.1145/3158136). SHELLY GROSSMAN, ITTAI ABRAHAM, GUY GOLAN-GUETA, YAN MICHALEVSKY, NOAM RINETZKY, MOOLY SAGIV, YONI ZOHAR. POPL '18.
+
+[Smart Contract] [SolType: Refinement Types for Arithmetic Overflow in Solidity](https://dl.acm.org/doi/abs/10.1145/3498665?af=R). BRYAN TAN, BENJAMIN MARIANO, SHUVENDU K. LAHIRI, ISIL DILLIG, YU FENG. POPL '22.
+
 ## IPDPS
 [Consensus][G-PBFT: A Location-based and Scalable Consensus Protocol for IoT-Blockchain Applications](http://www4.comp.polyu.edu.hk/~csbxiao/paper/2020/IPDPS_GPBFT_2020.pdf). LapHou Lao, Xiaohai Dai, Bin Xiao, and Songtao Guo. IPDPS '20.
 
@@ -665,7 +671,19 @@ Yang Xiao, Ning Zhang, Wenjing Lou and Thomas Hou. INFOCOM'20
 [Network] [Shrec: Bandwidth-Efficient Transaction Relay in High-Throughput Blockchain Systems](https://www.cs.toronto.edu/~fanl/papers/shrec-socc20.pdf). Yilin Han, Chenxing Li, Peilun Li, Ming Wu, Dong Zhuo, Fan Long. SOCC'21.
 
 ## OOPSLA
-[Smart Contract] [Detecting Nondeterministic Payment Bugs in Ethereum Smart Contracts](https://home.cse.ust.hk/~shuaiw/papers/oopsla19.pdf). Shuai Wang, Chengyu Zhang, Zhendong Su. OOPSLA'19.
+[Smart Contract] [MadMax: Surviving Out-of-Gas Conditions in Ethereum Smart Contracts](https://dl.acm.org/doi/10.1145/3276486).  Neville Grech, Michael Kong, Anton Jurisevic, Lexi Brent, Bernhard Scholz, Yannis Smaragdakis. OOPSLA '18.
+
+[Smart Contract] [Safer smart contract programming with Scilla](https://dl.acm.org/doi/10.1145/3360611). Ilya Sergey, Vaivaswatha Nagaraj, Jacob Johannsen, Amrit Kumar, Anton Trunov, Ken Chan Guan Hao. OOPSLA '19.
+
+[Smart Contract] [Detecting Nondeterministic Payment Bugs in Ethereum Smart Contracts](https://home.cse.ust.hk/~shuaiw/papers/oopsla19.pdf). Shuai Wang, Chengyu Zhang, Zhendong Su. OOPSLA '19.
+
+[Smart Contract] [Precise static modeling of Ethereum ”memory“](https://dl.acm.org/doi/10.1145/3428258). Sifis Lagouvardos, Neville Grech, Ilias Tsatiris, Yannis Smaragdakis. OOPSLA '20.
+
+[Smart Contract] [Rich Specifications for Ethereum Smart Contract Verification](https://dl.acm.org/doi/10.1145/3485523). Christian Bräm, Marco Eilers, Peter Müller, Robin Sierra, Alexander J. Summers. OOPSLA '21.
+
+[Smart Contract] [Symbolic Value-Flow Static Analysis: Deep, Precise, Complete Modeling of Ethereum Smart Contracts](https://dl.acm.org/doi/10.1145/3485540). Yannis Smaragdakis, Neville Grech, Sifis Lagouvardos, Konstantinos Triantafyllou, Ilias Tsatiris. OOPSLA '21.
+
+[Smart Contract] [Elipmoc: advanced decompilation of Ethereum smart contracts](https://dl.acm.org/doi/10.1145/3527321). Neville Grech, Sifis Lagouvardos, Ilias Tsatiris, Yannis Smaragdakis. OOPSLA '22.
 
 ## ICDE
 [Storage] [CUB, a Consensus Unit-Based Storage Scheme for Blockchain System](https://ieeexplore.ieee.org/abstract/document/8509246). Zihuan Xu, Siyuan Han, Lei Chen. 2018.
