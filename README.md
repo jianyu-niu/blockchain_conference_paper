@@ -13,7 +13,6 @@ Welcome developers or researchers to add more published paper to this list.
 |           [ACM CCS](#ccs)           |                   [NSDI](#nsdi)                   |                [ACM EC](#ec)                | [IEEE IPDPS](#ipdps) |
 |             [IEEE DSN](#dsn)        |               [ACM CoNEXT](#conext)               |               [ISSTA](#issta)               |  [IEEE ICDCS](#icdcs)|
 |              [FC](#fc)              |              [ACM MobiHoc](#mobihoc)              |              [ACM POPL](#popl)              | [ACM SOCC](#socc)  |
-|                                     |                                                   |                                             |                |
 
 
 ## Table of Listed Journals
