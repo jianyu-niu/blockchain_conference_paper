@@ -3,7 +3,7 @@ A curated blockchain-related academic papers. All papers are sorted based on the
 Welcome developers or researchers to add more published paper to this list. 
 
 ## Table of Listed Conferences
-|     Seucrity & Privacy & Crypto     |               Networking & Database               | Software Engineering & Programming Language | System Architecture  |
+|     Security & Privacy & Crypto     |               Networking & Database               | Software Engineering & Programming Language | System Architecture  |
 | :---------------------------------: | :-----------------------------------------------: | :-----------------------------------------: | :------------------: |
 |          [CRYPTO](#crypto)          | [SIGMETRICS & Performance](#sigmetricperformance) |                [ICSE](#icse)                | [EuroSys](#eurosys)  |
 |       [EUROCRYPT](#eurocrypt)       |                   [ICDE](#icde)                   |            [ESEC/FSE](#esecfse)             |  [ACM SOSP](#sosp)   |
