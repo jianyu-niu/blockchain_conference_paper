@@ -485,6 +485,8 @@ Carsten Binnig, Arvind Arasu, Donald Kossmann, Ravi Ramamurthy. VLDB'19.
 ## ISSTA
 [Smart Contract] [Exploiting The Laws of Order in Smart Contracts](https://dl.acm.org/doi/10.1145/3293882.3330560). Aashish Kolluri, Ivica Nikoli ́ c, Ilya Sergey, Aquinas Hobor, Prateek Saxena. ISSTA '19
 
+[Smart Contract] [EShield: protect smart contracts against reverse engineering](https://dl.acm.org/doi/abs/10.1145/3395363.3404365). ISSTA '20
+
 [Smart Contract] [How effective are smart contract analysis tools? evaluating smart contract static analysis tools using bug injection](https://dl.acm.org/doi/10.1145/3395363.3397385). Asem Ghaleb, Karthik Pattabiraman. ISSTA '20
 
 [Smart Contract] [eTainter: Detecting Gas-Related Vulnerabilities in Smart Contracts](https://doi.org/10.1145/3533767.3534378). Asem Ghaleb, Julia Rubin, Karthik Pattabiraman. ISSTA '22
