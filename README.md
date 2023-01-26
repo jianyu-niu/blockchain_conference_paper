@@ -213,6 +213,21 @@ Charlie Hou, Mingxun Zhou, Yan Ji and Phil Daian, Florian Tramèr, Giulia Fanti,
 
 [Consensus-PoET][Multi-Certificate Attacks against Proof-of-Elapsed-Time and Their Countermeasures](). Huibo Wang, Guoxing Chen, Yinqian Zhang, Zhiqiang Lin. NDSS '22. 
 
+[Smart Contract][POSE: Practical Off-chain Smart Contract Execution](). Tommaso Frassetto, Patrick Jauernig, David Koisser, David Kretzler, Benjamin Schlosser, Sebastian Faust, and Ahmad-Reza Sadeghi. NDSS '23.  
+
+[Smart Contract][Smarter Contracts: Detecting Vulnerabilities in Smart Contracts with Deep Transfer Learning](). Christoph Sendner, Huili Chen, Hossein Fereidooni, Lukas Petzi, Jan König, Jasper Stang, and Alexandra Dmitrienko, Ahmad-Reza Sadeghi, Farinaz Koushanfar. NDSS '23.  
+
+[Consensus][LOKI: State-Aware Fuzzing Framework for the Implementation of Blockchain Consensus Protocols](). Fuchen Ma, Yuanliang Chen, Meng Ren, Yuanhang Zhou, and Yu Jiang, Ting Chen, Huizhong Li, Jiaguang Sun. NDSS '23.   
+
+[Measurement][etecting and Investigating Propagated Vulnerabilities in Forked Blockchain Projects](). iao Yi, Yuzhou Fang, and Daoyuan Wu, Lingxiao Jiang. NDSS '23.  
+
+[Payment Channel][Breaking And Fixing UTXO-Based Virtual Channels](). Lukas Aumayr, Pedro Moreno-Sanchez, Aniket Kate, Matteo Maffei. NDSS '23.  
+
+[Consensus][Partitioning Ethereum without Eclipsing It](). Hwanjo Heo and Seungwon Woo, Tae Ung Yoon, Min Suk Kang and Seungwon Shin. NDSS '23.  
+
+[Consensus][Double and Nothing: Understanding and Detecting Cryptocurrency Giveaway Scams](). Xigao Li, Anurag Yepuri, and Nick Nikiforakis. NDSS '23.   
+
+[Payment Channel][He-HTLC: Revisiting Incentives in HTLC]() Sarisht Wadhwa and Jannis Stoeter, Fan Zhang, Kartik Nayak. NDSS '23.   
 
 ## CCS
 [Consensus-PoW-Mining] [Double-Spending Fast Payments in Bitcoin](https://www.eecis.udel.edu/~ruizhang/CISC859/S17/Paper/p9.pdf). Karame, Ghassan O. and Androulaki, Elli and Capkun, Srdjan. CCS '12.
