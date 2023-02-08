@@ -225,7 +225,7 @@ Charlie Hou, Mingxun Zhou, Yan Ji and Phil Daian, Florian Tramèr, Giulia Fanti,
 
 [Consensus][Partitioning Ethereum without Eclipsing It](). Hwanjo Heo and Seungwon Woo, Tae Ung Yoon, Min Suk Kang and Seungwon Shin. NDSS '23.  
 
-[Consensus][Double and Nothing: Understanding and Detecting Cryptocurrency Giveaway Scams](). Xigao Li, Anurag Yepuri, and Nick Nikiforakis. NDSS '23.   
+[Security][Double and Nothing: Understanding and Detecting Cryptocurrency Giveaway Scams](https://double-and-nothing.github.io/). Xigao Li, Anurag Yepuri, and Nick Nikiforakis. NDSS '23.   
 
 [Payment Channel][He-HTLC: Revisiting Incentives in HTLC]() Sarisht Wadhwa and Jannis Stoeter, Fan Zhang, Kartik Nayak. NDSS '23.   
 
