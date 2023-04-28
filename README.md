@@ -169,6 +169,9 @@ and Edward W. Felten. USENIX '18 Security Symposium.
 
 [Payment][Twilight: A Differentially Private Payment Channel Network]() Maya Dotan, Saar Tochner, Aviv Zohar, and Yossi Gilad. USENIX '22 Security Symposium. 
 
+[Smart Contract][The Blockchain Imitation Game](https://www.usenix.org/conference/usenixsecurity23/presentation/qin). Kaihua Qin, Imperial College London, RDI; Stefanos Chaliasos, Imperial College London; Liyi Zhou, Imperial College London, RDI; Benjamin Livshits, Imperial College London; Dawn Song, UC Berkeley, RDI; Arthur Gervais, University College London, RDI. USENIX '23 Security Symposium. 
+
+[Smart Contract][Proxy Hunting: Understanding and Characterizing Proxy-based Upgradeable Smart Contracts in Blockchains](https://www.usenix.org/conference/usenixsecurity23/presentation/bodell). William E Bodell III, Sajad Meisami, and Yue Duan, Illinois Institute of Technology. USENIX '23 Security Symposium. 
 
 ## NDSS
 [Economic-Smart Contracts] ["Zeus": Analyzing Safety of Smart Contracts](http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2018/02/ndss2018_09-1_Kalra_paper.pdf). Kalra S, Goel S, Dhawan M, Sharma S. NDSS '18.
