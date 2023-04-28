@@ -397,6 +397,10 @@ Eleftherios Kokoris Kogias; Dahlia Malkhi; Alexander Spiegelman. CCS '20.
 
 [Consensus-BFT] [DispersedLedger: High-Throughput Byzantine Consensus on Variable Bandwidth Networks](https://arxiv.org/pdf/2110.04371.pdf). Lei Yang, Seo Jin Park, Sreeram Kannan, Kannan S, David Tse. NSDI ’22
 
+[System][SPEEDEX: A Scalable, Parallelizable, and Economically Efficient Decentralized EXchange](https://www.usenix.org/system/files/nsdi23-ramseyer.pdf). Geoffrey Ramseyer, Ashish Goel, David Mazières. NSDI '23
+
+[System][Hamilton: A High-Performance Transaction Processor for Central Bank Digital Currencies](https://www.usenix.org/system/files/nsdi23-lovejoy.pdf). James Lovejoy, Madars Virza, Cory Fields, Kevin Karwaski, Anders Brownworth, Neha Narula. NSDI '23
+
 ## Sigmetric&Performance
 [Network][Stability and Scalability of Blockchain Systems](). Aditya Gopalan, Abishek Sankararaman, Anwar Walid, Sriram Vishwanath. Sigmetric '20.
 
