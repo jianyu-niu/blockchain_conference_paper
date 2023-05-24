@@ -173,11 +173,11 @@ and Edward W. Felten. USENIX '18 Security Symposium.
 
 [Consensus][ACon^2: Adaptive Conformal Consensus for Provable Blockchain Oracles]() Sangdon Park, Osbert Bastani, and Taesoo Kim. USENIX '23 Security Symposium. 
 
-[Smart Contract][Proxy Hunting: Understanding and Characterizing Proxy-based Upgradeable Smart Contracts in Blockchains]() William E Bodell III, Sajad Meisami, and Yue Duan. USENIX '23 Security Symposium.
-
-[Transaction-security][The Blockchain Imitation Game]() Kaihua Qin, Stefanos Chaliasos, Liyi Zhou, Benjamin Livshits, Dawn Song, and Arthur Gervais. USENIX '23 Security Symposium.
-
 [Smart Contract-security][Panda: Security Analysis of Algorand Smart Contracts]() Zhiyuan Sun, Xiapu Luo, and Yinqian Zhang. USENIX '23 Security Symposium.
+
+[Smart Contract][The Blockchain Imitation Game](https://www.usenix.org/conference/usenixsecurity23/presentation/qin) Kaihua Qin, Stefanos Chaliasos, Liyi Zhou, Benjamin Livshits, Dawn Song, and Arthur Gervais. USENIX '23 Security Symposium.
+
+[Smart Contract][Proxy Hunting: Understanding and Characterizing Proxy-based Upgradeable Smart Contracts in Blockchains](https://www.usenix.org/conference/usenixsecurity23/presentation/bodell) William E Bodell III, Sajad Meisami, and Yue Duan. USENIX '23 Security Symposium.
 
 ## NDSS
 [Economic-Smart Contracts] ["Zeus": Analyzing Safety of Smart Contracts](http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2018/02/ndss2018_09-1_Kalra_paper.pdf). Kalra S, Goel S, Dhawan M, Sharma S. NDSS '18.
@@ -399,6 +399,10 @@ Eleftherios Kokoris Kogias; Dahlia Malkhi; Alexander Spiegelman. CCS '20.
 [Network][High Throughput Cryptocurrency Routing in Payment Channel Networks](https://www.usenix.org/system/files/nsdi20-paper-sivaraman.pdf). Vibhaalakshmi Sivaraman, Shaileshh Bojja Venkatakrishnan, Kathleen Ruan, Parimarjan Negi and Lei Yang, Radhika Mittal, Giulia Fanti, Mohammad Alizadeh. NSDI ’20
 
 [Consensus-BFT] [DispersedLedger: High-Throughput Byzantine Consensus on Variable Bandwidth Networks](https://arxiv.org/pdf/2110.04371.pdf). Lei Yang, Seo Jin Park, Sreeram Kannan, Kannan S, David Tse. NSDI ’22
+
+[System][SPEEDEX: A Scalable, Parallelizable, and Economically Efficient Decentralized EXchange](https://www.usenix.org/system/files/nsdi23-ramseyer.pdf). Geoffrey Ramseyer, Ashish Goel, David Mazières. NSDI '23
+
+[System][Hamilton: A High-Performance Transaction Processor for Central Bank Digital Currencies](https://www.usenix.org/system/files/nsdi23-lovejoy.pdf). James Lovejoy, Madars Virza, Cory Fields, Kevin Karwaski, Anders Brownworth, Neha Narula. NSDI '23
 
 ## Sigmetric&Performance
 [Network][Stability and Scalability of Blockchain Systems](). Aditya Gopalan, Abishek Sankararaman, Anwar Walid, Sriram Vishwanath. Sigmetric '20.
