@@ -125,6 +125,8 @@ Alexei Zamyatin, Dominik Harz, Joshua Lind, Panayiotis Panayiotou, Arthur Gervai
 
 [Consensus][Foundations of Dynamic BFT](https://eprint.iacr.org/2022/597) Sisi Duan, Haibin Zhang. IEEE S&P '22.
 
+[Smart Contract][Clockwork Finance: Automated Analysis of Economic Security in Smart Contracts]() Kushal Babel, Philip Daian, Mahimna Kelkar, Ari Juels. IEEE S&P '23.
+
 ## USENIX SECURITY
 [Network-security] [Eclipse Attacks on Bitcoin's Peer-to-Peer Network](https://www.usenix.org/system/files/conference/usenixsecurity15/sec15-paper-heilman.pdf). Heilman E, Kendler A, Zohar A, Goldberg S. USENIX '15 Security Symposium.
 
@@ -169,9 +171,13 @@ and Edward W. Felten. USENIX '18 Security Symposium.
 
 [Payment][Twilight: A Differentially Private Payment Channel Network]() Maya Dotan, Saar Tochner, Aviv Zohar, and Yossi Gilad. USENIX '22 Security Symposium. 
 
-[Smart Contract][The Blockchain Imitation Game](https://www.usenix.org/conference/usenixsecurity23/presentation/qin). Kaihua Qin, Imperial College London, RDI; Stefanos Chaliasos, Imperial College London; Liyi Zhou, Imperial College London, RDI; Benjamin Livshits, Imperial College London; Dawn Song, UC Berkeley, RDI; Arthur Gervais, University College London, RDI. USENIX '23 Security Symposium. 
+[Consensus][ACon^2: Adaptive Conformal Consensus for Provable Blockchain Oracles]() Sangdon Park, Osbert Bastani, and Taesoo Kim. USENIX '23 Security Symposium. 
 
-[Smart Contract][Proxy Hunting: Understanding and Characterizing Proxy-based Upgradeable Smart Contracts in Blockchains](https://www.usenix.org/conference/usenixsecurity23/presentation/bodell). William E Bodell III, Sajad Meisami, and Yue Duan, Illinois Institute of Technology. USENIX '23 Security Symposium. 
+[Smart Contract-security][Panda: Security Analysis of Algorand Smart Contracts]() Zhiyuan Sun, Xiapu Luo, and Yinqian Zhang. USENIX '23 Security Symposium.
+
+[Smart Contract][The Blockchain Imitation Game](https://www.usenix.org/conference/usenixsecurity23/presentation/qin) Kaihua Qin, Stefanos Chaliasos, Liyi Zhou, Benjamin Livshits, Dawn Song, and Arthur Gervais. USENIX '23 Security Symposium.
+
+[Smart Contract][Proxy Hunting: Understanding and Characterizing Proxy-based Upgradeable Smart Contracts in Blockchains](https://www.usenix.org/conference/usenixsecurity23/presentation/bodell) William E Bodell III, Sajad Meisami, and Yue Duan. USENIX '23 Security Symposium.
 
 ## NDSS
 [Economic-Smart Contracts] ["Zeus": Analyzing Safety of Smart Contracts](http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2018/02/ndss2018_09-1_Kalra_paper.pdf). Kalra S, Goel S, Dhawan M, Sharma S. NDSS '18.
@@ -222,7 +228,7 @@ Charlie Hou, Mingxun Zhou, Yan Ji and Phil Daian, Florian Tramèr, Giulia Fanti,
 
 [Consensus][LOKI: State-Aware Fuzzing Framework for the Implementation of Blockchain Consensus Protocols](). Fuchen Ma, Yuanliang Chen, Meng Ren, Yuanhang Zhou, and Yu Jiang, Ting Chen, Huizhong Li, Jiaguang Sun. NDSS '23.   
 
-[Measurement][etecting and Investigating Propagated Vulnerabilities in Forked Blockchain Projects](). iao Yi, Yuzhou Fang, and Daoyuan Wu, Lingxiao Jiang. NDSS '23.  
+[Measurement][BlockScope: Detecting and Investigating Propagated Vulnerabilities in Forked Blockchain Projects](). Xiao Yi, Yuzhou Fang, and Daoyuan Wu, Lingxiao Jiang. NDSS '23.  
 
 [Payment Channel][Breaking And Fixing UTXO-Based Virtual Channels](). Lukas Aumayr, Pedro Moreno-Sanchez, Aniket Kate, Matteo Maffei. NDSS '23.  
 
@@ -322,19 +328,13 @@ Eleftherios Kokoris Kogias; Dahlia Malkhi; Alexander Spiegelman. CCS '20.
 
 [Consensus][Asynchronous Data Dissemination and its Applications](https://eprint.iacr.org/2021/777) Sourav Das and Zhuolun Xiang and Ling Ren. CCS '21.
 
-[Consensus][Bolt-Dumbo Transformer: Asynchronous Consensus As Fast As the Pipelined BFT](https://arxiv.org/pdf/2103.09425.pdf). yuan Lu, Zhenliang Lu and Qiang Tang. CCS '22.
-
-[Consensus][Bullshark: The Partially Synchronous Version](https://arxiv.org/abs/2209.05633). Alexander Spiegelman, Neil Giridharan, Alberto Sonnino, Lefteris Kokoris-Kogias. CCS '22.
-
 [Consensus][Dumbo-NG: Fast Asynchronous BFT Consensus with Throughput-Oblivious Latency](https://arxiv.org/abs/2209.00750). Yingzi Gao, Yuan Lu, Zhenliang Lu, Qiang Tang, Jing Xu, Zhenfeng Zhang. CCS '22.
 
-[Consensus] [Bolt-Dumbo Transformer: Asynchronous Consensus As Fast As the Pipelined BFT](). Yuan Lu, Zhenliang Lu, Qiang Tang. CCS '22. 
+[Consensus] [Bolt-Dumbo Transformer: Asynchronous Consensus As Fast As the Pipelined BFT](https://arxiv.org/pdf/2103.09425.pdf). Yuan Lu, Zhenliang Lu, Qiang Tang. CCS '22. 
 
-[Consensus] [Bullshark: DAG BFT Protocols Made Practical](). Alexander Spiegelman, Neil Giridharan, Alberto Sonnino, Lefteris Kokoris-Kogias. CCS '22. 
+[Consensus] [Bullshark: DAG BFT Protocols Made Practical](https://arxiv.org/abs/2209.05633). Alexander Spiegelman, Neil Giridharan, Alberto Sonnino, Lefteris Kokoris-Kogias. CCS '22. 
 
 [Consensus] [Constant Latency in Sleepy Consensus](). Atsuki Momose, Ling Ren. CCS '22.
-
-[Consensus] [Dumbo-NG: Fast Asynchronous BFT Consensus with Throughput-Oblivious Latency](). Yingzi Gao , Yuan Lu, Zhenliang Lu, Qiang Tang, Jing Xu, Zhenfeng Zhang. CCS '22. 
 
 [Consensus] [ENGRAFT: Enclave-guarded Raft on Byzantine Faulty Nodes]()	Weili Wang , Sen Deng, Jianyu Niu, Michael K. Reiter, Yinqian Zhang. CCS '22.
 
