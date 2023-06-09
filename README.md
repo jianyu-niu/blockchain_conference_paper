@@ -613,6 +613,8 @@ Yang Xiao, Ning Zhang, Wenjing Lou and Thomas Hou. INFOCOM'20
 
 [Scalability][S-Store:: A Scalable Data Store towards Permissioned Blockchain Sharding](https://ieeexplore.ieee.org/document/9796800). Xiaodong Qi. INFOCOM'22.
 
+[Netowrk][Dino: A Block Transmission Protocol with Low Bandwidth Consumption and Propagation Latency](https://ieeexplore.ieee.org/abstract/document/9796837). Zhenxing Hu and Zhen Xiao. INFOCOM'22.
+
 ## ICDCS
 [Application] [Transform Blockchain into Distributed Parallel Computing Architecture for Precision Medicine](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8416392).Zonyin Shae, Jeffrey J.P. Tsai. ICDCS'18
 
@@ -643,6 +645,8 @@ Yang Xiao, Ning Zhang, Wenjing Lou and Thomas Hou. INFOCOM'20
 [Consensus][Dissecting the Performance of Chained-BFT](https://arxiv.org/abs/2103.00777). Fangyu Gai, Ali Farahbakhsh, Jianyu Niu, Chen Feng, Ivan Beschastnikh, Hao Duan. ICDCS'21
 
 [Consensus][Strengthened Fault Tolerance in Byzantine Fault Tolerant Replication](https://arxiv.org/abs/2101.03715). Zhuolun Xiang, Dahlia Malkhi, Kartik Nayak, Ling Ren. ICDCS'21
+
+[Consensus][Leopard: Towards High Throughput-Preserving BFT for Large-scale Systems](https://ieeexplore.ieee.org/document/9912165). Kexin Hu, Kaiwen Guo, Qiang Tang, Zhenfeng Zhang, Hao Cheng, Zhiyang Zhao. ICDCS'22
 
 ## DSN
 [Smart Contract][FabZK: Supporting Privacy-Preserving, Auditable Smart Contracts in Hyperledger Fabric](). Hui Kang, Ting Dai, Nerla Jean-Louis and Shu Tao. Xiaohui Gu.  DSN '19
