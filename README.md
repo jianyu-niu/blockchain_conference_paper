@@ -145,6 +145,8 @@ and Edward W. Felten. USENIX '18 Security Symposium.
 
 [Transaction Analysis][Tracing Transactions Across Cryptocurrency Ledgers](https://smeiklej.com/files/usenix19.pdf). Haaroon Yousaf, George Kappos, and Sarah Meiklejohn. USENIX '19 Security Symposium.
 
+[Smart Contract][The Art of The Scam: Demystifying Honeypots in Ethereum SmartContracts](https://www.usenix.org/system/files/sec19-torres.pdf). ChristofFerreira Torres, Mathis Steichen, and Radu State, University of Luxembourg. USENIX '19 Security Symposium.
+
 [Consensus][StrongChain: Transparent and Collaborative Proof-of-Work Consensus](https://arxiv.org/pdf/1905.09655.pdf). Pawel Szalachowski, Daniël Reijsbergen, and Ivan Homoliak, Siwei Sun. USENIX '19 Security Symposium.
 
 [Privacy][BITE: Bitcoin Lightweight Client Privacy using Trusted Execution](https://www.usenix.org/system/files/sec19fall_matetic_prepub.pdf). Sinisa Matetic, Karl Wüst, Moritz Schneider, and Kari Kostiainen, Ghassan Karame, Srdjan Capkun. USENIX '19 Security Symposium.
