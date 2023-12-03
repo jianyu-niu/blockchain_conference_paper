@@ -230,7 +230,7 @@ Charlie Hou, Mingxun Zhou, Yan Ji and Phil Daian, Florian Tramèr, Giulia Fanti,
 
 [Consensus][LOKI: State-Aware Fuzzing Framework for the Implementation of Blockchain Consensus Protocols](). Fuchen Ma, Yuanliang Chen, Meng Ren, Yuanhang Zhou, and Yu Jiang, Ting Chen, Huizhong Li, Jiaguang Sun. NDSS '23.   
 
-[Measurement][BlockScope: Detecting and Investigating Propagated Vulnerabilities in Forked Blockchain Projects](). Xiao Yi, Yuzhou Fang, and Daoyuan Wu, Lingxiao Jiang. NDSS '23.  
+[Security][BlockScope: Detecting and Investigating Propagated Vulnerabilities in Forked Blockchain Projects](https://www.ndss-symposium.org/ndss-paper/blockscope-detecting-and-investigating-propagated-vulnerabilities-in-forked-blockchain-projects/). Xiao Yi, Yuzhou Fang, Daoyuan Wu, and Lingxiao Jiang. NDSS '23.
 
 [Payment Channel][Breaking And Fixing UTXO-Based Virtual Channels](). Lukas Aumayr, Pedro Moreno-Sanchez, Aniket Kate, Matteo Maffei. NDSS '23.  
 
@@ -496,7 +496,9 @@ Carsten Binnig, Arvind Arasu, Donald Kossmann, Ravi Ramamurthy. VLDB'19.
 
 [Smart Contract] [iBatch: saving Ethereum fees via secure and cost-effective batching of smart-contract invocations](https://dl.acm.org/doi/10.1145/3468264.3468568). Yibo Wang, Qi Zhang, Kai Li, Yuzhe Tang, Jiaqi Chen, Xiapu Luo, Ting Chen. ESEC/FSE '21.
 
-[Decentralized Application] [ÐArcher: Detecting On-Chain-Off-Chain Synchronization Bugs in Decentralized Applications](https://arxiv.org/abs/2106.09440). Wuqi Zhang, Lili Wei, Shuqing Li, Yepang Liu, Shing-Chi Cheung. ESEC/FSE '21
+[Decentralized Application] [ÐArcher: Detecting On-Chain-Off-Chain Synchronization Bugs in Decentralized Applications](https://arxiv.org/abs/2106.09440). Wuqi Zhang, Lili Wei, Shuqing Li, Yepang Liu, Shing-Chi Cheung. ESEC/FSE '21.
+
+[Security] [An Empirical Study of Blockchain System Vulnerabilities: Modules, Types, and Patterns](https://dl.acm.org/doi/abs/10.1145/3540250.3549105). Xiao Yi, Daoyuan Wu, Lingxiao Jiang, Yuzhou Fang, Kehuan Zhang, and Wei Zhang. ESEC/FSE '22.
 
 ## ASE
 [Smart Contract] [ContractFuzzer: fuzzing smart contracts for vulnerability detection](https://doi.org/10.1145/3238147.3238177). Bo Jiang, Ye Liu, W. K Chan. ASE '18.
@@ -528,6 +530,8 @@ Wentian Yan, Jianbo Gao, Zhenhao Wu, Yue Li, Zhi Guan, Qingshan Li, Zhong Chen. 
 [Smart Contract] [Park: Accelerating Smart Contract Vulnerability Detection via Parallel-fork Symbolic Execution](https://doi.org/10.1145/3533767.3534395). Peilin Zheng, Zibin Zheng, Xiapu Luo. ISSTA '22
 
 [Smart Contract] [WASAI: Uncovering Vulnerabilities in Wasm Smart Contracts](https://doi.org/10.1145/3533767.3534218). Weimin Chen, Zihan Sun, Haoyu Wang, Xiapu Luo, Haipeng Cai, Lei Wu. ISSTA '22
+
+[Smart Contract] [Beyond “Protected” and “Private”: An Empirical Security Analysis of Custom Function Modifiers in Smart Contracts](https://dl.acm.org/doi/abs/10.1145/3597926.3598125). Yuzhou Fang, Daoyuan Wu, Xiao Yi, Shuai Wang, Yufan Chen, Mengjie Chen, Yang Liu, and Lingxiao Jiang. ISSTA '23
 
 ## POPL
 
