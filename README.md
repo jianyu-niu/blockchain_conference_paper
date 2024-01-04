@@ -348,9 +348,43 @@ Eleftherios Kokoris Kogias; Dahlia Malkhi; Alexander Spiegelman. CCS '20.
 
 [Payment channel] [Sleepy Channels: Bi-directional Payment Channels without Watchtowers](). Lukas Aumayr, Sri AravindaKrishnan Thyagarajan, Giulio Malavolta, Pedro Moreno-Sanchez, Matteo Maffei. CCS '22.
 
-[Transactions] [Watch Your Back: Identifying Cybercrime Financial Relationships in Bitcoin through Back-and-Forth Exploration]().	Gibran Gomez, Pedro Moreno-Sanchez, Juan Caballero. CCS '22.
+[Transactions] [Watch Your Back: Identifying Cybercrime Financial Relationships in Bitcoin through Back-and-Forth Exploration](). Gibran Gomez, Pedro Moreno-Sanchez, Juan Caballero. CCS '22.
 
-[Cross-chain] [zkBridge: Trustless Cross-chain Bridges Made Practical]().	Tiancheng Xie, Jiaheng Zhang, Zerui Cheng, Fan Zhang, Yupeng Zhang, Yongzheng Jia, Dan Boneh, Dawn Song. CCS '22.
+[Cross-chain] [zkBridge: Trustless Cross-chain Bridges Made Practical](). Tiancheng Xie, Jiaheng Zhang, Zerui Cheng, Fan Zhang, Yupeng Zhang, Yongzheng Jia, Dan Boneh, Dawn Song. CCS '22.
+
+[Consensus][Themis: Fast, Strong Order-Fairness in Byzantine Consensus](). Mahimna Kelkar, Soubhik Deb, Sishan Long, Ari Juels, Sreeram Kannan. CCS '23.
+
+[Consensus][Fait Accompli Committee Selection: Improving the Size-Security Tradeoff of Stake-Based Committees](https://dl.acm.org/doi/10.1145/3576915.3623194). Peter Gaži, Aggelos Kiayias, Alexander Russell. CCS '23. 
+
+[Consensus][Uncle Maker: (Time)Stamping Out The Competition in Ethereum](). Aviv Yaish, Gilad Stern, Aviv Zohar. CCS '23. 
+
+[Smart Contract][Fuzz on the Beach: Fuzzing Solana Smart Contracts](). Sven Smolka, Jens-Rene Giesen, Pascal Winkler, Oussama Draissi, Lucas Davi, Ghassan Karame, Klaus Pohl. CCS '23. 
+
+[Governance][How Hard is Takeover in DPoS Blockchains? Understanding the Security of Coin-based Voting Governance]() Chao Li, Balaji Palanisamy, Runhua Xu, Li Duan, Jiqiang Liu, Wei Wang. CCS '23. 
+
+[Mining][Under the Dark: A Systematical Study of Stealthy Mining Pools (Ab)use in the Wild](). Zhenrui Zhang, Geng Hong, Zhuoqun Fu, Jia Zhang, Mingxuan Liu, Chuhan Wang, Jianjun Chen, Baojun Liu, Haixin Duan, Chao Zhang, Min Yang. CCS '23. 
+
+[Transactions][Cybercrime Bitcoin Revenue Estimations: Quantifying the Impact of Methodology and Coverage](). Gibran Gomez, Kevin Van Liebergen, Juan Caballero. CCS '23. 
+
+[Crypto][LedgerLocks: A Security Framework for Blockchain Protocols Based on Adaptor Signatures](). Erkan Tairi, Pedro Moreno-Sanchez, Clara Schneidewind. CCS '23. 
+
+[Consensus][Abraxas: Throughput-Efficient Hybrid Asynchronous Consensus](). Erica Blum, Jonathan Katz, Julian Loss, Kartik Nayak, Simon Ochsenreither. CCS '23. 
+
+[Consensus][ParBFT: Faster Asynchronous BFT Consensus with a Parallel Optimistic Path](). Xiaohai Dai, Bolin Zhang, Hai Jin, Ling Ren. CCS '23.
+
+[Consensus][Towards Practical Sleepy BFT](). Dahlia Malkhi, Atsuki Momose, Ling Ren. CCS '23.
+
+[Transactions][TxPhishScope: Towards Detecting and Understanding Transaction-based Phishing on Ethereum]().Bowen He, Yuan Chen, Zhuo Chen, Xiaohui Hu, Yufeng Hu, Lei Wu, Rui Chang, Haoyu Wang, Yajin Zhou. CCS '23. 
+
+[Defi][Demystifying DeFi MEV Activities in Flashbots Bundle](). Zihao Li, Jianfeng Li, Zheyuan He, Xiapu Luo, Ting Wang, Xiaoze Ni, Wenwu Yang, Xi Chen, Ting Chen. CCS '23. 
+
+[Consensus][CryptoConcurrency: (Almost) Consensusless Asset Transfer with Shared Accounts](). Andrei Tonkikh, Pavel Ponomarev, Petr Kuznetsov,  Yvonne-Anne Pignolet. CCS '23. 
+
+[Security Analysis]Phoenix: Detect and Locate Resilience Issues in Blockchain via Context-Sensitive Chaos](). Fuchen Ma, Yuanliang Chen, Yuanhang Zhou, Jingxuan Sun, Zhuo Su, Yu Jiang, Jiaguang Sun, Huizhong Li. CCS '23. 
+
+[Consensus][Analyzing the Real-World Security of the Algorand Blockchain](). Erica Blum, Derek Leung, Julian Loss, Jonathan Katz, Tal Rabin. CCS '23. 
+
+[Consensus][Interchain Timestamping for Mesh Security](). Ertem Nusret Tas, Runchao Han, David Tse, Mingchao Yu. CCS '23. 
 
 
 ## SOSP
