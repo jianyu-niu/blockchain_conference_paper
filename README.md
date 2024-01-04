@@ -127,6 +127,21 @@ Alexei Zamyatin, Dominik Harz, Joshua Lind, Panayiotis Panayiotou, Arthur Gervai
 
 [Smart Contract][Clockwork Finance: Automated Analysis of Economic Security in Smart Contracts]() Kushal Babel, Philip Daian, Mahimna Kelkar, Ari Juels. IEEE S&P '23.
 
+[Mining][WeRLman: To Tackle Whale (Transactions), Go Deep (RL)](). Roi Bar-Zur, Ameer Abu-Hanna, Ittay Eyal, Aviv Tamar. IEEE S&P '23. 
+
+[Consensus][Bitcoin-Enhanced Proof-of-Stake Security: Possibilities and Impossibilities](). Ertem Nusret Tas, David Tse, Fangyu Gai, Sreeram Kannan, Mohammad Ali Maddah-Ali, Fisher Yu. IEEE S&P '23.
+
+[Channel][BlindHub: Bitcoin-Compatible Privacy-Preserving Payment Channel Hubs Supporting Variable Amounts](). Xianrui Qin, Shimin Pan, Arash Mirzaei, Zhimei Sui, Oguzhan Ersoy, Amin Sakzad, Muhammed Esgin, Joseph.  IEEE S&P '23.
+
+[Consensus][Tyr: Finding Consensus Failure Bugs in Blockchain System with Behaviour Divergent Model](). Yuanliang Chen, Fuchen Ma, Yuanhang Zhou, Yu Jiang, Ting Chen, Jiaguang Sun. IEEE S&P '23. 
+
+[Consensus][Optimistic Fast Confirmation While Tolerating Malicious Majority in Blockchains](). Ruomu Hou, Haifeng Yu. IEEE S&P '23.
+
+[Contracts][Clockwork Finance: Automated Analysis of Economic Security in Smart Contracts](). Kushal Babel, Philip Daian, Mahimna Kelkar, Ari Juels. IEEE S&P '23.
+
+[Cross-chain][Sweep-UC: Swapping Coins Privately](). Lucjan Hanzlik, Julian Loss, Sri AravindaKrishnan Thyagarajan, Benedikt Wagner. IEEE S&P '23.
+
+
 ## USENIX SECURITY
 [Network-security] [Eclipse Attacks on Bitcoin's Peer-to-Peer Network](https://www.usenix.org/system/files/conference/usenixsecurity15/sec15-paper-heilman.pdf). Heilman E, Kendler A, Zohar A, Goldberg S. USENIX '15 Security Symposium.
 
