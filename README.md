@@ -1,4 +1,4 @@
-# Academic Blockchain Papers
+# Academic Blockchain Conference Papers
 A curated blockchain-related academic papers. All papers are sorted based on the conference/journal name and published year.
 Welcome developers or researchers to add more published paper to this list. 
 
@@ -15,17 +15,15 @@ Welcome developers or researchers to add more published paper to this list.
 |              [FC](#fc)              |              [ACM MobiHoc](#mobihoc)              |              [ACM POPL](#popl)              | [ACM SOCC](#socc)    |
 |            [IMC](#imc)              |                                                   |                                             |                      |
 
-
+<!--
 ## Table of Listed Journals
 - [IEEE Transaction on Knowledger and Data Engineering(TKDE)](#tkde)
 - [ACM Computing Surveys (ACM CSUR)](#acmcsur)
 - [ACM Distributed Ledger Technologies: Research and Practice (ACM DLT)](#acmdlt)
 - [IEEE Journal on Selected Areas in Communications](#jsac)
 - [IEEE Transactions on Network Science and Engineering](#tnse)
-
 Key Words: Topics: System Architecture, Consensus(Proof-of-X and BFT), Layer 2 (Off-chain, Payment Networks, Sidechain, Crosschain), Network, Smart Contracts, Application (Trasactions), Cryptograph, Storage (light client); Contents: privacy, security, economics (incentive).
-
-## Conferences
+-->
 
 ## CRYPTO
 [The Bitcoin Backbone Protocol with Chains of Variable Difficulty](https://eprint.iacr.org/2016/1048). Juan A. Garay and Aggelos Kiayias and Nikos Leonardos. Crypto '17.
@@ -808,6 +806,7 @@ Yang Xiao, Ning Zhang, Wenjing Lou and Thomas Hou. INFOCOM'20
 
 [Defi] [A flash(bot) in the pan: measuring maximal extractable value in private pools](https://dl.acm.org/doi/abs/10.1145/3517745.3561448). Ben Weintraub, Christof Ferreira Torres, Cristina Nita-Rotaru, and Radu State. IMC '22.
 
+<!--
 ## Journals
 
 ## TKDE
@@ -826,6 +825,7 @@ Yang Xiao, Ning Zhang, Wenjing Lou and Thomas Hou. INFOCOM'20
 
 ## TNSE
 [Consensus-PoW] [Impact of temporary fork on the evolution of mining pools in blockchain networks: An evolutionary game analysis](https://arxiv.org/pdf/2011.07238.pdf). Canhui Chen, Xu Chen, Jiangshan Yu, Weigang Wu, Di Wu. 2020.
+-->
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
