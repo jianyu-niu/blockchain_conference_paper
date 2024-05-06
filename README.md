@@ -253,6 +253,20 @@ Charlie Hou, Mingxun Zhou, Yan Ji and Phil Daian, Florian Tramèr, Giulia Fanti,
 
 [Payment Channel][He-HTLC: Revisiting Incentives in HTLC]() Sarisht Wadhwa and Jannis Stoeter, Fan Zhang, Kartik Nayak. NDSS '23.   
 
+[Consensus][Separation is Good: A Faster Order-Fairness Byzantine Consensus](). Ke Mu, Bo Yin, Alia Asheralieva, Xuetao Wei. NDSS '24.  
+
+[Smart Contract][Abusing the Ethereum Smart Contract Verification Services for Fun and Profit](). Pengxiang Ma, Ningyu He, Yuhua Huang, Haoyu Wang, Xiapu Luo. NDSS '24.  
+
+[Consensus][Security-Performance Tradeoff in DAG-based Proof-of-Work Blockchain Protocols](). Shichen Wu, Puwen Wei, Ren Zhang, Bowen Jiang. NDSS '24.  
+
+[Consensus][Proof of Backhaul: Trustfree Measurement of Broadband Bandwidth](). Peiyao Sheng, Nikita Yadav, Vishal Sevani, Arun Babu, Anand Svr), Himanshu Tyagi, Pramod Viswanath. NDSS '24.  
+
+[System][A Two-Layer Blockchain Sharding Protocol Leveraging Safety and Liveness for Enhanced Performance](). Yibin Xu, Jingyi Zheng, Boris Düdder, Tijs Slaats, Yongluan Zhou. NDSS '24.  
+
+[Consensus][Front-running Attack in Sharded Blockchains and Fair Cross-shard Consensus](). Jianting Zhang, Wuhui Chen, Sifu Luo, Tiantian Gong, Zicong Hong, Aniket Kate. NDSS '24.  
+
+
+
 ## CCS
 [Consensus-PoW-Mining] [Double-Spending Fast Payments in Bitcoin](https://www.eecis.udel.edu/~ruizhang/CISC859/S17/Paper/p9.pdf). Karame, Ghassan O. and Androulaki, Elli and Capkun, Srdjan. CCS '12.
 
