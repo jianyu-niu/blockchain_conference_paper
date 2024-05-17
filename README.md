@@ -561,6 +561,15 @@ Carsten Binnig, Arvind Arasu, Donald Kossmann, Ravi Ramamurthy. VLDB'19.
 
 [Security] [An Empirical Study of Blockchain System Vulnerabilities: Modules, Types, and Patterns](https://dl.acm.org/doi/abs/10.1145/3540250.3549105). Xiao Yi, Daoyuan Wu, Lingxiao Jiang, Yuzhou Fang, Kehuan Zhang, and Wei Zhang. ESEC/FSE '22.
 
+[Smart Contract] [Static Application Security Testing (SAST) Tools for Smart Contracts: How Far Are We?)](https://arxiv.org/pdf/2404.18186). Kaixuan Li, Yue Xue, Sen Chen, Han Liu, Kairan Sun, Ming Hu, Haijun Wang, Yang Liu, Yixiang Chen. ESEC/FSE '24.
+
+[Smart Contract] [Demystifying Invariant Effectiveness for Securing Smart Contracts](https://arxiv.org/abs/2404.14580). Zhiyang Chen, Ye Liu, Sidi Mohamed Beillahi, Yi Li, Fan Long. ESEC/FSE '24.
+
+[Smart Contract] [Efficiently Detecting Reentrancy Vulnerabilities in Complex Smart Contracts](https://arxiv.org/abs/2403.11254). Zexu Wang, Jiachi Chen, Yanlin Wang, Yu Zhang, Weizhe Zhang, Zibin Zheng. ESEC/FSE '24.
+
+
+
+
 ## ASE
 [Smart Contract] [ContractFuzzer: fuzzing smart contracts for vulnerability detection](https://doi.org/10.1145/3238147.3238177). Bo Jiang, Ye Liu, W. K Chan. ASE '18.
 
