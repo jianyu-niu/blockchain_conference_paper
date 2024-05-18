@@ -5,15 +5,15 @@ Welcome developers or researchers to add more published papers to this list.
 ## Table of Listed Conferences
 |     Security & Privacy & Crypto     |               Networking & Database               | Software Engineering & Programming Language | System Architecture  |
 | :---------------------------------: | :-----------------------------------------------: | :-----------------------------------------: | :------------------: |
-|          [CRYPTO](#crypto)          | [SIGMETRICS & Performance](#sigmetricperformance) |                [ICSE](#icse)                | [EuroSys](#eurosys)  |
-|       [EUROCRYPT](#eurocrypt)       |                   [ICDE](#icde)                   |            [ESEC/FSE](#esecfse)             |  [ACM SOSP](#sosp)   |
-| [USENIX Security](#usenix-security) |                   [VLDB](#vldb)                   |                 [ASE](#ase)                 |  [EuroS&P](#eurosp)  |
-|           [IEEE S&P](#sp)           |               [ACM SIGMOD](#sigmod)               |              [ACM PLDI](#pldi)              |    [SRDS](#srds)     |
-|            [NDSS](#ndss)            |             [IEEE INFOCOM](#infocom)              |            [ACM OOPSLA](#oopsla)            |  [ACM PODC](#podc)   |
-|           [ACM CCS](#ccs)           |                   [NSDI](#nsdi)                   |                [ACM EC](#ec)                | [IEEE IPDPS](#ipdps) |
-|             [IEEE DSN](#dsn)        |               [ACM CoNEXT](#conext)               |               [ISSTA](#issta)               |  [IEEE ICDCS](#icdcs)|
-|              [FC](#fc)              |              [ACM MobiHoc](#mobihoc)              |              [ACM POPL](#popl)              | [ACM SOCC](#socc)    |
-|            [IMC](#imc)              |                                                   |                                             |                      |
+|          [CRYPTO](#crypto)          | [SIGMETRICS & Performance](#sigmetricperformance) |                [ICSE](#icse)                |  [ACM SOSP](#sosp)   |
+|       [EUROCRYPT](#eurocrypt)       |                   [ICDE](#icde)                   |            [ESEC/FSE](#esecfse)             |  [USENIX OSDI](#osdi) |
+| [USENIX Security](#usenix-security) |                   [VLDB](#vldb)                   |                 [ASE](#ase)                 |  [EuroSys](#eurosys) |
+|           [IEEE S&P](#sp)           |               [ACM SIGMOD](#sigmod)               |              [ACM PLDI](#pldi)              |  [EuroS&P](#eurosp)  |
+|            [NDSS](#ndss)            |             [IEEE INFOCOM](#infocom)              |            [ACM OOPSLA](#oopsla)            |  [SRDS](#srds)       |
+|           [ACM CCS](#ccs)           |                   [NSDI](#nsdi)                   |                [ACM EC](#ec)                |  [ACM PODC](#podc)   |
+|             [IEEE DSN](#dsn)        |               [ACM CoNEXT](#conext)               |               [ISSTA](#issta)               |  [IEEE IPDPS](#ipdps) |
+|              [FC](#fc)              |              [ACM MobiHoc](#mobihoc)              |              [ACM POPL](#popl)              |  [IEEE ICDCS](#icdcs) |
+|            [IMC](#imc)              |                                                   |                                             |  [ACM SOCC](#socc)   |
 
 <!--
 ## Table of Listed Journals
