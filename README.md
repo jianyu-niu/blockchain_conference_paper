@@ -559,7 +559,6 @@ Carsten Binnig, Arvind Arasu, Donald Kossmann, Ravi Ramamurthy. VLDB'19.
 
 [Smart Contract] [GPTScan: Detecting Logic Vulnerabilities in Smart Contracts by Combining GPT with Program Analysis](https://arxiv.org/pdf/2308.03314). Yuqiang Sun, Daoyuan Wu, Yue Xue, Han Liu, Haijun Wang, Zhengzi Xu, Xiaofei Xie, Yang Liu. ICSE '2024
 
-
 ## ESEC/FSE
 
 [Smart Contract] [Towards automated verification of smart contract fairness](https://dl.acm.org/doi/10.1145/3368089.3409740). Ye Liu, Yi Li, Shang-Wei Lin, Rong Zhao. ESEC/FSE '20.
@@ -579,9 +578,6 @@ Carsten Binnig, Arvind Arasu, Donald Kossmann, Ravi Ramamurthy. VLDB'19.
 [Smart Contract] [Demystifying Invariant Effectiveness for Securing Smart Contracts](https://arxiv.org/abs/2404.14580). Zhiyang Chen, Ye Liu, Sidi Mohamed Beillahi, Yi Li, Fan Long. ESEC/FSE '24.
 
 [Smart Contract] [Efficiently Detecting Reentrancy Vulnerabilities in Complex Smart Contracts](https://arxiv.org/abs/2403.11254). Zexu Wang, Jiachi Chen, Yanlin Wang, Yu Zhang, Weizhe Zhang, Zibin Zheng. ESEC/FSE '24.
-
-
-
 
 ## ASE
 [Smart Contract] [ContractFuzzer: fuzzing smart contracts for vulnerability detection](https://doi.org/10.1145/3238147.3238177). Bo Jiang, Ye Liu, W. K Chan. ASE '18.
