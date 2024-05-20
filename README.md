@@ -547,6 +547,18 @@ Carsten Binnig, Arvind Arasu, Donald Kossmann, Ravi Ramamurthy. VLDB'19.
 
 [Application] [Utilizing Parallelism in Smart Contracts on Decentralized Blockchains by Taming Application-Inherent Conflicts](https://dl.acm.org/doi/10.1145/3510003.3510086). Péter Garamvölgyi, Yuxi Liu, Dong Zhou, Fan Long, Ming Wu.  ICSE '2022
 
+[Smart Contract] [FlashSyn: Flash Loan Attack Synthesis via Counter Example Driven Approximation](https://arxiv.org/pdf/2206.10708.pdf). Zhiyang Chen, Sidi Mohamed Beillahi, Fan Long. ICSE '2024
+
+[Smart Contract] [SCVHunter: Smart Contract Vulnerability Detection Based on Heterogeneous Graph Attention Network](https://dl.acm.org/doi/abs/10.1145/3597503.3639213). Feng Luo, Ruijie Luo, Ting Chen, Ao Qiao, Zheyuan He, Shuwei Song, Yu Jiang, Sixing Li. ICSE '2024
+
+[Smart Contract] [Are We There Yet? Unraveling the State-of-the-Art Smart Contract Fuzzers](https://arxiv.org/pdf/2402.02973.pdf). Shuohan Wu, Zihao Li, Luyi Yan, Weimin Chen, Muhui Jiang, Chenxu Wang, Xiapu Luo, Hao Zhou. ICSE '2024
+
+[Smart Contract] [Smart Contract and DeFi Security Tools: Do They Meet the Needs of Practitioners?](https://arxiv.org/pdf/2304.02981). Stefanos Chaliasos, Marcos Antonios Charalambous, Liyi Zhou, Rafaila Galanopoulou, Arthur Gervais, Dimitris Mitropoulos, Ben Livshits. ICSE '2024
+
+[Smart Contract] [Safeguarding DeFi Smart Contracts against Oracle Deviations](https://arxiv.org/pdf/2401.06044). Xun Deng, Sidi Mohamed Beillahi, Cyrus Minwalla, Han Du, Andreas Veneris, Fan Long. ICSE '2024
+
+[Smart Contract] [GPTScan: Detecting Logic Vulnerabilities in Smart Contracts by Combining GPT with Program Analysis](https://arxiv.org/pdf/2308.03314). Yuqiang Sun, Daoyuan Wu, Yue Xue, Han Liu, Haijun Wang, Zhengzi Xu, Xiaofei Xie, Yang Liu. ICSE '2024
+
 ## ESEC/FSE
 
 [Smart Contract] [Towards automated verification of smart contract fairness](https://dl.acm.org/doi/10.1145/3368089.3409740). Ye Liu, Yi Li, Shang-Wei Lin, Rong Zhao. ESEC/FSE '20.
@@ -560,6 +572,12 @@ Carsten Binnig, Arvind Arasu, Donald Kossmann, Ravi Ramamurthy. VLDB'19.
 [Decentralized Application] [ÐArcher: Detecting On-Chain-Off-Chain Synchronization Bugs in Decentralized Applications](https://arxiv.org/abs/2106.09440). Wuqi Zhang, Lili Wei, Shuqing Li, Yepang Liu, Shing-Chi Cheung. ESEC/FSE '21.
 
 [Security] [An Empirical Study of Blockchain System Vulnerabilities: Modules, Types, and Patterns](https://dl.acm.org/doi/abs/10.1145/3540250.3549105). Xiao Yi, Daoyuan Wu, Lingxiao Jiang, Yuzhou Fang, Kehuan Zhang, and Wei Zhang. ESEC/FSE '22.
+
+[Smart Contract] [Static Application Security Testing (SAST) Tools for Smart Contracts: How Far Are We?)](https://arxiv.org/pdf/2404.18186). Kaixuan Li, Yue Xue, Sen Chen, Han Liu, Kairan Sun, Ming Hu, Haijun Wang, Yang Liu, Yixiang Chen. ESEC/FSE '24.
+
+[Smart Contract] [Demystifying Invariant Effectiveness for Securing Smart Contracts](https://arxiv.org/abs/2404.14580). Zhiyang Chen, Ye Liu, Sidi Mohamed Beillahi, Yi Li, Fan Long. ESEC/FSE '24.
+
+[Smart Contract] [Efficiently Detecting Reentrancy Vulnerabilities in Complex Smart Contracts](https://arxiv.org/abs/2403.11254). Zexu Wang, Jiachi Chen, Yanlin Wang, Yu Zhang, Weizhe Zhang, Zibin Zheng. ESEC/FSE '24.
 
 ## ASE
 [Smart Contract] [ContractFuzzer: fuzzing smart contracts for vulnerability detection](https://doi.org/10.1145/3238147.3238177). Bo Jiang, Ye Liu, W. K Chan. ASE '18.
