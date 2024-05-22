@@ -139,6 +139,30 @@ Alexei Zamyatin, Dominik Harz, Joshua Lind, Panayiotis Panayiotou, Arthur Gervai
 
 [Cross-chain][Sweep-UC: Swapping Coins Privately](). Lucjan Hanzlik, Julian Loss, Sri AravindaKrishnan Thyagarajan, Benedikt Wagner. IEEE S&P '23.
 
+[Crypto][Efficient Zero-Knowledge Arguments For Paillier Cryptosystem Paillier](). Borui Gong, Wang Fat Lau, Man Ho Au, Rupeng Yang, Haiyang Xue, Lichun Li. IEEE S&P '24.
+
+[Consensus][Chronos: Finding Timeout Bugs in Practical Distributed Systems by Deep-Priority Fuzzing with Transient Delay](). Yuanliang Chen, Fuchen Ma, Yuanhang Zhou, Ming Gu, Qing Liao, Yu Jiang. IEEE S&P '24.
+
+[Execution][Specular: Towards Secure, Trust-minimized Optimistic Blockchain Execution](). Zhe Ye, Ujval Misra, Jiajun Cheng, Andy Zhou, Dawn Song. IEEE S&P '24.
+
+[Application][Conning the Crypto Conman: End-to-End Analysis of Cryptocurrency-based Technical Support Scams](). Bhupendra Acharya, Muhammad Saad, Antonio Emanuele Cinà, Lea Schönherr, Hoang Dai Nguyen, Adam Oest, Phani Vadrevu, Thorsten Holz. IEEE S&P '24.
+
+[Storage][NURGLE: Exacerbating Resource Consumption in Blockchain State Storage via MPT Manipulation](). Zheyuan He, Zihao Li, Ao Qiao, Xiapu Luo, Xiaosong Zhang, Ting Chen, Shuwei Song, Dijun Liu, Weina Niu. IEEE S&P '24.
+
+[Smart Contracts][Nyx: Detecting Exploitable Front-Running Vulnerabilities in Smart Contracts](). Wuqi Zhang, Zhuo Zhang, Qingkai Shi, Lu Liu, Lili Wei, Yepang Liu, Xiangyu Zhang, Shing-Chi Cheung. IEEE S&P '24.
+
+[Consensus][Larger-scale Nakamoto-style Blockchains Don't Necessarily Offer Better Security](). Jannik Albrecht, Sebastien Andreina, Frederik Armknecht, Ghassan Karame, Giorgia Marson, Julian Willingmann. IEEE S&P '24.
+
+[Smart Contracts][Large-Scale Study of Vulnerability Scanners for Ethereum Smart Contracts](). Christoph Sendner, Lukas Petzi, Jasper Stang, Alexandra Dmitrienko. IEEE S&P '24.
+
+[Crypto][SwiftRange: A Short and Efficient Zero-Knowledge Range Argument For Confidential Transactions and More](). Nan Wang, Sid Chi-Kin Chau, DongXi Liu, Nan Wang, Sid Chi-Kin Chau. IEEE S&P '24.
+
+[Crypto][Certifying Zero-Knowledge Circuits with Refinement Types](). Junrui Liu, Ian Kretz, Hanzhi Liu, Bryan Tan, Jonathan Wang, Yi Sun, Luke Pearson, Anders Miltner, IÅŸÄ±l Dillig, Yu Feng. IEEE S&P '24.
+
+[Crypto][Ligetron: Lightweight Scalable End-to-End Zero-Knowledge Proofs. Post-Quantum ZK-SNARKs on a Browser](). Carmit Hazay, Muthuramakrishnan Venkitasubramaniam, Ruihan Wang. IEEE S&P '24.
+
+[Crypto][Pianist: Scalable zkRollups via Fully Distributed Zero-Knowledge](). Tianyi Liu, Tiancheng Xie, Jiaheng Zhang, Dawn Song, Yupeng Zhang, Tianyi Liu, Yupeng Zhang. IEEE S&P '24.
+
 
 ## USENIX SECURITY
 [Network-security] [Eclipse Attacks on Bitcoin's Peer-to-Peer Network](https://www.usenix.org/system/files/conference/usenixsecurity15/sec15-paper-heilman.pdf). Heilman E, Kendler A, Zohar A, Goldberg S. USENIX '15 Security Symposium.
