@@ -852,6 +852,10 @@ Yang Xiao, Ning Zhang, Wenjing Lou and Thomas Hou. INFOCOM'20
 
 [Transaction-Prioritization-MEV] [Dissecting Bitcoin and Ethereum Transactions: On the Lack of Transaction Contention and Prioritization Transparency in Blockchains](https://fc23.ifca.ai/preproceedings/8.pdf). Johnnatan Messias, Vabuk Pahari, Balakrishnan Chandrasekaran, Krishna P. Gummadi, and Patrick Loiseau. FC' 23.
 
+[Scalability and Security] [Kadabra: Adapting Kademlia for the Decentralized Web](https://fc23.ifca.ai/preproceedings/130.pdf). Yunqi Zhang and Shaileshh Bojja Venkatakrishnan. FC' 23.
+
+[Scalability and Security] [Constellation: Peer-to-Peer Overlays for Federated Byzantine Agreement Systems](https://fc25.ifca.ai/preproceedings/280.pdf). Giuliano Losa, Yifan Mao, Shaileshh Bojja Venkatakrishnan, and Yunqi Zhang. FC' 25.
+
 [FC Accepted Paper Link:] [FC'15](https://fc15.ifca.ai/schedule.html), [FC'16](https://fc16.ifca.ai/program.html), [FC'17](https://fc17.ifca.ai/program.html), [FC'18](https://fc18.ifca.ai/program.html), [FC'19](https://fc19.ifca.ai/program.html). [FC'20](https://fc20.ifca.ai/), [FC'21](https://fc21.ifca.ai/), [FC'22](https://fc22.ifca.ai/program.html), [FC'23](https://fc23.ifca.ai/program.html).
 
 ## EC
