@@ -866,6 +866,8 @@ Yang Xiao, Ning Zhang, Wenjing Lou and Thomas Hou. INFOCOM'20
 
 [Defi] [A flash(bot) in the pan: measuring maximal extractable value in private pools](https://dl.acm.org/doi/abs/10.1145/3517745.3561448). Ben Weintraub, Christof Ferreira Torres, Cristina Nita-Rotaru, and Radu State. IMC '22.
 
+[Security] [Panning for gold.eth: Understanding and Analyzing ENS Domain Dropcatching](https://doi.org/10.1145/3646547.3689009). Muhammad Muzammil, Zhengyu Wu, Aruna Balasubramanian, Nick Nikiforakis. IMC'24.
+
 <!--
 ## Journals
 
