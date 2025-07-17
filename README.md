@@ -13,7 +13,7 @@ Welcome developers or researchers to add more published papers to this list.
 |           [ACM CCS](#ccs)           |                   [NSDI](#nsdi)                   |                [ACM EC](#ec)                |  [ACM PODC](#podc)   |
 |             [IEEE DSN](#dsn)        |               [ACM CoNEXT](#conext)               |               [ISSTA](#issta)               |  [IEEE IPDPS](#ipdps) |
 |              [FC](#fc)              |              [ACM MobiHoc](#mobihoc)              |              [ACM POPL](#popl)              |  [IEEE ICDCS](#icdcs) |
-|            [IMC](#imc)              |                                                   |                                             |  [ACM SOCC](#socc)   |
+|            [IMC](#imc)              |                                                   |              [APACSCI ABER](#aber)          |  [ACM SOCC](#socc)   |
 
 <!--
 ## Table of Listed Journals
@@ -641,6 +641,10 @@ Wentian Yan, Jianbo Gao, Zhenhao Wu, Yue Li, Zhi Guan, Qingshan Li, Zhong Chen. 
 [Smart Contract] [Online detection of effectively callback free objects with applications to smart contracts](https://dl.acm.org/doi/10.1145/3158136). SHELLY GROSSMAN, ITTAI ABRAHAM, GUY GOLAN-GUETA, YAN MICHALEVSKY, NOAM RINETZKY, MOOLY SAGIV, YONI ZOHAR. POPL '18.
 
 [Smart Contract] [SolType: Refinement Types for Arithmetic Overflow in Solidity](https://dl.acm.org/doi/abs/10.1145/3498665?af=R). BRYAN TAN, BENJAMIN MARIANO, SHUVENDU K. LAHIRI, ISIL DILLIG, YU FENG. POPL '22.
+
+## ABER
+
+[Application] [Blockchain-based cyber-security proposal in commerce mobile platforms for social and sustainability businesses](https://doi.org/10.54517/m.v5i1.2415). SAIFALMAJD MOHAMMED HASSAN ALMASSRI, KHALID HUSSAIN, HALAWATI BINTI ABD JALIL SAFUAN, BASHEER RISKHAN. ABER '24.
 
 ## IPDPS
 [Consensus][G-PBFT: A Location-based and Scalable Consensus Protocol for IoT-Blockchain Applications](http://www4.comp.polyu.edu.hk/~csbxiao/paper/2020/IPDPS_GPBFT_2020.pdf). LapHou Lao, Xiaohai Dai, Bin Xiao, and Songtao Guo. IPDPS '20.
