@@ -14,6 +14,7 @@ Welcome developers or researchers to add more published papers to this list.
 |             [IEEE DSN](#dsn)        |               [ACM CoNEXT](#conext)               |               [ISSTA](#issta)               |  [IEEE IPDPS](#ipdps) |
 |              [FC](#fc)              |              [ACM MobiHoc](#mobihoc)              |              [ACM POPL](#popl)              |  [IEEE ICDCS](#icdcs) |
 |            [IMC](#imc)              |                                                   |                                             |  [ACM SOCC](#socc)   |
+|            [ACM WWW](#www)          |                                                   |                                             |  [ACM SOCC](#socc)   |
 
 <!--
 ## Table of Listed Journals
@@ -867,6 +868,9 @@ Yang Xiao, Ning Zhang, Wenjing Lou and Thomas Hou. INFOCOM'20
 [Defi] [A flash(bot) in the pan: measuring maximal extractable value in private pools](https://dl.acm.org/doi/abs/10.1145/3517745.3561448). Ben Weintraub, Christof Ferreira Torres, Cristina Nita-Rotaru, and Radu State. IMC '22.
 
 [Security] [Panning for gold.eth: Understanding and Analyzing ENS Domain Dropcatching](https://doi.org/10.1145/3646547.3689009). Muhammad Muzammil, Zhengyu Wu, Aruna Balasubramanian, Nick Nikiforakis. IMC'24.
+
+## WWW
+[Security] [The Poorest Man in Babylon: A Longitudinal Study of Cryptocurrency Investment Scams](https://doi.org/10.1145/3696410.3714588). Muhammad Muzammil, Abisheka Pitumpe, Xigao Li, Amir Rahmati, Nick Nikiforakis. WWW'25
 
 <!--
 ## Journals
