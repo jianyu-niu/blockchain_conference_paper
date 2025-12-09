@@ -802,6 +802,8 @@ Yang Xiao, Ning Zhang, Wenjing Lou and Thomas Hou. INFOCOM'20
 ## MobiHoc
 [Consensus-sharding] [User Distributions in Shard-based Blockchain Network: Queueing Modeling, Game Analysis, and Protocol Design](https://dl.acm.org/doi/abs/10.1145/3466772.3467051). Canhui Chen, Qian Ma, Xu Chen, Jianwei Huang. MobiHoc '21
 
+[Scalability and Security] [Honeybee: Byzantine Tolerant Decentralized Peer Sampling with Verifiable Random Walks](https://dl.acm.org/doi/10.1145/3704413.3764424). Yunqi Zhang and Shaileshh Bojja Venkatakrishnan. MobiHoc '25
+
 ## PLDI
 [Smart Contract][Behavioral Simulation for Smart Contracts](). Sidi Mohamed Beillahi, Gabriela Ciocarlie, Michael Emmi, Constantin Enea. PLDI '2020
 
