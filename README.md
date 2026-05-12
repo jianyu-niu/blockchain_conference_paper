@@ -584,6 +584,12 @@ Carsten Binnig, Arvind Arasu, Donald Kossmann, Ravi Ramamurthy. VLDB'19.
 
 [Smart Contract] [GPTScan: Detecting Logic Vulnerabilities in Smart Contracts by Combining GPT with Program Analysis](https://arxiv.org/pdf/2308.03314). Yuqiang Sun, Daoyuan Wu, Yue Xue, Han Liu, Haijun Wang, Zhengzi Xu, Xiaofei Xie, Yang Liu. ICSE '2024
 
+[Smart Contract] [Enforcing Control Flow Integrity on DeFi Smart Contracts](https://arxiv.org/pdf/2504.05509). Zhiyang Chen, Sidi Mohamed Beillahi, Pasha Barahimi, Cyrus Minwalla, Han Du, Andreas Veneris, Fan Long. ICSE '2026
+
+[Smart Contract] [FORGE: An LLM-driven Framework for Large-Scale Smart Contract Vulnerability Dataset Construction](https://arxiv.org/pdf/2506.18795). Jiachi Chen, Yiming Shen, Jiashuo Zhang, Zihao Li, John Grundy, Zhenzhe Shao, Yanlin Wang, Jiashui Wang, Ting Chen, Zibin Zheng. ICSE '2026
+
+[Smart Contract] [One Signature, Multiple Payments: Demystifying and Detecting Signature Replay Vulnerabilities in Smart Contracts](https://arxiv.org/pdf/2511.09134). Zexu Wang, Jiachi Chen, Zewei Lin, Wenqing Chen, Kaiwen Ning, Jianxing Yu, Yuming Feng, Yu Zhang, Weizhe Zhang, Zibin Zheng. ICSE '2026
+
 ## ESEC/FSE
 
 [Smart Contract] [Towards automated verification of smart contract fairness](https://dl.acm.org/doi/10.1145/3368089.3409740). Ye Liu, Yi Li, Shang-Wei Lin, Rong Zhao. ESEC/FSE '20.
