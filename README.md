@@ -14,7 +14,7 @@ Welcome developers or researchers to add more published papers to this list.
 |             [IEEE DSN](#dsn)        |               [ACM CoNEXT](#conext)               |               [ISSTA](#issta)               |  [IEEE IPDPS](#ipdps) |
 |              [FC](#fc)              |              [ACM MobiHoc](#mobihoc)              |              [ACM POPL](#popl)              |  [IEEE ICDCS](#icdcs) |
 |            [IMC](#imc)              |                                                   |                                             |  [ACM SOCC](#socc)   |
-|            [ACM WWW](#www)          |                                                   |                                             |  [ACM SOCC](#socc)   |
+|            [ACM WWW](#www)          |                                                   |                                             |     |
 
 <!--
 ## Table of Listed Journals
